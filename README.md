@@ -1,4 +1,7 @@
-jan_walter_org
-==============
+Jan Walter's Blog
+=================
 
-Jekyll based web page for www.janwalter.org
+This is the Jekyll source for www.janwalter.org.
+
+It's based on Scott Chacons Blog.
+
