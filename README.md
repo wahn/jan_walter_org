@@ -9,3 +9,7 @@ but soon realized that I could start from running:
 
     jekyll new jan_walter_org
 
+Based on [a
+tutorial][https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial]
+I decided to use some of [Bootstrap's many
+components][http://getbootstrap.com/getting-started/#examples].
