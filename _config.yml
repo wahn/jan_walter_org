@@ -1,3 +1,5 @@
 name: JanWalter.org
 markdown: redcarpet
 pygments: true
+timezone: Europe/Berlin
+encoding: UTF-8
