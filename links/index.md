@@ -10,3 +10,5 @@ Links
 * [Jekyll](http://jekyllrb.com)
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Bootstrap](http://getbootstrap.com)
+* Available [Pygments](http://pygments.org/docs/lexers) lexers (search
+  for 'short names')
