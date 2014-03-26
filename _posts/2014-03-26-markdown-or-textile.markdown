@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown or Textile?"
 date:   2014-03-26 12:58:38
-categories: markdown textile
+categories: jekyll markdown textile
 ---
 
 One of the decisions you have to make for your [posts][posts] is about
