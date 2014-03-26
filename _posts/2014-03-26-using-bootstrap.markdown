@@ -8,8 +8,8 @@ categories: jekyll bootstrap
 The simplest way to get started with [Jekyll][jekyll] is to use the
 following shell command:
 
-{% highlight Shell %}
-jekyll new jan\_walter\_org
+{% highlight tcsh %}
+jekyll new jan_walter_org
 {% endhighlight %}
 
 You should edit some of the resulting files:
