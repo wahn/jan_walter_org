@@ -20,14 +20,16 @@ You should edit some of the resulting files:
 
 Changing the default values I ended up with this:
 
-<img src="/assets/jekyll_jan_walter_org_001.png" alt="Version 1" height="320"/>
+<img src="/assets/jekyll_jan_walter_org_001.png" alt="Version 1"
+height="320" class="img-thumbnail"/>
 
 After reading the [Jekyll][jekyll] documentation and searching for
 some additional tutorials I found a [tutorial][tutorial] by __Andrew
 Munsell__ which made me use some of [Bootstrap's][bootstrap]
 [components][getting-started].
 
-<img src="/assets/jekyll_jan_walter_org_002.png" alt="Version 2" height="320"/>
+<img src="/assets/jekyll_jan_walter_org_002.png" alt="Version 2"
+height="320" class="img-thumbnail"/>
 
 Currently the __About__ and __Contact__ entries do nothing.
 
