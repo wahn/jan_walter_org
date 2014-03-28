@@ -32,6 +32,58 @@ fine now:
 <img src="/assets/bubbles_luxrender.png" alt="Rendered with Luxrender"
 width="650" class="img-thumbnail"/>
 
+To improve the image above I added a couple of things (by hand for
+now). First, the part where both bubbles overlap in pixel space is too
+dark. This can be improved by raising the __ray depth__ (which wasn't
+specified at all in the above example):
+
+{% highlight tcsh %}
+...
+SurfaceIntegrator "bidirectional"
+	"integer eyedepth" [16]
+	"integer lightdepth" [16]
+	"integer lightraycount" [1]
+	"string lightpathstrategy" ["auto"]
+	"string lightstrategy" ["auto"]
+WorldBegin
+...
+{% endhighlight %}
+
+Similar to the __Cycles__ node graph I use some noise to perturb the
+__thinfilm__ nano meter setting:
+
+{% highlight tcsh %}
+...
+Texture "Material.002::Distorted Noise Texture" "float" "blender_distortednoise"
+	"string noisebasis" ["original_perlin"]
+	"string type" ["original_perlin"]
+	"float noisesize" [0.25]
+	"float distamount" [0.37]
+	"float nabla" [0.025]
+	"float bright" [1.0]
+	"float contrast" [1.0]
+
+Texture "Material.002::Scale" "float" "scale"
+	"texture tex1" ["Material.002::Distorted Noise Texture"]
+	"float tex2" [384.0] # 2 * 192
+
+MakeNamedMaterial "Material"
+  "string type" [ "glass" ]
+	"bool architectural" ["false"]
+  "float index" [ 1.33 ]
+  "float filmindex" [ 1.33 ]
+  "float film" ["Material.002::Scale"] # [ 192.0 ]
+  "color Kr" [ 0.8 0.8 0.8 ]
+  "color Kt" [ 1.0 1.0 1.0 ]
+...
+{% endhighlight %}
+
+That make's it look a bit more like the __Cycles__ counterpart:
+
+<img src="/assets/bubbles_luxrender_noise_base_film_nano.png"
+alt="Noise based film nano variations" width="650"
+class="img-thumbnail"/>
+
 I have problems using the same bubble model with __Arnold__ using the
 __standard__ shader, because I end up with internal reflections and
 refractions, but I will post an update in case I find a solution.
