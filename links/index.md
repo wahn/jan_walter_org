@@ -30,3 +30,7 @@ Links
     - [Maxwell](http://www.maxwellrender.com)
 
     - [Radiance](http://radsite.lbl.gov/radiance)
+
+        + [Book](http://radsite.lbl.gov/radiance/book/index.html)
+
+        + [Radsite](http://www.radiance-online.org/)
