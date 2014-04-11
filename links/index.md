@@ -29,6 +29,8 @@ Links
 
     - [Maxwell](http://www.maxwellrender.com)
 
+    - [Povray](http://www.povray.org)
+
     - [Radiance](http://radsite.lbl.gov/radiance)
 
         + [Book](http://radsite.lbl.gov/radiance/book/index.html)
