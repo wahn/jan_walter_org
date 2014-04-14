@@ -25,6 +25,10 @@ Links
 
     - [Cycles](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles)
 
+        + [Sky Texture node](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles/Nodes/Textures#Sky_Texture)
+
+        + [Sun Position Extension](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
+
     - [Luxrender](http://www.luxrender.net/en_GB/index)
 
     - [Maxwell](http://www.maxwellrender.com)
@@ -36,3 +40,7 @@ Links
         + [Book](http://radsite.lbl.gov/radiance/book/index.html)
 
         + [Radsite](http://www.radiance-online.org/)
+
+* __Others__
+
+    - [Blender](http://www.blender.org)
