@@ -25,6 +25,16 @@ Links
 
     - [Arnold](http://www.solidangle.com)
 
+        + [aaPhysicalSky](https://bitbucket.org/amaanakram/aaphysicalsky/overview)
+
+        + [alShaders](https://bitbucket.org/anderslanglands/alshaders/wiki/Home)
+
+        + [binary alchemy](http://binaryalchemy.de/)
+
+        + [kettle](https://bitbucket.org/Kettle/kettle_uber/wiki/Home)
+
+        + [Oblique FX](http://s3aws.obliquefx.com/public/shaders/index.html)
+
     - [Cycles](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles)
 
         + [Sky Texture node](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles/Nodes/Textures#Sky_Texture)
