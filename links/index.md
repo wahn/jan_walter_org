@@ -25,6 +25,8 @@ Links
 
     - [Arnold](http://www.solidangle.com)
 
+        + [Removing Noise Workflow](https://support.solidangle.com/display/mayatut/Removing+Noise+Workflow)
+
         + [aaPhysicalSky](https://bitbucket.org/amaanakram/aaphysicalsky/overview)
 
         + [alShaders](https://bitbucket.org/anderslanglands/alshaders/wiki/Home)
