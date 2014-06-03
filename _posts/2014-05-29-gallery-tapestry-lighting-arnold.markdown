@@ -116,7 +116,7 @@ images__ in 2000x2000 resolution with different seed values
 images before scaling the final image down to 500x500. Here is the
 relevant part of a __Makefile__ to achieve this:
 
-{% highlight tcsh %}
+{% highlight basemake %}
 ...
 # art_gallery_04
 
