@@ -21,11 +21,13 @@ Links
     - Available [Pygments](http://pygments.org/docs/lexers) lexers (search
   for 'short names')
 
-* __Renderer__
+* __Renderer__ ([forum](http://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/mayatut/Removing+Noise+Workflow)
+
+        + [Options parameters](https://support.solidangle.com/display/NodeRef/options)
 
         + [aaPhysicalSky](https://bitbucket.org/amaanakram/aaphysicalsky/overview)
 
@@ -63,6 +65,10 @@ Links
 
         + [Radsite](http://www.radiance-online.org/)
 
+    - [RenderMan](http://renderman.pixar.com/view/about-renderman)
+
 * __Others__
 
     - [Blender](http://www.blender.org)
+
+    - [OpenEXR](http://www.openexr.org)
