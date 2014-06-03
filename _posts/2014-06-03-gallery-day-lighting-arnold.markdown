@@ -128,7 +128,7 @@ __standard__ shader node, e.g.:
 standard
 {
  name ...
- emission 0 # 1                                                                                                
+ emission 0 # 1
  emission_color 1 1 1
  ...
 }
@@ -206,7 +206,8 @@ path. In this case a value of two is enough to make the light bounce
 off the floor (first bounce) and off the next object the reflected
 rays hit (second bounce). The parameter __GI\_diffuse\_samples__ helps
 to reduce noise in the __indirect diffuse__ buffer, see [noise
-workflow][noise-workflow] and other [options parameters].
+workflow][noise-workflow] and other [options
+parameters][options-parameters].
 
 What's missing in our discussion are the two patched values for
 __intensity__ and __samples__. Let's show them in the context of the
