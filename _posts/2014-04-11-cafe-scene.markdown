@@ -13,9 +13,9 @@ this __Cafe Scene__. It shows exacly the same geometry lit by two
 different light setups.
 
 On the left two light emitting spheres (light bulbs) are covered by
-lamp shades, so that most of light will be shed downwards and only a
-bit of light bounces around and illuminates the upper part of the back
-wall and the ceiling.
+lamp shades, so that most of the light will be shed downwards and only
+a bit of light bounces around and illuminates the upper part of the
+back wall and the ceiling.
 
 On the right you see an alternative in lighting using using the three
 basic approaches to interior lighting design: light to look at
