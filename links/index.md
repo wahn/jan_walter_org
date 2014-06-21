@@ -57,6 +57,10 @@ Links
 
         + [Forum](http://www.maxwellrender.com/forum)
 
+    - [Octane](http://render.otoy.com/index.php)
+
+        + [Manual](http://render.otoy.com/manuals/Standalone_2_0/)
+
     - [Povray](http://www.povray.org)
 
     - [Radiance](http://radsite.lbl.gov/radiance)
