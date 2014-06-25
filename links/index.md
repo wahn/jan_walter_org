@@ -69,6 +69,10 @@ Links
 
         + [Radsite](http://www.radiance-online.org/)
 
+        + [Reference Manual](http://radsite.lbl.gov/radiance/refer/ray.html)
+
+        + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
+
     - [RenderMan](http://renderman.pixar.com/view/about-renderman)
 
 * __Others__
