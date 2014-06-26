@@ -39,7 +39,7 @@ cd ~/git/github/export_multi/04_conference_room/rad/
 make apply_patches
 {% endhighlight %}
 
-After that we an open the file __table.rad__ and see how the materials
+After that we can open the file __table.rad__ and see how the materials
 and patterns are applied:
 
 {% highlight tcsh %}
