@@ -303,6 +303,14 @@ __rad_woodpat__ which uses the original __Kd_color__ values as one of
 the input parameters and modifies the color based on the calculated
 (monochromatic) pattern.
 
+Here is another example of a Radiance pattern, based on
+__upholstery.cal__, parts of a chair rendered in Radiance's
+interactive viewer __rvu__ on the left and the __Arnold__ shader on
+the right:
+
+<img src="/assets/rad_upholstery.png" alt="Chair pattern rendered in
+Radiance vs. Arnold" width="650" class="img-thumbnail"/>
+
 [conf-room]:          https://www.janwalter.org/renderforum/index.php?topic=15.0
 [radiance]:           http://radsite.lbl.gov/radiance
 [vi]:                 https://en.wikipedia.org/wiki/Vi
