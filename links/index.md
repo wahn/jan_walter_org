@@ -21,7 +21,7 @@ Links
     - Available [Pygments](http://pygments.org/docs/lexers) lexers (search
   for 'short names')
 
-* __Renderer__ ([forum](http://www.janwalter.org/renderforum))
+* __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
 
