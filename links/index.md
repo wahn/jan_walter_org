@@ -79,4 +79,8 @@ Links
 
     - [Blender](http://www.blender.org)
 
+        + [Conference](http://www.blender.org/conference)
+
+    - [FMX](http://fmx.de)
+
     - [OpenEXR](http://www.openexr.org)
