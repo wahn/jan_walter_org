@@ -81,6 +81,8 @@ Links
 
         + [Conference](http://www.blender.org/conference)
 
+        + [BlendSwap](http://www.blendswap.com)
+
     - [FMX](http://fmx.de)
 
     - [OpenEXR](http://www.openexr.org)
