@@ -57,6 +57,10 @@ Links
 
         + [Forum](http://www.maxwellrender.com/forum)
 
+    - [mental ray](http://www.nvidia-arc.com/mentalray.html)
+
+        + [imf_diff](http://docs.autodesk.com/MENTALRAY/2012/CHS/mental%20ray%203.9%20Help/files/manual/node251.html)
+
     - [Octane](http://render.otoy.com/index.php)
 
         + [Manual](http://render.otoy.com/manuals/Standalone_2_0/)
