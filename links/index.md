@@ -79,6 +79,12 @@ Links
 
     - [RenderMan](http://renderman.pixar.com/view/about-renderman)
 
+* __Scenes__
+
+    - [BlendSwap](http://www.blendswap.com)
+
+    - [3dRender.com](http://www.3drender.com/challenges)
+
 * __Others__
 
     - [Blender](http://www.blender.org)
