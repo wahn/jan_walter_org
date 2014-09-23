@@ -15,6 +15,12 @@ rendering without any lighting:
 <img src="/assets/natural_history_museum.png" alt="New scene 'Natural
 History Museum' OpenGL rendered." width="600" class="img-thumbnail"/>
 
+From the same perspective, rendered via [Luxrender][luxrender]:
+
+<img src="/assets/natural_history_museum_luxrender_preview.png"
+alt="New scene 'Natural History Museum' rendered by Luxrender."
+width="600" class="img-thumbnail"/>
+
 Credits
 -------
 
@@ -27,3 +33,4 @@ Credits
 [3drender_com]:      http://www.3drender.com/challenges
 [lighting-tutorial]: https://support.solidangle.com/display/mayatut/Lighting+the+Natural+History+Museum
 [arnold]:            https://www.solidangle.com/arnold
+[luxrender]:         http://www.luxrender.net/en_GB/index
