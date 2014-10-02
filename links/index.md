@@ -49,6 +49,10 @@ Links
 
         + [Forum](http://www.indigorenderer.com/forum)
 
+    - [Lagoa](http://home.lagoa.com)
+
+        + [Forum](http://support.lagoa.com/forums)
+
     - [Luxrender](http://www.luxrender.net/en_GB/index)
 
         + [Forum](http://www.luxrender.net/forum)
