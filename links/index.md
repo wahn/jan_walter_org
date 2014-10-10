@@ -89,6 +89,10 @@ Links
 
     - [3dRender.com](http://www.3drender.com/challenges)
 
+* __Textures__
+
+    - [cgtextures.com](http://www.cgtextures.com)
+
 * __Others__
 
     - [Blender](http://www.blender.org)
