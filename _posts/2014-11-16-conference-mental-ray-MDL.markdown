@@ -22,9 +22,21 @@ class="img-thumbnail"/>
 alt="Second camera perspective rendered by mental ray" width="650"
 class="img-thumbnail"/>
 
-Both images were rendered in [OpenEXR][openexr] format and converted
-to __Portable Network Graphics__ ([PNG][png]). After that I adjusted
-the brightness by raising the exposure via OSX' __Preview__ program.
+<img src="/assets/conference_room_mental_ray_door2y_01.png"
+alt="Third camera perspective rendered by mental ray" width="650"
+class="img-thumbnail"/>
+
+<img src="/assets/conference_room_mental_ray_shaft_01.png"
+alt="Forth camera perspective rendered by mental ray" width="650"
+class="img-thumbnail"/>
+
+<img src="/assets/conference_room_mental_ray_xY_01.png" alt="Fifth
+camera perspective rendered by mental ray" width="650"
+class="img-thumbnail"/>
+
+All images were rendered in [OpenEXR][openexr] format and converted to
+__Portable Network Graphics__ ([PNG][png]). After that I adjusted the
+brightness by raising the exposure via OSX' __Preview__ program.
 
 [conf-room]:          https://www.janwalter.org/renderforum/index.php?topic=15.0
 [radiance]:           http://radsite.lbl.gov/radiance
