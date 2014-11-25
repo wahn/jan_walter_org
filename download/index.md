@@ -41,6 +41,10 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
+    - Inventure Place
+
+        + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
+
     - Bedroom
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/bedroom_lxs.tar.gz) (25-11-2014)
