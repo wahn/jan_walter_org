@@ -57,6 +57,8 @@ Download
 
     - Natural History Museum
 
+        + [Indigo](https://www.janwalter.org/Download/Scenes/natural_history_museum_igs.tar.gz) (04-12-2014)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/natural_history_museum_mi.tar.gz) (26-11-2014)
 
     - Bedroom
