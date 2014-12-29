@@ -55,17 +55,35 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/art_gallery_mi.tar.gz) (10-12-2014)
 
+        + [Radiance](https://www.janwalter.org/Download/Scenes/art_gallery_rad.tar.gz) (29-12-2014)
+
     - Conference Room
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/conference_room_mi.tar.gz) (25-11-2014)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/conference_room_rad.tar.gz) (29-12-2014)
 
     - Bathroom
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
+        + [Radiance](https://www.janwalter.org/Download/Scenes/bathroom_rad.tar.gz) (29-12-2014)
+
+    - Theater
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
+
+    - Cruiser
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/cruiser_rad.tar.gz) (29-12-2014)
+
     - Inventure Place
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
+
+    - Salle de bain
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/salle_de_bain_rad.tar.gz) (29-12-2014)
 
     - Natural History Museum
 
