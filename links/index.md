@@ -21,6 +21,8 @@ Links
     - Available [Pygments](http://pygments.org/docs/lexers) lexers (search
   for 'short names')
 
+    - Using [Shariff](http://heise.de/-2467514) for social media buttons
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
