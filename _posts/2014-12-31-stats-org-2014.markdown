@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Usage Statistics for www.janwalter.org 2014"
+date:    2014-12-31 11:12:37
+categories: jekyll stats org 2014
+---
+
+The [web site][org] went online on __March 13th__ of __2014__, as you
+can see here:
+
+<img src="/assets/janwalter_org_daily_usage_201403.png" alt="March
+13th janwalter.org was born." width="650" class="img-thumbnail"/>
+
+In __June__ we switched from http to __https__, which confused the
+statistics software, until my provider, [JPBerlin][jpberlin] fixed the
+problem:
+
+<img src="/assets/janwalter_org_2014.png" alt="Switch to https caused
+some statistics failures." width="650" class="img-thumbnail"/>
+
+The [renderforum][renderforum] was started in the __US__, hosted by
+[GoDaddy][godaddy], and moved from [.com][com] to [.org][org], hosted
+in __Berlin, Germany__, by [JPBerlin][jpberlin]. On __June 16th__ I
+announnced that the main developer of [Cycles][cycles], __Brecht van
+Lommel__, now works for [Solid Angle][solid-angle], the company behind
+the __Arnold__ renderer. This caused a temporary peak in the
+[renderforum][renderforum] statistics:
+
+<img src="/assets/renderforum_2014_06_16.png" alt="Brecht van Lommel
+works for Solid Angle." width="650" class="img-thumbnail"/>
+
+The [renderforum][renderforum] has currently __49 members__, but the
+statistics show that we have visitors from all over the world:
+
+<img src="/assets/renderforum_2014_visitor_map.png" alt="Visitor Map
+of the renderforum for 2014." width="650" class="img-thumbnail"/>
+
+I wouldn't mind if more people would __register__ and
+__participate__. So far it feels like a broadcast (with some
+listeners), so no real two way communication, but that hopefully
+changes at some point. During registration you have to answer a
+question:
+
+__Who is the owner of this web page?__
+
+Shouldn't be too hard to guess ...
+
+I also wouldn't mind if people would start using __encryption__
+wherever they can. [keybase.io][keybase_io] is a good starting point
+to find people's __public keys__ (for [PGP][pgp] or [GPG][gpg]) and
+make sure the provided identities are confirmed.
+
+__Happy New Year !!!__
+
+Cheers,
+
+Jan
+
+[org]:         https://www.janwalter.org
+[jpberlin]:    http://www.jpberlin.de
+[renderforum]: https://www.janwalter.org/renderforum
+[godaddy]:     https://www.godaddy.com
+[com]:         http://www.janwalter.com
+[cycles]:      http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles
+[solid-angle]: http://www.solidangle.com
+[keybase_io]:  https://keybase.io/wahn
+[pgp]:         https://en.wikipedia.org/wiki/Pretty_Good_Privacy
+[gpg]:         https://en.wikipedia.org/wiki/GNU_Privacy_Guard
