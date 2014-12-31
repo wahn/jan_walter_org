@@ -12,5 +12,5 @@ which __format__ they should be in. You choices are:
 * [Textile][textile]
 
 [markdown]: http://daringfireball.net/projects/markdown
-[textile]:  http://textile.sitemonks.com
+[textile]:  http://redcloth.org/textile
 [posts]:    http://jekyllrb.com/docs/posts
