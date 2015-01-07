@@ -29,7 +29,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (26-11-2014)
 
-        + [Indigo](https://www.janwalter.org/Download/Scenes/simple_room_igs.tar.gz) (26-11-2014)
+        + [Indigo](https://www.janwalter.org/Download/Scenes/simple_room_igs.tar.gz) (02-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/simple_room_lxs.tar.gz) (26-11-2014)
 
@@ -40,6 +40,8 @@ Download
     - Cafe Scene
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (08-12-2014)
+
+        + [Indigo](https://www.janwalter.org/Download/Scenes/cafe_scene_igs.tar.gz) (07-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cafe_scene_lxs.tar.gz) (08-12-2014)
 
