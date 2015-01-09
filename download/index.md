@@ -23,7 +23,9 @@ Download
     - [Digital Production](http://www.digitalproduction.com) __05/14__:
       [DP1405\_070-073\_Multiexport\_Beleg.pdf](https://www.janwalter.org/Publications/DP1405_070-073_Multiexport_Beleg.pdf)
 
-* __Scenes__
+* __Scenes__ (in [Blender](http://www.blender.org/)'s file format are
+  in [repository](https://github.com/wahn/export_multi) on
+  [GitHub](https://github.com))
 
     - Simple Room
 
