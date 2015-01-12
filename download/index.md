@@ -65,6 +65,12 @@ Download
 
     - Conference Room
 
+        + [Arnold](https://www.janwalter.org/Download/Scenes/conference_room_ass.tar.gz)
+        (12-01-2015) - shaders for
+        [Linux]((https://www.janwalter.org/Download/Scenes/rad_shaders_linux_arnold_4.2.2.0.tar.gz))
+        and
+        [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/conference_room_mi.tar.gz) (25-11-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/conference_room_rad.tar.gz) (29-12-2014)
