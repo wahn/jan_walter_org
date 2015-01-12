@@ -55,6 +55,8 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (10-12-2014)
 
+        + [Indigo](https://www.janwalter.org/Download/Scenes/art_gallery_igs.tar.gz) (12-01-2015)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (10-12-2014)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/art_gallery_mi.tar.gz) (10-12-2014)
