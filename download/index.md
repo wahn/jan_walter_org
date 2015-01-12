@@ -71,6 +71,8 @@ Download
         and
         [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
 
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/conference_room_mxs.tar.gz) (12-01-2015)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/conference_room_mi.tar.gz) (25-11-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/conference_room_rad.tar.gz) (29-12-2014)
