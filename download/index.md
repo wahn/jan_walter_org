@@ -35,6 +35,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/simple_room_lxs.tar.gz) (26-11-2014)
 
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/simple_room_mxs.tar.gz) (13-01-2015)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/simple_room_mi.tar.gz) (05-12-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/simple_room_rad.tar.gz) (26-11-2014)
