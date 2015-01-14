@@ -49,6 +49,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cafe_scene_lxs.tar.gz) (08-12-2014)
 
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/cafe_scene_mxs.tar.gz) (14-01-2015)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/cafe_scene_mi.tar.gz) (08-12-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cafe_scene_rad.tar.gz) (08-12-2014)
