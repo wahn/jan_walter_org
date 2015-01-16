@@ -27,7 +27,17 @@ Download
   in [repository](https://github.com/wahn/export_multi) on
   [GitHub](https://github.com))
 
-    - Simple Room
+    - ![Alt Cornell Box][cornell_box] Cornell Box
+
+        + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (16-01-2015)
+
+        + [Indigo](https://www.janwalter.org/Download/Scenes/cornell_box_igs.tar.gz) (16-01-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (16-01-2015)
+
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (16-01-2015)
+
+    - ![Alt Simple Room][simple_room] Simple Room
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (26-11-2014)
 
@@ -41,7 +51,7 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/simple_room_rad.tar.gz) (26-11-2014)
 
-    - Cafe Scene
+    - ![Alt Cafe Scene][cafe_scene1] Cafe Scene ![Alt Cafe Scene][cafe_scene2]
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (08-12-2014)
 
@@ -55,7 +65,7 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cafe_scene_rad.tar.gz) (08-12-2014)
 
-    - Art Gallery
+    - ![Alt Art Gallery][art_gallery] Art Gallery
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (10-12-2014)
 
@@ -69,7 +79,7 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/art_gallery_rad.tar.gz) (29-12-2014)
 
-    - Conference Room
+    - ![Alt Conference Room][conference_room] Conference Room
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/conference_room_ass.tar.gz)
         (12-01-2015) - shaders for
@@ -83,36 +93,52 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/conference_room_rad.tar.gz) (29-12-2014)
 
-    - Bathroom
+    - ![Alt Bathroom][bathroom] Bathroom
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/bathroom_rad.tar.gz) (29-12-2014)
 
-    - Theater
+    - ![Alt Theater][theater] Theater
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
-    - Cruiser
+    - ![Alt Cruiser][cruiser1] Cruiser ![Alt Cruiser][cruiser2]
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cruiser_rad.tar.gz) (29-12-2014)
 
-    - Inventure Place
+    - ![Alt Inventure Place][invplace1] Inventure Place ![Alt Inventure Place][invplace2]
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
 
-    - Salle de bain
+    - ![Alt Salle de bain][salle_de_bain] Salle de bain
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/salle_de_bain_rad.tar.gz) (29-12-2014)
 
-    - Natural History Museum
+    - ![Natural History Museum][natural_history_museum] Natural History Museum
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/natural_history_museum_igs.tar.gz) (04-12-2014)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/natural_history_museum_mi.tar.gz) (26-11-2014)
 
-    - Bedroom
+    - ![Alt Bedroom][bedroom] Bedroom
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/bedroom_lxs.tar.gz) (25-11-2014)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bedroom_mi.tar.gz) (25-11-2014)
+
+[cornell_box]:            /thumbnails/scenes/cornell_box_50x50.png "Cornell Box"
+[simple_room]:            /thumbnails/scenes/simple_room_50x50.png "Simple Room"
+[cafe_scene1]:            /thumbnails/scenes/cafe_scene_lights1_50x50.png "Cafe Scene 1"
+[cafe_scene2]:            /thumbnails/scenes/cafe_scene_lights2_50x50.png "Cafe Scene 2"
+[art_gallery]:            /thumbnails/scenes/art_gallery_50x50.png "Art Gallery"
+[conference_room]:        /thumbnails/scenes/conference_room_74x50.png "Conference Room"
+[bathroom]:               /thumbnails/scenes/bathroom_34x50.png "Bathroom"
+[theater]:                /thumbnails/scenes/theater_74x50.png "Theater"
+[cruiser1]:               /thumbnails/scenes/cruiser_01_50x50.png "Cruiser"
+[cruiser2]:               /thumbnails/scenes/cruiser_02_50x50.png "Cruiser"
+[invplace1]:              /thumbnails/scenes/invplace_photo_01_36x50.jpg "Inventure Place"
+[invplace2]:              /thumbnails/scenes/invplace_photo_02_36x50.jpg "Inventure Place"
+[salle_de_bain]:          /thumbnails/scenes/salle_de_bain_89_50.png "Salle de bain"
+[natural_history_museum]: /thumbnails/scenes/natural_history_museum_67x50.png "Natural History Museum"
+[bedroom]:                /thumbnails/scenes/bedroom_67x50.png "Bedroom"
