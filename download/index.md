@@ -37,6 +37,10 @@ Download
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (16-01-2015)
 
+        + [mental ray](https://www.janwalter.org/Download/Scenes/cornell_box_mi.tar.gz) (16-01-2015)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/cornell_box_rad.tar.gz) (16-01-2015)
+
     - ![Alt Simple Room][simple_room] Simple Room
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (26-11-2014)
