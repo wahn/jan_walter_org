@@ -91,6 +91,10 @@ Download
         and
         [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
 
+        + [Indigo](https://www.janwalter.org/Download/Scenes/conference_room_igs.tar.gz) (24-01-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/conference_room_lxs.tar.gz) (24-01-2015)
+
         + [Maxwell](https://www.janwalter.org/Download/Scenes/conference_room_mxs.tar.gz) (13-01-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/conference_room_mi.tar.gz) (25-11-2014)
