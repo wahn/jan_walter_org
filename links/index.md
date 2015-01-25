@@ -23,6 +23,8 @@ Links
 
     - Using [Shariff](http://heise.de/-2467514) for social media buttons
 
+    - __German__ docs about web technology on [selfhtml.org](http://selfhtml.org)
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
