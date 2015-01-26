@@ -103,6 +103,16 @@ Download
 
     - ![Alt Bathroom][bathroom] Bathroom
 
+        + [Arnold](https://www.janwalter.org/Download/Scenes/bathroom_ass.tar.gz)
+        (26-01-2015) - shaders for
+        [Linux]((https://www.janwalter.org/Download/Scenes/rad_shaders_linux_arnold_4.2.2.0.tar.gz))
+        and
+        [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
+
+        + [Indigo](https://www.janwalter.org/Download/Scenes/bathroom_igs.tar.gz) (26-01-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/bathroom_lxs.tar.gz) (26-01-2015)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/bathroom_rad.tar.gz) (29-12-2014)
