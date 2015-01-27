@@ -137,7 +137,7 @@ Download
 
     - ![Alt Salle de bain][salle_de_bain] Salle de bain
 
-        + [Radiance](https://www.janwalter.org/Download/Scenes/salle_de_bain_rad.tar.gz) (29-12-2014)
+       + [Arnold](https://www.janwalter.org/Download/Scenes/salle_de_bain_ass.tar.gz) (29-12-2014)
 
     - ![Natural History Museum][natural_history_museum] Natural History Museum
 
