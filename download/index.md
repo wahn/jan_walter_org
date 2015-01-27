@@ -119,9 +119,15 @@ Download
 
     - ![Alt Theater][theater] Theater
 
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (27-01-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
     - ![Alt Cruiser][cruiser1] Cruiser ![Alt Cruiser][cruiser2]
+
+        + [Arnold](https://www.janwalter.org/Download/Scenes/cruiser_ass.tar.gz) (27-01-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/cruiser_lxs.tar.gz) (27-01-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cruiser_rad.tar.gz) (29-12-2014)
 
