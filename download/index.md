@@ -111,7 +111,7 @@ Download
        [Bathroom](https://github.com/wahn/export_multi/tree/master/05_bathroom)
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/bathroom_ass.tar.gz)
-        (26-01-2015) - shaders for
+        (28-01-2015) - shaders for
         [Linux]((https://www.janwalter.org/Download/Scenes/rad_shaders_linux_arnold_4.2.2.0.tar.gz))
         and
         [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
