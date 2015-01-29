@@ -109,6 +109,7 @@ Download
 
     - ![Alt Bathroom][bathroom]
        [Bathroom](https://github.com/wahn/export_multi/tree/master/05_bathroom)
+       ([textures](https://www.janwalter.org/Download/Scenes/bathroom_textures.tar.gz) - (29-01-2015))
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/bathroom_ass.tar.gz)
         (28-01-2015) - shaders for
@@ -119,6 +120,8 @@ Download
         + [Indigo](https://www.janwalter.org/Download/Scenes/bathroom_igs.tar.gz) (26-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/bathroom_lxs.tar.gz) (26-01-2015)
+
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/bathroom_mxs.tar.gz) (29-01-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
