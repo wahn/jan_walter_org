@@ -32,6 +32,8 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (16-01-2015)
 
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box_blend.tar.gz) (30-01-2015)
+
         + [Indigo](https://www.janwalter.org/Download/Scenes/cornell_box_igs.tar.gz) (16-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (16-01-2015)
@@ -46,6 +48,8 @@ Download
        Room](https://github.com/wahn/export_multi/tree/master/01_simple_room)
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (26-11-2014)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/simple_room_blend.tar.gz) (30-01-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/simple_room_igs.tar.gz) (02-01-2015)
 
