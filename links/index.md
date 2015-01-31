@@ -109,4 +109,6 @@ Links
 
     - [OpenEXR](http://www.openexr.org)
 
+    - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
+
     - [Prism Break](https://prism-break.org/en)
