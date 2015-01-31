@@ -67,6 +67,8 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (08-12-2014)
 
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (31-01-2015)
+
         + [Indigo](https://www.janwalter.org/Download/Scenes/cafe_scene_igs.tar.gz) (07-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cafe_scene_lxs.tar.gz) (08-12-2014)
