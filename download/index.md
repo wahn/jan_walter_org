@@ -136,7 +136,7 @@ Download
     - ![Alt Theater][theater]
        [Theater](https://github.com/wahn/export_multi/tree/master/06_theater)
 
-        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (27-01-2015)
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (04-02-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
@@ -153,6 +153,8 @@ Download
     - ![Alt Inventure Place][invplace1] [Inventure
        Place](https://github.com/wahn/export_multi/tree/master/08_invplace)
        ![Alt Inventure Place][invplace2]
+
+        + [Arnold](https://www.janwalter.org/Download/Scenes/invplace_ass.tar.gz) (03-02-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
 
