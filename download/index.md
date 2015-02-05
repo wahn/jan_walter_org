@@ -136,6 +136,8 @@ Download
     - ![Alt Theater][theater]
        [Theater](https://github.com/wahn/export_multi/tree/master/06_theater)
 
+        + [Arnold](https://www.janwalter.org/Download/Scenes/theater_ass.tar.gz) (05-02-2015)
+
         + [Indigo](https://www.janwalter.org/Download/Scenes/theater_igs.tar.gz) (04-02-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (04-02-2015)
