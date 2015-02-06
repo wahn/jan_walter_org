@@ -133,14 +133,17 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/bathroom_rad.tar.gz) (29-12-2014)
 
-    - ![Alt Theater][theater]
+    - ![Alt Theater][theater1]
        [Theater](https://github.com/wahn/export_multi/tree/master/06_theater)
+       ![Alt Theater][theater2]
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/theater_ass.tar.gz) (05-02-2015)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/theater_ass.tar.gz) (06-02-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/theater_igs.tar.gz) (04-02-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (04-02-2015)
+
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/theater_mxs.tar.gz) (06-02-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
@@ -191,7 +194,8 @@ Download
 [art_gallery]:            /thumbnails/scenes/art_gallery_50x50.png "Art Gallery"
 [conference_room]:        /thumbnails/scenes/conference_room_74x50.png "Conference Room"
 [bathroom]:               /thumbnails/scenes/bathroom_34x50.png "Bathroom"
-[theater]:                /thumbnails/scenes/theater_74x50.png "Theater"
+[theater1]:               /thumbnails/scenes/theater_01_74x50.png "Theater"
+[theater2]:               /thumbnails/scenes/theater_02_74x50.png "Theater"
 [cruiser1]:               /thumbnails/scenes/cruiser_01_50x50.png "Cruiser"
 [cruiser2]:               /thumbnails/scenes/cruiser_02_50x50.png "Cruiser"
 [invplace1]:              /thumbnails/scenes/invplace_photo_01_36x50.jpg "Inventure Place"
