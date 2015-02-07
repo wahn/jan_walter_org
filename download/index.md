@@ -84,6 +84,8 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (10-12-2014)
 
+        + [Cycles](https://www.janwalter.org/Download/Scenes/art_gallery_blend.tar.gz) (07-02-2015)
+
         + [Indigo](https://www.janwalter.org/Download/Scenes/art_gallery_igs.tar.gz) (12-01-2015)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (10-12-2014)
@@ -144,6 +146,8 @@ Download
         + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (04-02-2015)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/theater_mxs.tar.gz) (06-02-2015)
+
+        + [mental ray](https://www.janwalter.org/Download/Scenes/theater_mi.tar.gz) (06-02-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
