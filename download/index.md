@@ -67,7 +67,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (08-12-2014)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (31-01-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (17-02-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/cafe_scene_igs.tar.gz) (07-01-2015)
 
@@ -126,6 +126,8 @@ Download
         [Linux]((https://www.janwalter.org/Download/Scenes/rad_shaders_linux_arnold_4.2.2.0.tar.gz))
         and
         [OSX](https://www.janwalter.org/Download/Scenes/rad_shaders_macosx_arnold_4.2.2.0.tar.gz)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/bathroom_blend.tar.gz) (16-02-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/bathroom_igs.tar.gz) (26-01-2015)
 
