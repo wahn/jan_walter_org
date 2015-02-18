@@ -178,9 +178,13 @@ Download
 
        + [Arnold](https://www.janwalter.org/Download/Scenes/salle_de_bain_ass.tar.gz) (29-12-2014)
 
+       + [Cycles](https://www.janwalter.org/Download/Scenes/salle_de_bain_blend.tar.gz) (18-02-2015)
+
     - ![Natural History Museum][natural_history_museum] [Natural
        History
        Museum](https://github.com/wahn/export_multi/tree/master/10_natural_history_museum)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/natural_history_museum_blend.tar.gz) (18-02-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/natural_history_museum_igs.tar.gz) (04-12-2014)
 
