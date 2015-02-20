@@ -199,6 +199,8 @@ Download
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/bedroom_blend.tar.gz) (11-02-2015)
 
+        + [Indigo](https://www.janwalter.org/Download/Scenes/bedroom_igs.tar.gz) (20-02-2015)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/bedroom_lxs.tar.gz) (25-11-2014)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bedroom_mi.tar.gz) (25-11-2014)
