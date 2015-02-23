@@ -163,6 +163,8 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cruiser_ass.tar.gz) (27-01-2015)
 
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cruiser_blend.tar.gz) (23-02-2015)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cruiser_lxs.tar.gz) (27-01-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cruiser_rad.tar.gz) (29-12-2014)
@@ -172,6 +174,8 @@ Download
        ![Alt Inventure Place][invplace2]
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/invplace_ass.tar.gz) (03-02-2015)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/invplace_blend.tar.gz) (23-02-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
 
