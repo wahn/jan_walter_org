@@ -194,6 +194,7 @@ Download
 
     - ![Alt Salle de bain][salle_de_bain] [Salle de
        bain](https://github.com/wahn/export_multi/tree/master/09_salle_de_bain)
+       ([textures](https://www.janwalter.org/Download/Scenes/salle_de_bain_textures.tar.gz) - (05-03-2015))
 
        + [Arnold](https://www.janwalter.org/Download/Scenes/salle_de_bain_ass.tar.gz) (29-12-2014)
 
