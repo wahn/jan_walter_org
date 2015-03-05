@@ -200,6 +200,10 @@ Download
 
        + [Cycles](https://www.janwalter.org/Download/Scenes/salle_de_bain_blend.tar.gz) (18-02-2015)
 
+       + [Indigo](https://www.janwalter.org/Download/Scenes/salle_de_bain_igs.tar.gz)
+       ([PIGS](https://www.janwalter.org/Download/Scenes/salle_de_bain.pigs))
+       (05-03-2015)
+
        + [Luxrender](https://www.janwalter.org/Download/Scenes/salle_de_bain_lxs.tar.gz) (05-03-2015)
 
     - ![Natural History Museum][natural_history_museum] [Natural
