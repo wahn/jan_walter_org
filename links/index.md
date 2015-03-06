@@ -25,6 +25,22 @@ Links
 
     - __German__ docs about web technology on [selfhtml.org](http://selfhtml.org)
 
+* __Repositories__
+
+    - [Bitbucket](https://bitbucket.org)
+
+        + [Blender Add-ons](https://bitbucket.org/wahn/blender-add-ons)
+
+        + [Radiance vs YouNameIt](https://bitbucket.org/wahn/radiance_vs_younameit)
+
+    - [GitHub](https://github.com)
+
+        + [export multi](https://github.com/wahn/export_multi)
+
+        + [jan walter org](https://github.com/wahn/jan_walter_org)
+
+        + [wahnsite org](https://github.com/wahn/wahnsite_org)
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
