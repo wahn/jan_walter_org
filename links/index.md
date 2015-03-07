@@ -23,6 +23,8 @@ Links
 
     - Using [Shariff](http://heise.de/-2467514) for social media buttons
 
+    - [Font Awesome](http://fontawesome.io)
+
     - __German__ docs about web technology on [selfhtml.org](http://selfhtml.org)
 
 * __Repositories__
