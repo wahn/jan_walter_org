@@ -43,6 +43,10 @@ Links
 
         + [wahnsite org](https://github.com/wahn/wahnsite_org)
 
+    - [GitLab](https://gitlab.com)
+
+        + [calendar and diary tools](https://gitlab.com/jdb-walter/calendar-and-diary-tools)
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
