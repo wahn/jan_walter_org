@@ -210,9 +210,15 @@ Download
        History
        Museum](https://github.com/wahn/export_multi/tree/master/10_natural_history_museum)
 
+        + [Arnold](https://www.janwalter.org/Download/Scenes/natural_history_museum_ass.tar.gz) (17-03-2015)
+
         + [Cycles](https://www.janwalter.org/Download/Scenes/natural_history_museum_blend.tar.gz) (18-02-2015)
 
-        + [Indigo](https://www.janwalter.org/Download/Scenes/natural_history_museum_igs.tar.gz) (04-12-2014)
+        + [Indigo](https://www.janwalter.org/Download/Scenes/natural_history_museum_igs.tar.gz)
+        ([PIGS](https://www.janwalter.org/Download/Scenes/natural_history_museum.pigs))
+        (17-03-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/natural_history_museum_lxs.tar.gz) (17-03-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/natural_history_museum_mi.tar.gz) (26-11-2014)
 
