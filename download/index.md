@@ -190,6 +190,11 @@ Download
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/invplace_blend.tar.gz) (23-02-2015)
 
+        + [Indigo](https://www.janwalter.org/Download/Scenes/invplace_igs.tar.gz)
+        ([PIGS](https://www.janwalter.org/Download/Scenes/invplace.pigs)) (19-03-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/invplace_lxs.tar.gz) (19-03-2015)
+
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
 
     - ![Alt Salle de bain][salle_de_bain] [Salle de
