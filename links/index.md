@@ -71,6 +71,8 @@ Links
 
         + [Sun Position Extension](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
 
+        + [OSL](http://opensource.imageworks.com/?p=osl)
+
     - [Indigo](http://www.indigorenderer.com)
 
         + [Forum](http://www.indigorenderer.com/forum)
@@ -108,6 +110,14 @@ Links
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
 
     - [RenderMan](http://renderman.pixar.com/view/about-renderman)
+
+        + [Forum](https://renderman.pixar.com/forum)
+
+        + [RSL](https://en.wikipedia.org/wiki/RenderMan_Shading_Language)
+
+        + [RIS](https://renderman.pixar.com/resources/current/RenderMan/risOverview.html)
+
+        + [OSL](http://opensource.imageworks.com/?p=osl)
 
 * __Scenes__
 
