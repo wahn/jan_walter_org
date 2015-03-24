@@ -26,7 +26,7 @@ following:
 export RMANTREE=/Applications/Pixar/RenderManProServer-19.0
 {% endhighlight %}
 
-To render out first picture we will go directly into a subfolder and
+To render our first picture we will go directly into a subfolder and
 render one of the example [RIB][RIB] files coming with the free
 version:
 
