@@ -129,6 +129,12 @@ Links
 
     - [cgtextures.com](http://www.cgtextures.com)
 
+* __Privacy__
+
+    - [Prism Break](https://prism-break.org/en)
+
+    - [privacytools.io](http://www.privacytools.io)
+
 * __Others__
 
     - [Blender](http://www.blender.org)
@@ -142,7 +148,5 @@ Links
     - [OpenEXR](http://www.openexr.org)
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
-
-    - [Prism Break](https://prism-break.org/en)
 
     - [Vulkan](https://www.khronos.org/vulkan)
