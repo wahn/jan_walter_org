@@ -65,6 +65,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/simple_room_mi.tar.gz) (05-12-2014)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/simple_room_rib.tar.gz) (01-04-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/simple_room_rad.tar.gz) (26-11-2014)
 
     - ![Alt Cafe Scene][cafe_scene1] [Cafe
