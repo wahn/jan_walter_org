@@ -107,6 +107,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/art_gallery_mi.tar.gz) (10-12-2014)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/art_gallery_rib.tar.gz) (08-04-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/art_gallery_rad.tar.gz) (29-12-2014)
 
     - ![Alt Conference Room][conference_room] [Conference
