@@ -87,6 +87,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/cafe_scene_mi.tar.gz) (08-12-2014)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/cafe_scene_rib.tar.gz) (13-04-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/cafe_scene_rad.tar.gz) (08-12-2014)
 
     - ![Alt Art Gallery][art_gallery] [Art
