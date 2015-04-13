@@ -31,7 +31,7 @@ class="img-thumbnail"/></p>
 
 For convenience the file is also available from Pixar's [Community
 Resources][resources]. I will only point out the details about RIB
-lines which a new or specific to the latest PRMan release:
+lines which are new or specific to the latest PRMan release:
 
 {% highlight tcsh %}
 ...
