@@ -132,6 +132,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/conference_room_mi.tar.gz) (25-11-2014)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/conference_room_rib.tar.gz) (14-04-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/conference_room_rad.tar.gz) (29-12-2014)
 
     - ![Alt Bathroom][bathroom]
