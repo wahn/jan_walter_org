@@ -174,6 +174,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/theater_mi.tar.gz) (06-02-2015)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/theater_rib.tar.gz) (15-04-2015)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/theater_rad.tar.gz) (29-12-2014)
 
     - ![Alt Cruiser][cruiser1]
