@@ -40,6 +40,9 @@ src="/assets/conference_room_prman_xY.png" alt="Conference Room
 rendered by RenderMan (camera 5)."  width="740"
 class="img-thumbnail"/></p>
 
+The RIB file for this scene can be found in [Pixar's][Pixar] Community
+[Resources][resources] or the [download][download] section.
+
 [conf-room]: https://www.janwalter.org/renderforum/index.php?topic=15.0
 [radiance]:  http://radsite.lbl.gov/radiance
 [vi]:        https://en.wikipedia.org/wiki/Vi
@@ -47,3 +50,4 @@ class="img-thumbnail"/></p>
 [download]:  https://www.janwalter.org/download
 [Pixar]:     http://www.pixar.com
 [renderman]: http://renderman.pixar.com
+[resources]: https://community.renderman.pixar.com/article/652/rib-scene-conference-room.html
