@@ -65,9 +65,9 @@ Links
 
         + [Oblique FX](http://s3aws.obliquefx.com/public/shaders/index.html)
 
-    - [Cycles](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles)
+    - [Cycles](https://www.blender.org/manual/render/cycles/index.html)
 
-        + [Sky Texture node](http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles/Nodes/Textures#Sky_Texture)
+        + [Sun: Sky & Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
 
         + [Sun Position Extension](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
 
