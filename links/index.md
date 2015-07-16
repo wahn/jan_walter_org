@@ -129,6 +129,14 @@ Links
 
     - [cgtextures.com](http://www.cgtextures.com)
 
+* __Programming Languages__
+
+    - [C++](http://www.cplusplus.com/reference)
+
+    - [Python](http://www.python.org)
+
+    - [Rust](http://www.rust-lang.org)
+
 * __Privacy__
 
     - [Prism Break](https://prism-break.org/en)
