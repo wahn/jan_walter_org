@@ -137,6 +137,10 @@ Links
 
     - [Rust](http://www.rust-lang.org)
 
+        + [Users](https://users.rust-lang.org)
+
+        + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
+
 * __Privacy__
 
     - [Prism Break](https://prism-break.org/en)
