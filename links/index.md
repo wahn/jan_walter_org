@@ -43,6 +43,8 @@ Links
 
         + [wahnsite org](https://github.com/wahn/wahnsite_org)
 
+        + [Rust examples](https://github.com/wahn/Rust_Examples)
+
     - [GitLab](https://gitlab.com)
 
         + [calendar and diary tools](https://gitlab.com/jdb-walter/calendar-and-diary-tools)
@@ -138,6 +140,8 @@ Links
     - [Rust](http://www.rust-lang.org)
 
         + [Users](https://users.rust-lang.org)
+
+        + [Crates](https://crates.io)
 
         + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
