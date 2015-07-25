@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Usage Statistics for www.janwalter.org July 2015"
+date:    2015-07-20 18:30:00
+categories: jekyll stats org 2015
+---
+
+The [web site][org] went online on __March 13th__ of __2014__, as you
+can see here:
+
+<img src="/assets/janwalter_org_daily_usage_201403.png" alt="March
+13th janwalter.org was born." width="650" class="img-thumbnail"/>
+
+In __July 2015__ we moved to another web cluster and this means the
+end of the current statistics software. So let's publish the latest
+results before deciding where to go from here:
+
+<img src="/assets/janwalter_org_daily_usage_201507.png" alt="March
+13th janwalter.org was born." width="650" class="img-thumbnail"/>
+
+I guess the first and last month do not tell you a lot, so let's
+compare last year (__2014__) to this year (__2015__) by looking at the
+monthly traffic:
+
+<img src="/assets/janwalter_org_2014.png" alt="Switch to https caused
+some statistics failures." width="650" class="img-thumbnail"/>
+
+<img src="/assets/janwalter_org_2015.png" alt="The statistics for 2015
+will end in July." width="650" class="img-thumbnail"/>
+
+The traffic went up, but probably hit a peak in March 2015.
+
+<img src="/assets/janwalter_org_2015_monthly.png" alt="The statistics
+for July of 2015." width="740" class="img-thumbnail"/>
+
+[org]:         https://www.janwalter.org
