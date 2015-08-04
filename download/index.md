@@ -254,6 +254,20 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bedroom_mi.tar.gz) (25-11-2014)
 
+* __Animations__
+
+    - ![Alt Simple House][simple_house] Simple House
+
+        + [Blender scene](https://www.janwalter.org/Download/Scenes/simple_house.blend) (04-08-2015)
+
+        + [Blurred 2k textures](https://www.janwalter.org/Download/Scenes/simple_house_textures.zip) (04-08-2015)
+
+        + [simple\_house\_baked\_1k](https://www.janwalter.org/Download/Movies/simple_house_baked_1k_0001-0240.avi) (04-08-2015)
+
+        + [simple\_house\_baked\_2k](https://www.janwalter.org/Download/Movies/simple_house_baked_2k_0001-0240.avi) (04-08-2015)
+
+        + [simple\_house\_baked\_2k\_blurred](https://www.janwalter.org/Download/Movies/simple_house_baked_2k_blurred10_0001-0240.avi) (04-08-2015)
+
 [cornell_box]:            /thumbnails/scenes/cornell_box_50x50.png "Cornell Box"
 [simple_room]:            /thumbnails/scenes/simple_room_50x50.png "Simple Room"
 [cafe_scene1]:            /thumbnails/scenes/cafe_scene_lights1_50x50.png "Cafe Scene 1"
@@ -270,3 +284,4 @@ Download
 [salle_de_bain]:          /thumbnails/scenes/salle_de_bain_89_50.png "Salle de bain"
 [natural_history_museum]: /thumbnails/scenes/natural_history_museum_67x50.png "Natural History Museum"
 [bedroom]:                /thumbnails/scenes/bedroom_67x50.png "Bedroom"
+[simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
