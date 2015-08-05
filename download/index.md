@@ -256,7 +256,8 @@ Download
 
 * __Animations__
 
-    - ![Alt Simple House][simple_house] Simple House
+    - ![Alt Simple House][simple_house] [Simple
+       House](https://www.janwalter.org/jekyll/rendering/cycles/2015/08/03/baking-with-cycles.html)
 
         + [Blender scene](https://www.janwalter.org/Download/Scenes/simple_house.blend) (04-08-2015)
 
