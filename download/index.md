@@ -244,15 +244,17 @@ Download
     - ![Alt Bedroom][bedroom]
        [Bedroom](https://github.com/wahn/export_multi/tree/master/11_bedroom)
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/bedroom_ass.tar.gz) (27-01-2015)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/bedroom_ass.tar.gz) (07-08-2015)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/bedroom_blend.tar.gz) (11-02-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/bedroom_blend.tar.gz) (07-08-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/bedroom_igs.tar.gz) (20-02-2015)
 
-        + [Luxrender](https://www.janwalter.org/Download/Scenes/bedroom_lxs.tar.gz) (25-11-2014)
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/bedroom_lxs.tar.gz) (07-08-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bedroom_mi.tar.gz) (25-11-2014)
+
+        + [PRMan](https://www.janwalter.org/Download/Scenes/bedroom_rib.tar.gz) (06-08-2015)
 
 * __Animations__
 
