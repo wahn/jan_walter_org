@@ -141,6 +141,8 @@ Links
 
         + [Users](https://users.rust-lang.org)
 
+        + [Rustplatz - German](http://rustplatz.de)
+
         + [Crates](https://crates.io)
 
         + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
