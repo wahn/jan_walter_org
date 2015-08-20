@@ -256,6 +256,11 @@ Download
 
         + [PRMan](https://www.janwalter.org/Download/Scenes/bedroom_rib.tar.gz) (06-08-2015)
 
+    - ![Alt Hallway][hallway]
+       [Hallway](https://github.com/wahn/export_multi/tree/master/12_hallway)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/hallway_blend.tar.gz) (20-08-2015)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -287,4 +292,5 @@ Download
 [salle_de_bain]:          /thumbnails/scenes/salle_de_bain_89_50.png "Salle de bain"
 [natural_history_museum]: /thumbnails/scenes/natural_history_museum_67x50.png "Natural History Museum"
 [bedroom]:                /thumbnails/scenes/bedroom_67x50.png "Bedroom"
+[hallway]:                /thumbnails/scenes/hallway_37x50.png "Hallway"
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
