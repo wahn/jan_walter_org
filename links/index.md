@@ -131,6 +131,8 @@ Links
 
     - [cgtextures.com](http://www.cgtextures.com)
 
+    - [normal maps](https://cpetry.github.io/NormalMap-Online)
+
 * __Programming Languages__
 
     - [C++](http://www.cplusplus.com/reference)
