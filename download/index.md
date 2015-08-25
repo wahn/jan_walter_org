@@ -258,8 +258,9 @@ Download
 
     - ![Alt Hallway][hallway]
        [Hallway](https://github.com/wahn/export_multi/tree/master/12_hallway)
+       ([textures](https://www.janwalter.org/Download/Scenes/hallway_textures.tar.gz) - (25-08-2015))
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/hallway_blend.tar.gz) (20-08-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/hallway_blend.tar.gz) (25-08-2015)
 
 * __Animations__
 
