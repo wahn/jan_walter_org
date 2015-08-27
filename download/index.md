@@ -262,6 +262,8 @@ Download
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/hallway_blend.tar.gz) (25-08-2015)
 
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/hallway_lxs.tar.gz) (27-08-2015)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
