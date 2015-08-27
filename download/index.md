@@ -264,6 +264,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/hallway_lxs.tar.gz) (27-08-2015)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/hallway_rib.tar.gz) (27-08-2015)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
