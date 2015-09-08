@@ -53,7 +53,7 @@ Links
 
     - [Arnold](http://www.solidangle.com)
 
-        + [Removing Noise Workflow](https://support.solidangle.com/display/mayatut/Removing+Noise+Workflow)
+        + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
 
         + [Options parameters](https://support.solidangle.com/display/NodeRef/options)
 
