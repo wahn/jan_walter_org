@@ -23,6 +23,13 @@ Download
     - [Digital Production](http://www.digitalproduction.com) __05/14__:
       [DP1405\_070-073\_Multiexport\_Beleg.pdf](https://www.janwalter.org/Publications/DP1405_070-073_Multiexport_Beleg.pdf)
 
+* __Free Books__
+
+    - [Why
+      Rust?](https://www.janwalter.org/Download/Books/why-rust.pdf)
+      from [O'Reilly]
+      (http://www.oreilly.com/programming/free/why-rust.csp)
+
 * __Scenes__ (in [Blender](http://www.blender.org/)'s file format are
   in [repository](https://github.com/wahn/export_multi) on
   [GitHub](https://github.com))
