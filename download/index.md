@@ -282,6 +282,16 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/neon_and_chrome_lxs.tar.gz) (14-09-2015)
 
+    - ![Alt Subway][subway]
+       [Subway](https://github.com/wahn/export_multi/tree/master/14_subway)
+
+        + [Cycles](http://www.blendswap.com/blends/view/72190) (23-09-2015)
+
+    - ![Alt Classroom][classroom]
+       [Classroom](https://github.com/wahn/export_multi/tree/master/15_classroom)
+
+        + [Cycles](http://download.blender.org/demo/test/classroom.zip) (23-09-2015)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -315,4 +325,6 @@ Download
 [bedroom]:                /thumbnails/scenes/bedroom_67x50.png "Bedroom"
 [hallway]:                /thumbnails/scenes/hallway_37x50.png "Hallway"
 [neon_and_chrome]:        /thumbnails/scenes/neon_and_chrome_37x50.png "Neon and Chrome"
+[subway]:                 /thumbnails/scenes/subway_89x50.png "Subway"
+[classroom]:              /thumbnails/scenes/classroom_89x50.png "Classroom"
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
