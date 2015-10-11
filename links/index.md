@@ -149,6 +149,8 @@ Links
 
         + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
+        + [kiss3d](http://kiss3d.org)
+
 * __Privacy__
 
     - [Prism Break](https://prism-break.org/en)
