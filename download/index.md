@@ -289,8 +289,19 @@ Download
 
     - ![Alt Classroom][classroom]
        [Classroom](https://github.com/wahn/export_multi/tree/master/15_classroom)
+       ([textures](https://www.janwalter.org/Download/Scenes/classroom_textures.tar.gz) - (27-10-2015))
+
+        + [Arnold](https://www.janwalter.org/Download/Scenes/classroom_ass.tar.gz) (27-10-2015)
 
         + [Cycles](http://download.blender.org/demo/test/classroom.zip) (23-09-2015)
+
+        + [Indigo (PIGS)](https://www.janwalter.org/Download/Scenes/classroom.pigs) (02-10-2015)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/classroom_lxs.tar.gz) (27-10-2015)
+
+        + [PRMan](https://www.janwalter.org/Download/Scenes/classroom_rib.tar.gz) (27-10-2015)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/classroom_rad.tar.gz) (02-10-2015)
 
 * __Animations__
 
