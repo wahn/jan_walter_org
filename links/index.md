@@ -153,6 +153,8 @@ Links
 
 * __Privacy__
 
+    - [Privacy Badger](https://www.eff.org/privacybadger)
+
     - [Prism Break](https://prism-break.org/en)
 
     - [privacytools.io](http://www.privacytools.io)
