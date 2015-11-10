@@ -147,6 +147,8 @@ Links
 
         + [Crates](https://crates.io)
 
+        + [Podcast](http://www.newrustacean.com)
+
         + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
         + [kiss3d](http://kiss3d.org)
