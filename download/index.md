@@ -47,7 +47,7 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (20-02-2015)
 
-        + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (16-01-2015)
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (11-11-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/cornell_box_mi.tar.gz) (16-01-2015)
 
