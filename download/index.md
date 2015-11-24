@@ -72,7 +72,7 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/simple_room_mi.tar.gz) (05-12-2014)
 
-        + [PRMan](https://www.janwalter.org/Download/Scenes/simple_room_rib.tar.gz) (03-04-2015)
+        + [PRMan](https://www.janwalter.org/Download/Scenes/simple_room_rib.tar.gz) (18-11-2015)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/simple_room_rad.tar.gz) (26-11-2014)
 
@@ -262,6 +262,8 @@ Download
         + [mental ray](https://www.janwalter.org/Download/Scenes/bedroom_mi.tar.gz) (25-11-2014)
 
         + [PRMan](https://www.janwalter.org/Download/Scenes/bedroom_rib.tar.gz) (06-08-2015)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/bedroom_rad.tar.gz) (24-11-2015)
 
     - ![Alt Hallway][hallway]
        [Hallway](https://github.com/wahn/export_multi/tree/master/12_hallway)
