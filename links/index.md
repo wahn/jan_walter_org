@@ -137,7 +137,7 @@ Links
 
     - [C++](http://www.cplusplus.com/reference)
 
-    - [Python](http://www.python.org)
+    - [Python](https://www.python.org)
 
     - [Rust](http://www.rust-lang.org)
 
@@ -152,6 +152,8 @@ Links
         + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
 
         + [kiss3d](http://kiss3d.org)
+
+    - [Swift](https://swift.org)
 
 * __Privacy__
 
