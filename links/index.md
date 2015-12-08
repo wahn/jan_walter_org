@@ -49,6 +49,8 @@ Links
 
         + [calendar and diary tools](https://gitlab.com/jdb-walter/calendar-and-diary-tools)
 
+        + [List of supported languages and lexers](https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers)
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
