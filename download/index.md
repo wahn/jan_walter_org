@@ -30,6 +30,8 @@ Download
       from [O'Reilly]
       (http://www.oreilly.com/programming/free/why-rust.csp)
 
+    - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
+
 * __Scenes__ (in [Blender](http://www.blender.org/)'s file format are
   in [repository](https://github.com/wahn/export_multi) on
   [GitHub](https://github.com))
@@ -217,6 +219,8 @@ Download
         + [Maxwell](https://www.janwalter.org/Download/Scenes/invplace_mxs.tar.gz) (20-03-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/invplace_mi.tar.gz) (25-11-2014)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/invplace_rad.tar.gz) (04-12-2015)
 
     - ![Alt Salle de bain][salle_de_bain] [Salle de
        bain](https://github.com/wahn/export_multi/tree/master/09_salle_de_bain)
