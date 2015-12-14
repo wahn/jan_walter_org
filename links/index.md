@@ -165,6 +165,8 @@ Links
 
     - [privacytools.io](http://www.privacytools.io)
 
+    - [Privacy Tools - Fried.com](http://fried.com/privacy/)
+
 * __Others__
 
     - [Blender](http://www.blender.org)
