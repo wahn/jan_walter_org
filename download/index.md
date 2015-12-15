@@ -283,6 +283,8 @@ Download
 
         + [PRMan](https://www.janwalter.org/Download/Scenes/hallway_rib.tar.gz) (28-08-2015)
 
+        + [Radiance](https://www.janwalter.org/Download/Scenes/hallway_rad.tar.gz) (15-12-2015)
+
     - ![Alt Neon and Chrome][neon_and_chrome]
        [Neon and Chrome](https://github.com/wahn/export_multi/tree/master/13_neon_and_chrome)
 
