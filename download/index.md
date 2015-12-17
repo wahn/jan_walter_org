@@ -297,7 +297,9 @@ Download
     - ![Alt Subway][subway]
        [Subway](https://github.com/wahn/export_multi/tree/master/14_subway)
 
-        + [Cycles](http://www.blendswap.com/blends/view/72190) (23-09-2015)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/subway_ass.tar.gz) (17-12-2015)
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/subway_blend.tar.gz) (17-12-2015)
 
     - ![Alt Classroom][classroom]
        [Classroom](https://github.com/wahn/export_multi/tree/master/15_classroom)
