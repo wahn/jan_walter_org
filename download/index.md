@@ -301,6 +301,8 @@ Download
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/subway_blend.tar.gz) (17-12-2015)
 
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/subway_lxs.tar.gz) (18-12-2015)
+
     - ![Alt Classroom][classroom]
        [Classroom](https://github.com/wahn/export_multi/tree/master/15_classroom)
        ([textures](https://www.janwalter.org/Download/Scenes/classroom_textures.tar.gz) - (27-10-2015))
