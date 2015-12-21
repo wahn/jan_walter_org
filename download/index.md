@@ -294,6 +294,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/neon_and_chrome_lxs.tar.gz) (14-09-2015)
 
+        + [Radiance](https://www.janwalter.org/Download/Scenes/neon_and_chrome_rad.tar.gz) (21-12-2015)
+
     - ![Alt Subway][subway]
        [Subway](https://github.com/wahn/export_multi/tree/master/14_subway)
 
