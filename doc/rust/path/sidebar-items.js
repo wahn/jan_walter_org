@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Path",""],["PathBuilder","Helper to construct a Path."]]});
