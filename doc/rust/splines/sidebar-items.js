@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BezierCurve",""],["BezierCurveBuilder","Helper to construct a BezierCurve."]]});

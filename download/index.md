@@ -32,6 +32,10 @@ Download
 
     - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
 
+* __Rust Documentation__
+
+    - [splines](https://www.janwalter.org/doc/rust/splines/index.html)
+
 * __Scenes__ (in [Blender](http://www.blender.org/)'s file format are
   in [repository](https://github.com/wahn/export_multi) on
   [GitHub](https://github.com))
