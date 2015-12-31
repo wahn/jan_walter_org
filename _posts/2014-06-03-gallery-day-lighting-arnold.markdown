@@ -307,5 +307,5 @@ resolution.
 [application-notes]:  http://renderman.pixar.com/view/Appnote24
 [renderman]:          http://renderman.pixar.com/view/about-renderman
 [openexr]:            http://www.openexr.org
-[noise-workflow]:     https://support.solidangle.com/display/mayatut/Removing+Noise+Workflow
+[noise-workflow]:     https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow
 [options-parameters]: https://support.solidangle.com/display/NodeRef/options

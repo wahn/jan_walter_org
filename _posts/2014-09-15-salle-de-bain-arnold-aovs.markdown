@@ -320,7 +320,7 @@ Feel free to __download__ the scene and make your own tests:
 [maxwell]:           http://www.maxwellrender.com/
 [renderman]:         http://renderman.pixar.com/view/about-renderman
 [application-notes]: http://renderman.pixar.com/view/Appnote24
-[noise-workflow]:    https://support.solidangle.com/display/mayatut/Removing+Noise+Workflow
+[noise-workflow]:    https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow
 [post]:              https://www.janwalter.org/jekyll/rendering/arnold/2014/06/03/gallery-day-lighting-arnold.html
 [openexr]:           http://openexr.com
 [repo]:              https://github.com/wahn/export_multi/tree/master/09_salle_de_bain/ass
