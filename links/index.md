@@ -159,7 +159,7 @@ Links
 
         + [Users](https://users.rust-lang.org)
 
-        + [Rustplatz - German](http://rustplatz.de)
+        + [Rustplatz - German](https://forum.rustplatz.de)
 
         + [Crates](https://crates.io)
 
