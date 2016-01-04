@@ -45,6 +45,8 @@ Links
 
         + [Rust examples](https://github.com/wahn/Rust_Examples)
 
+        + [Houdini HDK Examples](https://github.com/wahn/Houdini_HDK_Examples)
+
     - [GitLab](https://gitlab.com)
 
         + [calendar and diary tools](https://gitlab.com/jdb-walter/calendar-and-diary-tools)
@@ -123,6 +125,18 @@ Links
 
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
+* __Modeling and Animation__
+
+    - [Blender](http://www.blender.org)
+
+        + [Conference](http://www.blender.org/conference)
+
+        + [BlendSwap](http://www.blendswap.com)
+
+    - [Houdini](http://www.sidefx.com)
+
+        + [HDK](http://www.sidefx.com/docs/hdk15.0)
+
 * __Scenes__
 
     - [BlendSwap](http://www.blendswap.com)
@@ -168,12 +182,6 @@ Links
     - [Privacy Tools - Fried.com](http://fried.com/privacy/)
 
 * __Others__
-
-    - [Blender](http://www.blender.org)
-
-        + [Conference](http://www.blender.org/conference)
-
-        + [BlendSwap](http://www.blendswap.com)
 
     - [FMX](http://fmx.de)
 
