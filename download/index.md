@@ -55,7 +55,7 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (20-02-2015)
 
-        + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (11-11-2015)
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (06-01-2016)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/cornell_box_mi.tar.gz) (16-01-2015)
 
@@ -76,7 +76,7 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/simple_room_lxs.tar.gz) (20-02-2015)
 
-        + [Maxwell](https://www.janwalter.org/Download/Scenes/simple_room_mxs.tar.gz) (13-01-2015)
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/simple_room_mxs.tar.gz) (07-01-2016)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/simple_room_mi.tar.gz) (05-12-2014)
 
@@ -98,7 +98,7 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cafe_scene_lxs.tar.gz) (20-02-2015)
 
-        + [Maxwell](https://www.janwalter.org/Download/Scenes/cafe_scene_mxs.tar.gz) (14-01-2015)
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/cafe_scene_mxs.tar.gz) (07-01-2016)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/cafe_scene_mi.tar.gz) (08-12-2014)
 
