@@ -120,7 +120,7 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (10-12-2014)
 
-        + [Maxwell](https://www.janwalter.org/Download/Scenes/art_gallery_mxs.tar.gz) (15-01-2015)
+        + [Maxwell](https://www.janwalter.org/Download/Scenes/art_gallery_mxs.tar.gz) (09-01-2016)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/art_gallery_mi.tar.gz) (10-12-2014)
 
