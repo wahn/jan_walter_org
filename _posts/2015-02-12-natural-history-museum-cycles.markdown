@@ -25,7 +25,7 @@ other one using materials for the other Blender internal renderer).
 
 [blender]:           http://www.blender.org
 [3drender_com]:      http://www.3drender.com/challenges
-[lighting-tutorial]: https://support.solidangle.com/display/mayatut/Lighting+the+Natural+History+Museum
+[lighting-tutorial]: https://support.solidangle.com/display/AFMUG/Lighting+the+Natural+History+Museum
 [arnold]:            https://www.solidangle.com/arnold
 [repo]:              https://github.com/wahn/export_multi/tree/master/10_natural_history_museum
 [cycles]:            http://wiki.blender.org/index.php/Doc:2.6/Manual/Render/Cycles
