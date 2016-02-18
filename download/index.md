@@ -319,7 +319,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/classroom_ass.tar.gz) (27-10-2015)
 
-        + [Cycles](http://download.blender.org/demo/test/classroom.zip) (23-09-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/classroom_blend.tar.gz) (18-02-2016)
 
         + [Indigo (PIGS)](https://www.janwalter.org/Download/Scenes/classroom.pigs) (02-10-2015)
 
