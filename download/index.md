@@ -118,7 +118,7 @@ Download
         ([PIGS](https://www.janwalter.org/Download/Scenes/art_gallery_pigs.zip))
         (26-02-2015)
 
-        + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (10-12-2014)
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (24-02-2016)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/art_gallery_mxs.tar.gz) (09-01-2016)
 
