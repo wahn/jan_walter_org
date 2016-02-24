@@ -108,7 +108,7 @@ Download
 
     - ![Alt Art Gallery][art_gallery] [Art
        Gallery](https://github.com/wahn/export_multi/tree/master/03_art_gallery)
-       ([textures](https://www.janwalter.org/Download/Scenes/art_gallery_textures.tar.gz) - (26-02-2015))
+       ([textures](https://www.janwalter.org/Download/Scenes/art_gallery_textures.tar.gz) - (24-02-2016))
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (24-02-2016)
 
