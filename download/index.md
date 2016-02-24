@@ -110,7 +110,7 @@ Download
        Gallery](https://github.com/wahn/export_multi/tree/master/03_art_gallery)
        ([textures](https://www.janwalter.org/Download/Scenes/art_gallery_textures.tar.gz) - (26-02-2015))
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (10-12-2014)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (24-02-2016)
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/art_gallery_blend.tar.gz) (07-02-2015)
 
