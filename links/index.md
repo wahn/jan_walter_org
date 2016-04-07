@@ -173,6 +173,8 @@ Links
 
 * __Privacy__
 
+    - [Posteo](https://posteo.de)
+
     - [Purism](https://puri.sm)
 
         + [Forums](https://puri.sm/forums)
