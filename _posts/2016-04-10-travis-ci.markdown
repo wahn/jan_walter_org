@@ -2,7 +2,7 @@
 layout: post
 title:  "Continuous Integration"
 date:   2016-04-10 11:20:00
-categories: jekyll rendering radiance
+categories: jekyll development travis
 ---
 
 At the weekend I spend some time reading articles in a **German**
