@@ -1,0 +1,421 @@
+---
+layout: post
+title:  "Continuous Integration"
+date:   2016-04-10 11:20:00
+categories: jekyll rendering radiance
+---
+
+At the weekend I spend some time reading articles in a **German**
+[journal][journal] about some recent buzz words in **software
+development**, mainly [Continuous Delivery][cd] (CD),
+[DevOps][devops], [Microservices][microservices], and
+[Docker][docker].
+
+## Version Control
+
+While we all are pretty familiar with [version control systems][vcs]
+(VCS), those concepts mainly focus on everything which has to do with
+the [software development process][softdev] and what happens after
+someone checks in a newer version of a file being used in a software
+product. I personally grew up with a **local** version control
+software like [RCS][rcs], moved over time over to **client–server**
+based VCS like [CVS][cvs] and [Subversion][svn], and finally ended up
+using **distributed** VCS like [Mercurial][hg] and most of my time
+[git][git].
+
+## Hosting Repositories
+
+While most companies will host their own repositories for software
+development in-house, there are a couple of services you can register
+for as a single developer, most useful for **open source** software:
+
+* [Bitbucket][bitbucket]: Free for small teams (5 users, **unlimited**
+  public and private repositories).
+
+* [GitHub][github]: Free to use for public and **open source**
+  projects.
+
+* [GitLab][gitlab]: Free public and private repositories. In addition
+  to the web based services you can host your own **GitLab Community
+  Edition** (CE) on one of your own computers.
+
+I personally use all three systems and I'm sure there are more
+providers offering a service like this. Before digging deeper into the
+topic how to set up a system like that yourself you should look around
+and gather information about the **pros and cons** of each
+solution. They change over time and I expect them to provide more or
+less the same services over time.
+
+## Communicating
+
+Indipendent of what other services you will use during the [software
+development process][softdev], there is always a need to communicate
+in your team and probably as well with customers and users of your
+software. At work we use mainly two systems:
+
+* [Slack][slack]
+* [HipChat][hipchat]
+
+They both go far beyond simple chat programs. For example we use
+**Slack** for communicating information to and from developers:
+
+* **Checkins** from e.g. [Gitlab][gitlab]
+
+* Trigger **builds** through e.g. [Jenkins][jenkins]
+
+* Being aware of new **tickets** or updates within existing **tasks**,
+  e.g. through [Redmine][redmine].
+
+One thing to be aware of is that you might want to see what's going on
+while traveling or being away from a secure connection to your local
+company network. Links provided to your in-house repositories or
+ticket system are only pointing to valid information while you are
+connected to your [Intranet][intranet], e.g. via a [virtual private
+network][vpn] (VPN). Nevertheless you might want to see that there are
+actually **updates** happening.
+
+## Get Your Hands Dirty
+
+Let's motivate this with a little **example**. In the following you will:
+
+* use repositories to store the source code for **two libraries**
+
+* delegate **compilation** to another service
+
+* indicate the **success**/failure in a README file
+
+* use and compile **example** programs
+
+* create **documentation** from source code
+
+* (probably) learn another programming language (in this case
+  [Rust][rust])
+
+* hopefully feel motivated to dig deeper into **other tools** being
+  used for the [software development process][softdev].
+
+## Motivation
+
+The two (partial) libraries should be small enough to learn from but
+they do come from a prototype I wrote 20 years ago in another
+programming language ([Python][python]) and got translated for
+production into **C/C++**.
+
+Back then we wrote [software][artemedia] for (another buzz word)
+**Virtual Reality** (VR). Basically a user could navigate with a
+joystick (with 6 degrees of freedom (DOF)) through a virtual model of
+Berlin. The joystick had also a touch screen with some tourist
+attractions stored for simpler navigation. Let's say the user gets
+lost while flying over Berlin with a certain speed in a certain
+direction. So he could press the touch screen and navigate to one of
+the tourist attraction points, let's say the Brandenburger Tor. So all
+the docking points you could fly to had a fly-in **Spline curve** (so
+you approach from a certain direction in a certain altitude). The
+current location and the tracked positions in time and space define
+(or can be used to define) another Spline curve. So what you need to
+do is to create a Spline curve in the middle, between the docking
+curve and the user defined curve while flying/navigating around the
+virtual city model, calculate the **length** of the (combined) curve
+to switch to auto-fly-mode and bring the user back to the
+Brandenburger Tor with a proper speed and a smooth navigation
+curve. Of course this is far more complex then in the source code I
+will provide, but the source code is complete enough to demonstrate
+all aspects I was talking about earlier.
+
+## Build, Test, and Document
+
+With Rust your project can be organized in a way that [Cargo][cargo]
+can be used to compile libraries and executables as well as create
+documentation from source code, similar to [Doxygen][doxygen].
+
+First clone the first (partial) library, called **rs_path**:
+
+{% highlight tcsh %}
+% pwd
+/Users/jan/git/github
+% git clone https://github.com/wahn/rs_path.git
+Cloning into 'rs_path'...
+remote: Counting objects: 29, done.
+remote: Compressing objects: 100% (22/22), done.
+remote: Total 29 (delta 8), reused 19 (delta 3), pack-reused 0
+Unpacking objects: 100% (29/29), done.
+Checking connectivity... done.
+{% endhighlight %}
+
+Build the library **libpath.rlib**:
+
+{% highlight tcsh %}
+% cd rs_path/
+% cargo build
+    Updating registry `https://github.com/rust-lang/crates.io-index`
+   Compiling libc v0.2.9
+   Compiling rustc-serialize v0.3.19
+   Compiling rand v0.3.14
+   Compiling num v0.1.31
+   Compiling nalgebra v0.5.1
+   Compiling path v0.1.0 (file:///Users/jan/git/github/rs_path)
+% ls target/debug/libpath.rlib 
+target/debug/libpath.rlib
+{% endhighlight %}
+
+Compile and run **test** code (from **examples** sub-directory):
+
+{% highlight tcsh %}
+% cargo test
+   Compiling path v0.1.0 (file:///Users/jan/git/github/rs_path)
+     Running target/debug/path-1cf22e294aaca7f6
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured
+
+   Doc-tests path
+
+running 1 test
+test _0 ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured
+
+% target/debug/examples/evaluate
+path.length() = 12.727921
+Path { ... }
+...
+{% endhighlight %}
+
+Build **documentation** (including info about other libraries, called
+**crates** in [Rust][rust] language):
+
+{% highlight tcsh %}
+% cargo doc
+ Documenting rustc-serialize v0.3.19
+ Documenting libc v0.2.9
+ Documenting rand v0.3.14
+ Documenting num v0.1.31
+ Documenting nalgebra v0.5.1
+ Documenting path v0.1.0 (file:///Users/jan/git/github/rs_path)
+% open target/doc/path/index.html
+{% endhighlight %}
+
+Here is how the documentation for the **libpath.rlib** library looks like:
+
+[https://www.janwalter.org/doc/rust/path/index.html][path]
+
+Click on [PathBuilder][PathBuilder] to see that you use a struct
+called **PathBuilder** to call **add_point** a couple of times between
+**new** and **finalize**. The documentation tells you also about an
+alternative function called **add\_sorted\_point** which allows you to
+add the points in any order (regarding the time you call the
+function), but order the points using additional information
+(**param**) to sort by those values instead of the time of the
+function call.
+
+## Delegating Compilation to Travis CI
+
+So far we had to **install** Rust and Cargo **locally** to compile,
+test, and create documentation. If you look at the [rs_path][rs_path]
+project on [GitHub][github] you will see a little green button (if the
+build was passing) created by [Travis CI][travis]:
+
+<img src="/assets/rs_path.png" alt="rs_path on github." width="960"
+class="img-thumbnail"/>
+
+First familiarize yourself with **Travis CI** by reading some [basic
+information][for_beginners] and follow the instructions there. After
+that read the **Rust specific** [info][travis_rust]. As you can see
+our **rs_path** project depends on another library (or **crate**)
+called [nalgebra][nalgebra]:
+
+{% highlight yaml %}
+[package]
+name = "path"
+version = "0.1.0"
+authors = ["Jan Walter <jan@janwalter.com>"]
+
+[dependencies]
+nalgebra = "0.5"
+{% endhighlight %}
+
+But where is the green button coming from? It seems to be part of the
+**README.md** file. Well, it is:
+
+{% highlight tcsh %}
+% more README.md 
+# rs_path
+
+[![Build Status](https://travis-ci.org/wahn/rs_path.svg?branch=master)](https://travis-ci.org/wahn/rs_path)
+
+**Rust** crate being used by https://www.janwalter.org/doc/rust/splines/index.html.
+
+See https://www.janwalter.org/doc/rust/path/index.html for now ...
+{% endhighlight %}
+
+If you click on the button your should end up [here][travis_path]:
+
+<img src="/assets/rs_path_build.png" alt="rs_path on travis-ci.org."
+width="960" class="img-thumbnail"/>
+
+As you can see it builds (after each commit) with **three** Rust **versions**:
+
+* stable
+* beta
+* nightly
+
+This way I can easily see that my code might brake with a non-stable
+(or an upgraded) Rust version without the need to install all versions
+locally.
+
+# Dependent On A Not Published Crate
+
+Clone the second (partial) library, called **rs_splines**:
+
+{% highlight tcsh %}
+% pwd
+/Users/jan/git/github
+% git clone https://github.com/wahn/rs_splines.git
+Cloning into 'rs_splines'...
+remote: Counting objects: 23, done.
+remote: Compressing objects: 100% (15/15), done.
+remote: Total 23 (delta 5), reused 18 (delta 4), pack-reused 0
+Unpacking objects: 100% (23/23), done.
+Checking connectivity... done.
+{% endhighlight %}
+
+Build the library **libpath.rlib**:
+
+{% highlight tcsh %}
+% cd rs_splines/
+% cargo build
+    Updating git repository `https://github.com/wahn/rs_path.git`
+    Updating registry `https://github.com/rust-lang/crates.io-index`
+   Compiling rustc-serialize v0.3.19
+   Compiling libc v0.2.9
+   Compiling rand v0.3.14
+   Compiling num v0.1.31
+   Compiling nalgebra v0.5.1
+   Compiling path v0.1.0 (https://github.com/wahn/rs_path.git#a9a2f2a1)
+   Compiling splines v0.1.0 (file:///Users/jan/git/github/rs_splines)
+% ls target/debug/libsplines.rlib 
+target/debug/libsplines.rlib
+{% endhighlight %}
+
+Compile and run **test** code (from **examples** sub-directory):
+
+{% highlight tcsh %}
+% cargo test
+   Compiling splines v0.1.0 (file:///Users/jan/git/github/rs_splines)
+     Running target/debug/splines-a11005c2e235b18d
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured
+
+   Doc-tests splines
+
+running 1 test
+test _0 ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured
+
+% target/debug/examples/create_path
+BezierCurve { cvs: ... }
+create_path(0.01) = Path { ... }
+create_path(0.001) = Path { ... }
+BezierCurve { cvs: ... }
+create_path(0.01) = Path { ... }
+create_path(0.001) = Path { ... }
+
+% target/debug/examples/length
+BezierCurve { cvs: ... }
+length(0.01) = 2.2878914
+length(0.001) = 2.2942495
+BezierCurve { cvs: ... }
+length(0.01) = 1.9877158
+length(0.001) = 1.9969313
+
+% target/debug/examples/split
+BezierCurve { cvs: ... }
+left = BezierCurve { cvs: ... }
+right = BezierCurve { cvs: ... }
+BezierCurve { cvs: ... }
+left = BezierCurve { cvs: ... }
+right = BezierCurve { cvs: ... }
+{% endhighlight %}
+
+Build **documentation** (including info about other libraries, called
+**crates** in [Rust][rust] language):
+
+{% highlight tcsh %}
+% cargo doc
+ Documenting rustc-serialize v0.3.19
+ Documenting libc v0.2.9
+ Documenting rand v0.3.14
+ Documenting num v0.1.31
+ Documenting nalgebra v0.5.1
+ Documenting path v0.1.0 (https://github.com/wahn/rs_path.git#a9a2f2a1)
+ Documenting splines v0.1.0 (file:///Users/jan/git/github/rs_splines)
+% open target/doc/splines/index.html
+{% endhighlight %}
+
+Here is how the documentation for the **libsplines.rlib** library looks like:
+
+[https://www.janwalter.org/doc/rust/splines/index.html][splines]
+
+Click on [BezierCurveBuilder][bc_builder] to see that you use a struct
+called **BezierCurveBuilder** to call **add_cv** a couple of times
+between **new** and **finalize**. This implicitly defines the
+**degree** of the Bezier curve. The documentation tells you also about
+an optional function called **set_interval** which allows you to
+overwrite the default interval of [0,1].
+
+Finally click on the [BezierCurve][bc] to see four functions you can
+call on the finished curve (once you called **finalize** on the
+**BezierCurveBuilder**). Three of those functions were tested above
+with example code running parts of the library. I think you get the
+idea ...
+
+## Conclusion
+
+If you think this was complicated then be assured that this was just
+the tip of the iceberg. Taking care of all the tools involved in the
+[software development process][softdev] can be far more
+complicated. That's why you should wisely choose which services to pay
+for and which parts should be protected by taking care of them
+yourself (e.g. for **security** reasons).
+
+[journal]:       https://shop.heise.de/katalog/ix-developer-entwickeln-02-2016
+[cd]:            https://en.wikipedia.org/wiki/Continuous_delivery
+[devops]:        https://en.wikipedia.org/wiki/DevOps
+[microservices]: https://en.wikipedia.org/wiki/Microservices
+[docker]:        https://www.docker.com/what-docker
+[vcs]:           https://en.wikipedia.org/wiki/Version_control
+[softdev]:       https://en.wikipedia.org/wiki/Software_development_process
+[rcs]:           https://en.wikipedia.org/wiki/Revision_Control_System
+[cvs]:           https://en.wikipedia.org/wiki/Concurrent_Versions_System
+[svn]:           https://en.wikipedia.org/wiki/Apache_Subversion
+[hg]:            https://en.wikipedia.org/wiki/Mercurial
+[git]:           https://en.wikipedia.org/wiki/Git_%28software%29
+[bitbucket]:     https://bitbucket.org
+[github]:        https://github.com
+[gitlab]:        https://about.gitlab.com
+[slack]:         https://slack.com
+[hipchat]:       https://hipchat.com
+[Jenkins]:       https://en.wikipedia.org/wiki/Jenkins_%28software%29
+[Redmine]:       https://en.wikipedia.org/wiki/Redmine
+[intranet]:      https://en.wikipedia.org/wiki/Intranet
+[vpn]:           https://en.wikipedia.org/wiki/Virtual_private_network
+[rust]:          https://www.rust-lang.org
+[python]:        https://www.python.org
+[artemedia]:     http://partners.nytimes.com/library/cyber/euro/120297euro.html
+[cargo]:         http://doc.crates.io/guide.html
+[doxygen]:       https://de.wikipedia.org/wiki/Doxygen
+[path]:          https://www.janwalter.org/doc/rust/path/index.html
+[pathbuilder]:   https://www.janwalter.org/doc/rust/path/struct.PathBuilder.html
+[rs_path]:       https://github.com/wahn/rs_path
+[travis]:        https://travis-ci.org
+[for_beginners]: https://docs.travis-ci.com/user/for-beginners
+[travis_rust]:   https://docs.travis-ci.com/user/languages/rust
+[nalgebra]:      https://crates.io/crates/nalgebra
+[travis_path]:   https://travis-ci.org/wahn/rs_path
+[splines]:       https://www.janwalter.org/doc/rust/splines/index.html
+[bc_builder]:    https://www.janwalter.org/doc/rust/splines/struct.BezierCurveBuilder.html
+[bc]:            https://www.janwalter.org/doc/rust/splines/struct.BezierCurve.html
