@@ -53,6 +53,8 @@ Links
 
         + [List of supported languages and lexers](https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers)
 
+    - [Travis CI](https://travis-ci.org/)
+
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
     - [Arnold](http://www.solidangle.com)
@@ -173,6 +175,16 @@ Links
 
 * __Privacy__
 
+    - [Posteo](https://posteo.de)
+
+    - [Purism](https://puri.sm)
+
+        + [Forums](https://puri.sm/forums)
+
+        + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m.
+
+        + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2)
+
     - [Privacy Badger](https://www.eff.org/privacybadger)
 
     - [Prism Break](https://prism-break.org/en)
@@ -181,6 +193,8 @@ Links
 
     - [Privacy Tools - Fried.com](http://fried.com/privacy/)
 
+    - [Turris Omnia Router](https://www.indiegogo.com/projects/turris-omnia-hi-performance-open-source-router#)
+
 * __Others__
 
     - [FMX](http://fmx.de)
@@ -188,5 +202,7 @@ Links
     - [OpenEXR](http://www.openexr.org)
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
+
+    - [Skat-Palast](https://www.skat-palast.de)
 
     - [Vulkan](https://www.khronos.org/vulkan)
