@@ -280,7 +280,7 @@ Unpacking objects: 100% (23/23), done.
 Checking connectivity... done.
 {% endhighlight %}
 
-Build the library **libpath.rlib**:
+Build the library **libsplines.rlib**:
 
 {% highlight tcsh %}
 % cd rs_splines/
