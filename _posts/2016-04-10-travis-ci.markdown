@@ -48,7 +48,7 @@ less the same services over time.
 
 ## Communicating
 
-Indipendent of what other services you will use during the [software
+Independent of what other services you will use during the [software
 development process][softdev], there is always a need to communicate
 in your team and probably as well with customers and users of your
 software. At work we use mainly two systems:
