@@ -16,3 +16,10 @@ class="img-thumbnail"/></a></div>
 href='https://vimeo.com/154038415'><img
 src='/assets/video-chemical-brothers-wide-open-behind-the-scenes.png' height="520"
 class="img-thumbnail"/></a></div>
+
+## 360°
+
+<div id='7bAJoyMhECI' class="youtube"><a
+href='https://www.youtube.com/watch?v=7bAJoyMhECI'><img
+src='/assets/video-chemical-brothers-wide-open-360.png' height="380"
+class="img-thumbnail"/></a></div>
