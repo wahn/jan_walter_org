@@ -197,6 +197,8 @@ Links
 
     - [Turris Omnia Router](https://www.indiegogo.com/projects/turris-omnia-hi-performance-open-source-router#)
 
+    - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
+
 * __Others__
 
     - [FMX](http://fmx.de)
