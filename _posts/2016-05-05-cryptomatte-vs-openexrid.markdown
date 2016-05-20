@@ -17,6 +17,11 @@ href='https://vimeo.com/136954966'><img
 src='/assets/cryptomatte.png' width="740"
 class="img-thumbnail"/></a></div>
 
+### Update
+
+**Jonah Friedman** just provided a [link][jonahfriedman] for the
+  [SIGGRAPH][siggraph] poster.
+
 ## OpenEXR/Id
 
 Recently it was brought to my attention that [Guerilla
@@ -94,12 +99,13 @@ I hope one or the other will be a **standard** soon, so more renderers
 will support writing out IDs in such a way that it can be used in
 (various) compositing applications.
 
-[siggraph]:    http://www.siggraph.org
-[psyop]:       http://www.psyop.tv
-[guerilla]:    http://guerillarender.com/
-[openexrid]:   https://github.com/MercenariesEngineering/openexrid
-[nuke]:        https://www.thefoundry.co.uk/products/nuke
-[natron]:      http://natron.fr/features
-[openeffects]: http://openeffects.org
-[arnold]:      https://www.solidangle.com
-[alshaders]:   http://anderslanglands.com/alshaders
+[siggraph]:      http://www.siggraph.org
+[psyop]:         http://www.psyop.tv
+[guerilla]:      http://guerillarender.com/
+[openexrid]:     https://github.com/MercenariesEngineering/openexrid
+[nuke]:          https://www.thefoundry.co.uk/products/nuke
+[natron]:        http://natron.fr/features
+[openeffects]:   http://openeffects.org
+[arnold]:        https://www.solidangle.com
+[alshaders]:     http://anderslanglands.com/alshaders
+[jonahfriedman]: http://www.jonahfriedman.com/?p=2494
