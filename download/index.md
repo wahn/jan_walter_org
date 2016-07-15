@@ -333,6 +333,8 @@ Download
        [Attic](https://cloud.blender.org/p/gallery/564a0d34c379cf089a7ad48f)
        ([textures](https://www.janwalter.org/Download/Scenes/attic_textures.tar.gz) - (14-07-2016))
 
+        + [Arnold](https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz) (15-07-2016)
+
         + [Cycles](https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz) (14-07-2016)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (14-07-2016)
