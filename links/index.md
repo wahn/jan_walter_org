@@ -129,9 +129,11 @@ Links
 
 * __Modeling and Animation__
 
-    - [Blender](http://www.blender.org)
+    - [Blender](https://www.blender.org)
 
-        + [Conference](http://www.blender.org/conference)
+        + [Conference](https://www.blender.org/conference)
+
+        + [Cloud](https://cloud.blender.org)
 
         + [BlendSwap](http://www.blendswap.com)
 

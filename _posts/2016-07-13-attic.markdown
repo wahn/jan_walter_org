@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "[Blender Cloud] Attic"
+date:   2016-07-13 13:30:00
+categories: jekyll blender cloud attic
+---
+
+## Blender Cloud
+
+I started using [Blender][blender] scenes from the [Blender
+Cloud][cloud]. The intention behind that is
+
+1. to remind people to support the [Blender Institute][about]
+2. to use more and more realistic scenes for my render tests
+3. to make my [multi exporter][exporter] more stable and production ready
+4. because the scenes and textures being used are getting too big to be stored via [git][git]
+5. I'm probably going to retire the [repository][repository] for my test scenes
+6. that I will provide [download][download] links instead 
+
+## Cycles
+
+<p class="text-center"><img src="/assets/attic_cycles_cloud.png"
+alt="Attic scene from Blender Cloud." width="740"
+class="img-thumbnail"/></p>
+
+[Cycles][cycles] was used to render the original scene from the
+[Blender Cloud][cloud] and uses volumetric effects like scatter and
+absorption. If you click on the [Attic][attic] link in the
+[download][download] section you will be able to get two Blender files
+from the cloud. One with, one without the fog. I modified the scene
+slightly to work with my [multi exporter][exporter] and if you click
+on the [Cycles][attic_cycles] link (in the [download][download]
+section) you will be able to download the __modified scene__. The main
+difference is to simplify the material node network to use simple
+materials, like pure diffuse, a mix of diffuse and glossy, or a mix of
+diffuse and transparent. In the future I might add other combinations,
+but texturing (as required by the scene) is supported.
+
+## Radiance
+
+<p class="text-center"><img src="/assets/attic_radiance_x11.png"
+alt="Radiance helps with tweaking settings for other renderers."
+width="740" class="img-thumbnail"/></p>
+
+The current state of the [Radiance][radiance] exporter doesn't support
+textures (yet), but I still like to use the renderer to see the light
+distribution within the un-textured scene and to analyze it, e.g. by
+using __falsecolor__ [option][option]:
+
+<p class="text-center"><img src="/assets/attic_radiance_lux.png"
+alt="Radiance can be used to visualize the distribution of light."
+width="740" class="img-thumbnail"/></p>
+
+Here are the commands I used to render two images with Radiance and
+mix them to visualize the amount of Lux arriving at different parts of
+the scene via __falsecolor contours__:
+
+{% highlight tcsh %}
+rad -n attic.rif > attic.sh
+sh attic.sh
+rpict -vp 3.4038350582122803 1.1545137166976929 -0.8958941102027893 -vd -0.9505669474601746 -0.28570425510406494 0.1216370165348053 -vu 0.14788036048412323 -0.07206873595714569 0.9863760471343994 -vh 59.48976259388444 -vv 35.63777782904556 -x 2880 -y 1620 -dp 2048 -ar 39 -ms 0.13 -ds .2 -dt .05 -dc .75 -dr 3 -ss 16 -st .01 -ab 2 -af attic.amb -aa .1 -ad 1536 -as 768 -av 0.01 0.01 0.01 -lr 12 -lw 1e-5 -ps 5 -pt .04 -i attic.oct > attic_1_irr.unf
+pfilt -m .25 -x /3 -y /3 attic_1_irr.unf > attic_1_irr.hdr
+falsecolor -i attic_1_irr.hdr -p attic_1.hdr -cl -n 20 -s 2000 -l lux > attic_lux.hdr
+ra_tiff attic_lux.hdr attic_lux.tiff
+imf_copy attic_lux.tiff attic_lux.png
+{% endhighlight %}
+
+The details about this procedure are explained in a previous blog
+[post][post].
+
+## Luxrender
+
+<p class="text-center"><img src="/assets/attic_luxrender.png"
+alt="Luxrender rendering with textures but without fog."  width="740"
+class="img-thumbnail"/></p>
+
+As you might have noticed the [Radiance][radiance] rendering doesn't
+show the __holes in the roof__ as in the original scene. The reason
+for that is the missing support for textures, because the holes are
+basically created by a mix of a diffuse with a transparent material,
+__controlled__ by a texture to indicate the __transparency__. The
+[Luxrender][luxrender] rendering shows those holes, but I used a
+slighly different texture (and uv-coordinates) in comparison to the
+original scene. In the future I might add __fog__ for those renderers
+which support __volumes__. See [Haunted Hallway - Luxrender and
+PRMan][volumes] scene.
+
+## Arnold
+
+<p class="text-center"><img src="/assets/attic_arnold.png"
+alt="Arnold rendering with textures but without fog."  width="740"
+class="img-thumbnail"/></p>
+
+With some manual tweaking of [Arnold][arnold]'s render options you can
+achieve rendering times around 2 hours. The already tweaked
+[Arnold][arnold] scene description can be found
+[here][attic_arnold]. There is also one single shader (__alLayer__
+from [alShaders][alshaders]) included (compiled for Arnold version
+4.2.14.1 on Linux) which is used to mix two standard shaders.
+
+[blender]:      https://www.blender.org
+[cloud]:        https://cloud.blender.org
+[about]:        https://cloud.blender.org/blog/blender-cloud-v3
+[exporter]:     https://bitbucket.org/wahn/blender-add-ons/wiki/io_scene_multi
+[git]:          https://git-scm.com
+[repository]:   https://github.com/wahn/export_multi
+[download]:     https://www.janwalter.org/download
+[cycles]:       https://www.blender.org/manual/render/cycles/index.html
+[attic]:        https://cloud.blender.org/p/gallery/564a0d34c379cf089a7ad48f
+[attic_cycles]: https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz
+[radiance]:     http://radsite.lbl.gov/radiance
+[option]:       http://radsite.lbl.gov/radiance/man_html/falsecolor.1.html
+[post]:         https://www.janwalter.org/jekyll/rendering/radiance/2015/10/02/classroom-radiance_falsecolor.html
+[luxrender]:    http://www.luxrender.net/en_GB/index
+[volumes]:      https://www.janwalter.org/jekyll/rendering/luxrender/2015/08/28/haunted-hallway-luxrender-prman.html
+[arnold]:       http://www.solidangle.com
+[attic_arnold]: https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz
+[alshaders]:    http://anderslanglands.com/alshaders/index.html

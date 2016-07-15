@@ -329,6 +329,16 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/classroom_rad.tar.gz) (02-10-2015)
 
+    - ![Alt Attic][attic]
+       [Attic](https://cloud.blender.org/p/gallery/564a0d34c379cf089a7ad48f)
+       ([textures](https://www.janwalter.org/Download/Scenes/attic_textures.tar.gz) - (14-07-2016))
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz) (14-07-2016)
+
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (14-07-2016)
+
+        + [Radiance](https://www.janwalter.org/Download/Scenes/attic_rad.tar.gz) (14-07-2016)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -365,3 +375,4 @@ Download
 [subway]:                 /thumbnails/scenes/subway_89x50.png "Subway"
 [classroom]:              /thumbnails/scenes/classroom_89x50.png "Classroom"
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
+[attic]:                  /thumbnails/scenes/attic_99x50.png "Attic"
