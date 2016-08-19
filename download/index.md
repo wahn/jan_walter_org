@@ -262,6 +262,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/natural_history_museum_mi.tar.gz) (26-11-2014)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/natural_history_museum_rib.tar.gz) (19-08-2016)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/natural_history_museum_rad.tar.gz) (12-12-2015)
 
     - ![Alt Bedroom][bedroom]
