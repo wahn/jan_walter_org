@@ -34,6 +34,8 @@ Download
 
 * __Rust Documentation__
 
+    - [partio](https://www.janwalter.org/doc/rust/partio/index.html)
+
     - [path](https://www.janwalter.org/doc/rust/path/index.html)
 
     - [splines](https://www.janwalter.org/doc/rust/splines/index.html)
