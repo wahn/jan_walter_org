@@ -3,6 +3,8 @@ Jan Walter's Blog
 
 This is the **Jekyll** source for https://www.janwalter.org.
 
+Most of the topics are somehow related to rendering.
+
 I first looked into [Scott Chacons
 Blog](https://github.com/schacon/schacon.github.com) as an example,
 but soon realized that I could start from running:
