@@ -13,3 +13,7 @@ Based on [a
 tutorial](https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial)
 I decided to use some of [Bootstrap's many
 components](http://getbootstrap.com/getting-started/#examples).
+
+Social-Media-Buttons by Heise's **Shariff**:
+
+http://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html
