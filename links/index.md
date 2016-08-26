@@ -201,6 +201,12 @@ Links
 
     - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
 
+    - [How privacy-friendly is your site?](https://webbkoll.dataskydd.net/en)
+
+    - [SSL Server Test](https://www.ssllabs.com/ssltest)
+
+    - [Security Headers](https://securityheaders.io)
+
 * __Others__
 
     - [FMX](http://fmx.de)
