@@ -201,6 +201,8 @@ Links
 
     - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
 
+    - [Mozilla Observatory](https://observatory.mozilla.org/)
+
     - [How privacy-friendly is your site?](https://webbkoll.dataskydd.net/en)
 
     - [SSL Server Test](https://www.ssllabs.com/ssltest)
