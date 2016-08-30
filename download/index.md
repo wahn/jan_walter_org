@@ -343,6 +343,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (22-07-2016) - for [Windows users](https://www.janwalter.org/Download/Scenes/attic_lxs.7z) (including textures) (22-07-2016)
 
+        + [PRMan](https://www.janwalter.org/Download/Scenes/attic_rib.tar.gz) (30-08-2016)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/attic_rad.tar.gz) (14-07-2016)
 
 * __Animations__
