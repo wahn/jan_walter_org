@@ -98,6 +98,18 @@ achieve rendering times around 2 hours. The already tweaked
 from [alShaders][alshaders]) included (compiled for Arnold version
 4.2.14.1 on Linux) which is used to mix two standard shaders.
 
+## RenderMan
+
+<p class="text-center"><img src="/assets/attic_prman.png"
+alt="RenderMan rendering with textures but without fog." width="740"
+class="img-thumbnail"/></p>
+
+The image above was rendered by Pixar's PhotoRealistic
+[RenderMan][renderman] (version 20.9), also in approximately 2
+hours. The **RIB** file including special versions of the textures
+(being created by **txmake**) can be downloaded from
+[here][attic_prman].
+
 [blender]:      https://www.blender.org
 [cloud]:        https://cloud.blender.org
 [about]:        https://cloud.blender.org/blog/blender-cloud-v3
@@ -116,3 +128,5 @@ from [alShaders][alshaders]) included (compiled for Arnold version
 [arnold]:       http://www.solidangle.com
 [attic_arnold]: https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz
 [alshaders]:    http://anderslanglands.com/alshaders/index.html
+[renderman]:    http://renderman.pixar.com/view/about-renderman
+[attic_prman]:  https://www.janwalter.org/Download/Scenes/attic_rib.tar.gz
