@@ -175,6 +175,20 @@ Links
 
     - [Swift](https://swift.org)
 
+    - [Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
+
+* __Libraries__
+
+    - [OpenColorIO](http://opencolorio.org)
+
+    - [OpenEXR](http://www.openexr.org)
+
+    - [OpenImageIO](http://www.openimageio.org)
+
+    - [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html)
+
+    - [OpenUSD](http://openusd.org)
+
 * __Privacy__
 
     - [Free OS X Security Tools](https://objective-see.com/products.html)
@@ -212,8 +226,6 @@ Links
 * __Others__
 
     - [FMX](http://fmx.de)
-
-    - [OpenEXR](http://www.openexr.org)
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
