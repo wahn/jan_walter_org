@@ -339,7 +339,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz) (22-07-2016)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz) (22-07-2016)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz) (07-09-2016)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (22-07-2016) - for [Windows users](https://www.janwalter.org/Download/Scenes/attic_lxs.7z) (including textures) (22-07-2016)
 
