@@ -17,6 +17,9 @@ Cloud][cloud]. The intention behind that is
 5. I'm probably going to retire the [repository][repository] for my test scenes
 6. that I will provide [download][download] links instead 
 
+This scene in particular was modelled by __Gleb Alexandrov__, the
+author of the [Creative Shrimp blog][creative_shrimp].
+
 ## Cycles
 
 <p class="text-center"><img src="/assets/attic_cycles_cloud.png"
@@ -110,23 +113,40 @@ hours. The **RIB** file including special versions of the textures
 (being created by **txmake**) can be downloaded from
 [here][attic_prman].
 
-[blender]:      https://www.blender.org
-[cloud]:        https://cloud.blender.org
-[about]:        https://cloud.blender.org/blog/blender-cloud-v3
-[exporter]:     https://bitbucket.org/wahn/blender-add-ons/wiki/io_scene_multi
-[git]:          https://git-scm.com
-[repository]:   https://github.com/wahn/export_multi
-[download]:     https://www.janwalter.org/download
-[cycles]:       https://www.blender.org/manual/render/cycles/index.html
-[attic]:        https://cloud.blender.org/p/gallery/564a0d34c379cf089a7ad48f
-[attic_cycles]: https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz
-[radiance]:     http://radsite.lbl.gov/radiance
-[option]:       http://radsite.lbl.gov/radiance/man_html/falsecolor.1.html
-[post]:         https://www.janwalter.org/jekyll/rendering/radiance/2015/10/02/classroom-radiance_falsecolor.html
-[luxrender]:    http://www.luxrender.net/en_GB/index
-[volumes]:      https://www.janwalter.org/jekyll/rendering/luxrender/2015/08/28/haunted-hallway-luxrender-prman.html
-[arnold]:       http://www.solidangle.com
-[attic_arnold]: https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz
-[alshaders]:    http://anderslanglands.com/alshaders/index.html
-[renderman]:    http://renderman.pixar.com/view/about-renderman
-[attic_prman]:  https://www.janwalter.org/Download/Scenes/attic_rib.tar.gz
+## Guerilla Render
+
+<p class="text-center"><img src="/assets/attic_guerilla.png"
+alt="Guerilla Render rendering with textures but without fog."
+width="740" class="img-thumbnail"/></p>
+
+I did send __Cyril Corvazier__ from [Guerilla Render][guerilla] a Maya
+2014 scene (which I imported into Maya via my own translator, which
+can read Arnold's __.ass__ files) and he prepared the scene to render
+with [Guerilla Render][guerilla]. The scene can be downloaded from
+their [samples gallery][guerilla_samples] as well as from my [download
+section][attic_guerilla]. The resulting image can be seen above.
+
+[blender]:          https://www.blender.org
+[cloud]:            https://cloud.blender.org
+[about]:            https://cloud.blender.org/blog/blender-cloud-v3
+[exporter]:         https://bitbucket.org/wahn/blender-add-ons/wiki/io_scene_multi
+[git]:              https://git-scm.com
+[repository]:       https://github.com/wahn/export_multi
+[download]:         https://www.janwalter.org/download
+[cycles]:           https://www.blender.org/manual/render/cycles/index.html
+[attic]:            https://cloud.blender.org/p/gallery/564a0d34c379cf089a7ad48f
+[attic_cycles]:     https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz
+[radiance]:         http://radsite.lbl.gov/radiance
+[option]:           http://radsite.lbl.gov/radiance/man_html/falsecolor.1.html
+[post]:             https://www.janwalter.org/jekyll/rendering/radiance/2015/10/02/classroom-radiance_falsecolor.html
+[luxrender]:        http://www.luxrender.net/en_GB/index
+[volumes]:          https://www.janwalter.org/jekyll/rendering/luxrender/2015/08/28/haunted-hallway-luxrender-prman.html
+[arnold]:           http://www.solidangle.com
+[attic_arnold]:     https://www.janwalter.org/Download/Scenes/attic_ass.tar.gz
+[alshaders]:        http://anderslanglands.com/alshaders/index.html
+[renderman]:        http://renderman.pixar.com/view/about-renderman
+[attic_prman]:      https://www.janwalter.org/Download/Scenes/attic_rib.tar.gz
+[creative_shrimp]:  http://www.creativeshrimp.com
+[guerilla]:         http://guerillarender.com
+[guerilla_samples]: http://guerillarender.com/?page_id=583
+[attic_guerilla]:   https://www.janwalter.org/Download/Scenes/attic_guerilla.zip
