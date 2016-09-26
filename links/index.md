@@ -223,6 +223,12 @@ Links
 
     - [Security Headers](https://securityheaders.io)
 
+* __News__
+
+    - [Heise](https://www.heise.de) - German
+
+    - [BBC](http://www.bbc.co.uk/news)
+
 * __Others__
 
     - [FMX](http://fmx.de)
