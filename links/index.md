@@ -81,6 +81,10 @@ Links
 
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
+    - [Guerilla Render](http://guerillarender.com)
+
+        + [Sample Projects](http://guerillarender.com/?page_id=583)
+
     - [Indigo](http://www.indigorenderer.com)
 
         + [Forum](http://www.indigorenderer.com/forum)
@@ -222,6 +226,12 @@ Links
     - [SSL Server Test](https://www.ssllabs.com/ssltest)
 
     - [Security Headers](https://securityheaders.io)
+
+* __News__
+
+    - [Heise](https://www.heise.de) - German
+
+    - [BBC](http://www.bbc.co.uk/news)
 
 * __Others__
 
