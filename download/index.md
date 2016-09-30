@@ -25,6 +25,8 @@ Download
 
 * __Free Books__
 
+    - [The Book of Shaders](http://thebookofshaders.com)
+
     - [Why
       Rust?](https://www.janwalter.org/Download/Books/why-rust.pdf)
       from [O'Reilly]
