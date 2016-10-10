@@ -2,4 +2,4 @@ name: JanWalter.org
 markdown: redcarpet
 timezone: Europe/Berlin
 encoding: UTF-8
-highlighter: pygments
+highlighter: rouge

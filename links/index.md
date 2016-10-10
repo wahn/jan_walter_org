@@ -18,6 +18,10 @@ Links
 
     - [Bootstrap](http://getbootstrap.com)
 
+    - [Rouge](http://rouge.jneen.net) - Code highlighter written in
+      [Ruby](https://www.ruby-lang.org/en), replacing
+      [Pygments](http://pygments.org/docs/lexers)
+
     - Available [Pygments](http://pygments.org/docs/lexers) lexers (search
   for 'short names')
 
