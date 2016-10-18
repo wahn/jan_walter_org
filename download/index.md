@@ -183,11 +183,11 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/theater_ass.tar.gz) (06-02-2015)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/theater_blend.tar.gz) (18-02-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/theater_blend.tar.gz) (18-10-2016)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/theater_igs.tar.gz) (04-02-2015)
 
-        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (14-10-2016)
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (18-10-2016)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/theater_mxs.tar.gz) (06-02-2015)
 
