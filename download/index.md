@@ -34,6 +34,8 @@ Download
 
     - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
 
+    - [Vim for humans](https://vimebook.com/en)
+
 * __Rust Documentation__
 
     - [partio](https://www.janwalter.org/doc/rust/partio/index.html)
