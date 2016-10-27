@@ -347,6 +347,8 @@ Download
 
         + [Guerilla](https://www.janwalter.org/Download/Scenes/attic_guerilla.zip) (15-09-2016)
 
+        + [Indigo (PIGS)](https://www.janwalter.org/Download/Scenes/attic.pigs) (27-10-2016)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (22-07-2016) - for [Windows users](https://www.janwalter.org/Download/Scenes/attic_lxs.7z) (including textures) (22-07-2016)
 
         + [PRMan](https://www.janwalter.org/Download/Scenes/attic_rib.tar.gz) (30-08-2016)
