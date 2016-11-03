@@ -34,6 +34,8 @@ Download
 
     - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
 
+    - [Vim for humans](https://vimebook.com/en)
+
 * __Rust Documentation__
 
     - [partio](https://www.janwalter.org/doc/rust/partio/index.html)
@@ -183,11 +185,11 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/theater_ass.tar.gz) (06-02-2015)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/theater_blend.tar.gz) (18-02-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/theater_blend.tar.gz) (18-10-2016)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/theater_igs.tar.gz) (04-02-2015)
 
-        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (04-02-2015)
+        + [Luxrender](https://www.janwalter.org/Download/Scenes/theater_lxs.tar.gz) (18-10-2016)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/theater_mxs.tar.gz) (06-02-2015)
 
@@ -344,6 +346,8 @@ Download
         + [Cycles](https://www.janwalter.org/Download/Scenes/attic_blend.tar.gz) (07-09-2016)
 
         + [Guerilla](https://www.janwalter.org/Download/Scenes/attic_guerilla.zip) (15-09-2016)
+
+        + [Indigo (PIGS)](https://www.janwalter.org/Download/Scenes/attic.pigs) (27-10-2016)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/attic_lxs.tar.gz) (22-07-2016) - for [Windows users](https://www.janwalter.org/Download/Scenes/attic_lxs.7z) (including textures) (22-07-2016)
 

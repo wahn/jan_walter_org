@@ -165,6 +165,8 @@ Links
 
     - [C++](http://www.cplusplus.com/reference)
 
+    - [Haskell](https://www.haskell.org)
+
     - [Python](https://www.python.org)
 
     - [Rust](http://www.rust-lang.org)
@@ -243,6 +245,10 @@ Links
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
+    - [Solarized](http://ethanschoonover.com/solarized)
+
     - [Skat-Palast](https://www.skat-palast.de)
+
+    - [TIPP10](https://www.tipp10.com/en/)
 
     - [Vulkan](https://www.khronos.org/vulkan)

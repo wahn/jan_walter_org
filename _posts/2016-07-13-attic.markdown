@@ -126,6 +126,17 @@ with [Guerilla Render][guerilla]. The scene can be downloaded from
 their [samples gallery][guerilla_samples] as well as from my [download
 section][attic_guerilla]. The resulting image can be seen above.
 
+## Indigo
+
+<p class="text-center"><img src="/assets/attic_indigo.png" alt="Indigo
+rendering with textures but without fog."  width="740"
+class="img-thumbnail"/></p>
+
+The image above was rendered by [Indigo][indigo] and a __.pigs__
+(__P__ackaged __I__ndi__g__o Renderer __S__cene File) version of the
+scene (including all textures) can be downloaded from my [download
+section][attic_indigo].
+
 [blender]:          https://www.blender.org
 [cloud]:            https://cloud.blender.org
 [about]:            https://cloud.blender.org/blog/blender-cloud-v3
@@ -150,3 +161,5 @@ section][attic_guerilla]. The resulting image can be seen above.
 [guerilla]:         http://guerillarender.com
 [guerilla_samples]: http://guerillarender.com/?page_id=583
 [attic_guerilla]:   https://www.janwalter.org/Download/Scenes/attic_guerilla.zip
+[indigo]:           http://www.indigorenderer.com
+[attic_indigo]:     https://www.janwalter.org/Download/Scenes/attic.pigs
