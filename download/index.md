@@ -65,7 +65,7 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/cornell_box_mi.tar.gz) (16-01-2015)
 
-        + [PRMan](https://www.janwalter.org/Download/Scenes/cornell_box_rib.tar.gz) (17-11-2015)
+        + [PRMan](https://www.janwalter.org/Download/Scenes/cornell_box_rib.tar.gz) (17-11-2016)
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/cornell_box_rad.tar.gz) (16-01-2015)
 
