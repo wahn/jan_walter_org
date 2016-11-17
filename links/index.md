@@ -125,7 +125,7 @@ Links
 
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
 
-    - [RenderMan](http://renderman.pixar.com/view/about-renderman)
+    - [RenderMan](https://rmanwiki.pixar.com/display/REN/RenderMan+Documentation)
 
         + [Forum](https://renderman.pixar.com/forum)
 
