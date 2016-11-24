@@ -237,6 +237,8 @@ Links
 
     - [Heise](https://www.heise.de) - German
 
+    - [Kuketz IT-Security Blog](https://www.kuketz-blog.de) - German
+
     - [BBC](http://www.bbc.co.uk/news)
 
 * __Others__
