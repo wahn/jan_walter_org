@@ -77,6 +77,10 @@ Links
 
         + [Oblique FX](http://s3aws.obliquefx.com/public/shaders/index.html)
 
+    - [PBRT](http://www.pbrt.org)
+
+        + [source code](https://github.com/mmp/pbrt-v3)
+
     - [Cycles](https://www.blender.org/manual/render/cycles/index.html)
 
         + [Sun: Sky & Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
