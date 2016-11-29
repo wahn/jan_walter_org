@@ -13,7 +13,7 @@ repository).
 ## Radiance
 
 The original [Radiance][radiance] renderings show some patterns on the
-floor and walls. The also simulate wavy curtains via some surface
+floor and walls. They also simulate wavy curtains via some surface
 normal perturbation:
 
 <img src="/assets/theater_radiance_corner.png" alt="Radiance
