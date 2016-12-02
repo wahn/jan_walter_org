@@ -165,6 +165,12 @@ Links
 
     - [normal maps](https://cpetry.github.io/NormalMap-Online)
 
+* __Programming__
+
+    - [Emacs](https://www.gnu.org/software/emacs)
+
+    - [Vim](http://www.vim.org)
+
 * __Programming Languages__
 
     - [C++](http://www.cplusplus.com/reference)
