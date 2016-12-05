@@ -171,6 +171,10 @@ Links
 
     - [Vim](http://www.vim.org)
 
+    - [Vulkan](https://www.khronos.org/vulkan)
+
+        + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
+
 * __Programming Languages__
 
     - [C++](http://www.cplusplus.com/reference)
@@ -262,5 +266,3 @@ Links
     - [Skat-Palast](https://www.skat-palast.de)
 
     - [TIPP10](https://www.tipp10.com/en/)
-
-    - [Vulkan](https://www.khronos.org/vulkan)
