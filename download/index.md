@@ -42,6 +42,8 @@ Download
 
     - [path](https://www.janwalter.org/doc/rust/path/index.html)
 
+    - [pbrt](https://www.janwalter.org/doc/rust/pbrt/index.html)
+
     - [splines](https://www.janwalter.org/doc/rust/splines/index.html)
 
 * __Scenes__ (in [Blender](http://www.blender.org/)'s file format are
