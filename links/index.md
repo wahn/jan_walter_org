@@ -261,6 +261,8 @@ Links
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
+    - [OpenVisualFX](http://www.openvisualfx.com)
+
     - [Solarized](http://ethanschoonover.com/solarized)
 
     - [Skat-Palast](https://www.skat-palast.de)
