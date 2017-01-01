@@ -169,6 +169,10 @@ Links
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
+    - [Radare](http://radare.org/r)
+
+        + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
+
     - [Vim](http://www.vim.org)
 
     - [Vulkan](https://www.khronos.org/vulkan)
