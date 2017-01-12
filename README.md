@@ -1,6 +1,8 @@
 Jan Walter's Blog
 =================
 
+[![Build Status](https://travis-ci.org/wahn/jan_walter_org.svg?branch=master)](https://travis-ci.org/wahn/jan_walter_org)
+
 This is the **Jekyll** source for https://www.janwalter.org.
 
 Most of the topics are somehow related to rendering.
