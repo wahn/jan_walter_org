@@ -179,6 +179,8 @@ Links
 
         + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
 
+        + [Vulkan High Level Framework](https://github.com/nvpro-pipeline/VkHLF)
+
 * __Programming Languages__
 
     - [C++](http://www.cplusplus.com/reference)
