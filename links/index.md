@@ -199,7 +199,11 @@ Links
 
         + [Podcast](http://www.newrustacean.com)
 
-        + [rust-bindgen](https://github.com/crabtw/rust-bindgen)
+        <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
+
+        + [stdx](https://github.com/brson/stdx)
+
+        + [stdx-dev](https://github.com/llogiq/stdx-dev)
 
         + [kiss3d](http://kiss3d.org)
 
