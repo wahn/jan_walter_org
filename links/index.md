@@ -231,11 +231,15 @@ Links
 
     - [Purism](https://puri.sm)
 
+        + [PureOS](https://pureos.net)
+
         + [Forums](https://puri.sm/forums)
 
         + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m.
 
         + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2)
+
+    - [Subgraph OS](https://subgraph.com)
 
     - [Privacy Badger](https://www.eff.org/privacybadger)
 
