@@ -47,6 +47,8 @@ Links
 
         + [wahnsite org](https://github.com/wahn/wahnsite_org)
 
+        + [rs_pbrt](https://github.com/wahn/rs_pbrt)
+
         + [Rust examples](https://github.com/wahn/Rust_Examples)
 
         + [Houdini HDK Examples](https://github.com/wahn/Houdini_HDK_Examples)
