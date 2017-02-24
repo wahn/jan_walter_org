@@ -199,6 +199,10 @@ Links
 
         + [Crates](https://crates.io)
 
+        + ["The Book"](https://doc.rust-lang.org/book)
+
+        + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book)
+
         + [Podcast](http://www.newrustacean.com)
 
         <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
