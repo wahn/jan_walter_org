@@ -1,0 +1,155 @@
+---
+layout: post
+title:  "First picture rendered via Rust version of PBRT"
+date:   2017-05-08 17:37:00
+categories: jekyll rendering pbrt rust
+---
+
+# Release Notes
+
+## v0.1.0
+
+First picture rendered via [Rust][rust] version of [PBRT][pbrt]:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_0.png" alt="First
+picture rendered via Rust version of PBRT." width="740"
+class="img-thumbnail"/></p>
+
+The original scene, rendered by the C++ version of **PBRT**, can be
+seen here:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt.png" alt="Original scene
+rendered by the C++ version of PBRT." width="740"
+class="img-thumbnail"/></p>
+
+[Version 0.1.0][v0_1_0] keeps the library in a single file with
+**7173** lines of code:
+
+{% highlight tcsh %}
+> wc lib.rs 
+  7173  31925 268293 lib.rs
+{% endhighlight %}
+
+The first **613** lines are mainly used to create parts of
+the [documentation][docs] and **example code** mentioned there. More
+examples are kept in a subdirectory (called **examples**) and the one
+file used to render the image above is called
+**pbrt\_spheres\_differentials\_texfilt.rs**. Version 0.1.0 consists of
+**51** public **structs**, **5 enums**, **5 traits**, and **61**
+public functions:
+
+{% highlight tcsh %}
+> grep "^pub struct" lib.rs | wc
+     51     204    1302
+> grep "^pub enum" lib.rs | wc
+      5      20     115
+> grep "^pub trait" lib.rs | wc
+      5      20     108
+> grep "^pub fn" lib.rs | wc
+     61     500    3549
+{% endhighlight %}
+
+As you can see in the scene file below, the original scene consists of
+a **distant light**, **two spheres** and a **triangle mesh**. Beside
+fixing the problem with the poles of the spheres, where the image
+renders black, version 0.1.0 does **not** deal with the **mirror** nor
+the **glass** material yet, but uses a **matte** material for all
+shapes. It also can **not** handle textures (like the **checker**
+pattern on the floor).
+
+{% highlight tcsh %}
+LookAt 2 2 5   0 -.4 0 0 1 0
+Camera "perspective" "float fov" [30 ]
+
+Film "image" "integer xresolution" [1000 ] "integer yresolution" [500 ] 
+    "string filename" "spheres-differentials-texfilt.exr"
+
+Integrator "directlighting" "integer maxdepth" [10]
+
+Sampler "lowdiscrepancy" "integer pixelsamples" [1]
+PixelFilter "box"
+
+WorldBegin
+LightSource "distant" "point from" [0 10 0 ] "point to" [0 0 0 ]
+    "color L" [3.141593 3.141593 3.141593 ] 
+
+AttributeBegin
+	Translate .25 0 0
+	Texture "checker" "color" "checkerboard" 
+		"string mapping" "planar"
+		"vector v1" [ 1 0 0 ] "vector v2" [ 0 0 1]
+		"string aamode" ["none"]
+Texture "lines-tex" "color" "imagemap" "string filename" "textures/lines.png"
+	"float uscale" [100] "float vscale" [100]
+
+	Material "matte" "texture Kd" "lines-tex"
+    Shape "trianglemesh"  "integer indices" [0 2 1 0 3 2 ] 
+	"point P" [-100 -1 -100 400 -1 -100 400 -1 400 -100 -1 400 ] 
+        "float st" [ 0 0 1 0 0 1 1 1]
+AttributeEnd
+
+Translate -1.3 0 0 
+Material "mirror"
+Shape "sphere"
+
+Translate 2.6 0 0 
+Material "glass"
+Shape "sphere"
+WorldEnd
+{% endhighlight %}
+
+There is **no parser** to read the scene file. All lights, shapes, and
+materials are hardcoded into the example file
+(*pbrt\_spheres\_differentials\_texfilt.rs*) by using Rust's structs
+from the **library** implementation:
+
+{% highlight rust %}
+extern crate pbrt;
+...
+use pbrt::{..., Scene, ..., Sphere, ..., Triangle, TriangleMesh, ...};
+use std::string::String;
+use std::sync::Arc;
+...
+fn main() {
+...
+    builder.add_mesh(object_to_world,
+                     world_to_object,
+                     n_triangles,
+                     vertex_indices,
+                     n_vertices,
+                     p_ws, // in world space
+                     s, // empty
+                     n, // empty
+                     uv);
+
+    // sphere
+...
+    builder.add_sphere(object_to_world,
+                       world_to_object,
+                       radius,
+                       z_min,
+                       z_max,
+                       phi_max);
+
+    // sphere
+...
+    builder.add_sphere(object_to_world,
+                       world_to_object,
+                       radius,
+                       z_min,
+                       z_max,
+                       phi_max);
+...
+    let scene: Scene = Scene::new(accelerator.clone(), render_options.lights);
+    integrator.render(&scene);
+}
+{% endhighlight %}
+
+Finally, version 0.1.0 is **not mutli-threaded** yet.
+
+[rust]:    https://www.rust-lang.org/en-US/
+[pbrt]:    http://www.pbrt.org/
+[v0_1_0]:  https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
+[docs]:    https://www.janwalter.org/doc/rust/pbrt/index.html
