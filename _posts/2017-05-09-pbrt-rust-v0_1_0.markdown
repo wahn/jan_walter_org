@@ -160,6 +160,18 @@ class="img-thumbnail"/></p>
 
 Basically the black spots on the ground of the test scene are gone now.
 
+## v0.1.2
+
+The correct picture for matte materials rendered via the [Rust][rust]
+version of [PBRT][pbrt]:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_2.png" alt="Correct
+picture rendered for matte materials via the Rust version of PBRT."
+width="740" class="img-thumbnail"/></p>
+
+We are ready to implement the **mirror** and **glass** materials now.
+
 [rust]:    https://www.rust-lang.org/en-US/
 [pbrt]:    http://www.pbrt.org/
 [v0_1_0]:  https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
