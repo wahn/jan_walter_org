@@ -32,7 +32,9 @@ Download
       from [O'Reilly]
       (http://www.oreilly.com/programming/free/why-rust.csp)
 
-    - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
+    - [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details)
+
+    - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed)
 
     - [Vim for humans](https://vimebook.com/en)
 
