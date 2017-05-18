@@ -170,7 +170,20 @@ src="/assets/spheres-differentials-texfilt_v0_1_2.png" alt="Correct
 picture rendered for matte materials via the Rust version of PBRT."
 width="740" class="img-thumbnail"/></p>
 
-We are ready to implement the **mirror** and **glass** materials now.
+We are ready to implement the **mirror** material now.
+
+## v0.1.3
+
+Scene with a mirror material on the second sphere, rendered via
+the [Rust][rust] version of [PBRT][pbrt]:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_3.png" alt="Scene with
+a mirror material on the second sphere, rendered for matte materials
+via the Rust version of PBRT."  width="740"
+class="img-thumbnail"/></p>
+
+We are ready to implement the **glass** material now.
 
 [rust]:    https://www.rust-lang.org/en-US/
 [pbrt]:    http://www.pbrt.org/
