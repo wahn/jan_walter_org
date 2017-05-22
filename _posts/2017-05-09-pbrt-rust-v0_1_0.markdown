@@ -200,6 +200,21 @@ PBRT."  width="740" class="img-thumbnail"/></p>
 We are ready to implement the **texture** handling on the ground mesh
 now.
 
+## v0.1.5
+
+Scene with a **glass** material on the first sphere and a **mirror**
+material on the second sphere. The ground triangles use a procedural
+**checker** texture on a **matte** material. Rendered via the Rust
+version of [PBRT][pbrt]:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_5.png" alt="Scene with
+glass, mirror, and matte materials using a procedural texture."
+width="740" class="img-thumbnail"/></p>
+
+We are ready to implement the usage of a non-procedural **texture** on
+the ground mesh now.
+
 [rust]:    https://www.rust-lang.org/en-US/
 [pbrt]:    http://www.pbrt.org/
 [v0_1_0]:  https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
