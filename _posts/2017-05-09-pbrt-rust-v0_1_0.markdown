@@ -212,8 +212,28 @@ src="/assets/spheres-differentials-texfilt_v0_1_5.png" alt="Scene with
 glass, mirror, and matte materials using a procedural texture."
 width="740" class="img-thumbnail"/></p>
 
-We are ready to implement the usage of a non-procedural **texture** on
-the ground mesh now.
+## v0.1.6
+
+Scene with a **glass** material on the first sphere and a **mirror**
+material on the second sphere. The ground triangles use a texture on a
+**matte** material. Rendered via the Rust version of [PBRT][pbrt]:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_6.png" alt="Scene with
+glass, mirror, and matte materials using a non-procedural texture."
+width="740" class="img-thumbnail"/></p>
+
+For comparison, the original scene, rendered by the C++ version of
+**PBRT**:
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt.png" alt="Original scene
+rendered by the C++ version of PBRT." width="740"
+class="img-thumbnail"/></p>
+
+We can start to implement **multi-threading** now, before the scenes
+get more complex and the rendering times go up. This simple scene
+should still render (without multi-threading) within a few seconds.
 
 [rust]:    https://www.rust-lang.org/en-US/
 [pbrt]:    http://www.pbrt.org/
