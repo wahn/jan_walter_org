@@ -235,7 +235,14 @@ We can start to implement **multi-threading** now, before the scenes
 get more complex and the rendering times go up. This simple scene
 should still render (without multi-threading) within a few seconds.
 
-[rust]:    https://www.rust-lang.org/en-US/
-[pbrt]:    http://www.pbrt.org/
-[v0_1_0]:  https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
-[docs]:    https://www.janwalter.org/doc/rust/pbrt/index.html
+## v0.1.7
+
+[Version 0.1.7][v0_1_7] renders the same image as v0.1.6 **using all**
+available **CPUs**. See [Release Notes][release_notes] ...
+
+[rust]:          https://www.rust-lang.org/en-US/
+[pbrt]:          http://www.pbrt.org/
+[v0_1_0]:        https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
+[docs]:          https://www.janwalter.org/doc/rust/pbrt/index.html
+[v0_1_7]:        https://github.com/wahn/rs_pbrt/releases/tag/v0.1.7
+[release_notes]: https://github.com/wahn/rs_pbrt/wiki/Release-Notes
