@@ -247,7 +247,19 @@ Links
 
     - [Subgraph OS](https://subgraph.com)
 
-    - [Privacy Badger](https://www.eff.org/privacybadger)
+    - [How to stop browser tracking](https://www.comparitech.com/blog/vpn-privacy/free-anti-tracking-browser-extensions)
+
+        + [Adblock Plus](https://adblockplus.org)
+
+        + [Disconnect](https://disconnect.me)
+
+        + [Ghostery](https://www.ghostery.com)
+
+        + [Privacy Badger](https://www.eff.org/privacybadger)
+
+        + [uBlock Origin](https://github.com/gorhill/uBlock)
+
+        + [uMatrix](https://github.com/gorhill/uMatrix)
 
     - [Prism Break](https://prism-break.org/en)
 
