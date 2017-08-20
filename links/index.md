@@ -77,7 +77,7 @@ Links
 
         + [kettle](https://bitbucket.org/Kettle/kettle_uber/wiki/Home)
 
-        + [Oblique FX](http://s3aws.obliquefx.com/public/shaders/index.html)
+        + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
     - [PBRT](http://www.pbrt.org)
 
@@ -117,7 +117,7 @@ Links
 
     - [Octane](http://render.otoy.com/index.php)
 
-        + [Manual](http://render.otoy.com/manuals/Standalone_2_0/)
+        + [Manual](https://docs.otoy.com/StandaloneH/StandaloneManual.htm)
 
     - [Povray](http://www.povray.org)
 
