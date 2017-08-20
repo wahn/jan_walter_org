@@ -187,6 +187,8 @@ Links
 
 * __Programming Languages__
 
+    - [A Programming Language for Games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
+
     - [C++](http://www.cplusplus.com/reference)
 
     - [Haskell](https://www.haskell.org)
