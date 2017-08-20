@@ -83,7 +83,7 @@ Links
 
         + [source code](https://github.com/mmp/pbrt-v3)
 
-    - [Cycles](https://www.blender.org/manual/render/cycles/index.html)
+    - [Cycles](https://www.cycles-renderer.org)
 
         + [Sun: Sky & Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
 
@@ -137,7 +137,7 @@ Links
 
         + [RSL](https://en.wikipedia.org/wiki/RenderMan_Shading_Language)
 
-        + [RIS](https://renderman.pixar.com/resources/current/RenderMan/risOverview.html)
+        + [RIS](https://renderman.pixar.com/resources/RenderMan_20/risOverview.html)
 
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
@@ -178,6 +178,8 @@ Links
     - [Vim](http://www.vim.org)
 
     - [Vulkan](https://www.khronos.org/vulkan)
+
+        + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
 
         + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
 
