@@ -187,7 +187,9 @@ Links
 
 * __Programming Languages__
 
-    - [A Programming Language for Games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
+    - [A Programming Language for
+      Games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
+      (see it in [action](https://youtu.be/De0Am_QcZiQ))
 
     - [C++](http://www.cplusplus.com/reference)
 
