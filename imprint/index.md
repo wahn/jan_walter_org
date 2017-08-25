@@ -18,7 +18,7 @@ Jan Walter
 Baerwaldstr. 17  
 10961 Berlin
 
-Mail: admin [at] janwalter [.] org  
+Email: admin [at] janwalter [.] org  
 Phone: +49 30 35125105
 
 Haftung für Inhalte

@@ -1,0 +1,235 @@
+---
+layout: post
+title:  "Path Tracing, Ambient Occlusion, and a Parser"
+date:   2017-08-24 13:05:00
+categories: jekyll rendering pbrt rust
+---
+
+# [Release Notes][release_notes]
+
+**Rust** crate to implement at least parts of the [PBRT][pbrt]
+book's C++ code:
+
+[https://github.com/wahn/rs_pbrt][repo]
+
+Current [Rust][rust] documentation:
+
+[https://www.janwalter.org/doc/rust/pbrt/index.html][docs]
+
+## [v0.2.0][v0_2_0]
+
+Let's first show the latest image:
+
+<p class="text-center"><img src="/assets/cornell_box_v0.2.0_high.png"
+alt="Cornell Box scene rendered via Rust version of PBRT using path
+tracing (low settings)" width="500" class="img-thumbnail"/></p>
+
+This was rendered using [path tracing][path]. Since my last
+[post][last] a lot of things changed. First of all I started
+implementing a **parser** using a crate called [pest][pest]. The
+parser isn't finished yet, but I provide some sample scenes which can
+be used and should render. The image above was for example rendered by
+the following command line ($ is the [command prompt][prompt]):
+
+```shell
+$ ./target/release/examples/pest_test -i assets/scenes/cornell_box.pbrt
+```
+
+### Cloning the Repository
+
+To compile the executable mentioned above you first need to clone the
+[repository][repo]:
+
+```shell
+$ git clone https://github.com/wahn/rs_pbrt.git
+```
+
+### Rustup
+
+The easiest way to install [Rust][rust] is [rustup][rustup]:
+
+```shell
+$ curl https://sh.rustup.rs -sSf | sh
+```
+
+I first started using some Rust features which require **Rust
+nightly** when I started working on the parser, but currently even the
+library (API) needs it:
+
+```shell
+$ rustup install nightly
+$ rustup default nightly
+info: using existing install for 'nightly-x86_64-unknown-linux-gnu'
+info: default toolchain set to 'nightly-x86_64-unknown-linux-gnu'
+
+  nightly-x86_64-unknown-linux-gnu unchanged - rustc 1.20.0-nightly
+```
+
+### Compiling
+
+After **switching** to the nightly version you should be able to
+**compile**:
+
+```shell
+$ cargo test --release
+   Compiling pest v0.4.1
+...
+   Compiling image v0.15.0
+...
+    Finished release [optimized] target(s) in 113.58 secs
+     Running target/release/deps/pbrt-e363c28050f255bc
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+
+   Doc-tests pbrt
+
+running 16 tests
+test src/lib.rs -  (line 166) ... ok
+test src/lib.rs -  (line 24) ... ok
+test src/lib.rs -  (line 204) ... ok
+test src/lib.rs -  (line 112) ... ok
+test src/lib.rs -  (line 241) ... ok
+test src/lib.rs -  (line 277) ... ok
+test src/lib.rs -  (line 301) ... ok
+test src/lib.rs -  (line 319) ... ok
+test src/lib.rs -  (line 373) ... ok
+test src/lib.rs -  (line 344) ... ok
+test src/lib.rs -  (line 412) ... ok
+test src/lib.rs -  (line 462) ... ok
+test src/lib.rs -  (line 53) ... ok
+test src/lib.rs -  (line 551) ... ok
+test src/lib.rs -  (line 596) ... ok
+test src/lib.rs -  (line 84) ... ok
+
+test result: ok. 16 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+```
+
+### Rendering
+
+Now you are ready to render:
+
+```shell
+$ ./target/release/examples/pest_test -i assets/scenes/cornell_box.pbrt
+...
+Rendering finished
+Converting image to RGB and computing final weighted pixel values
+Writing image "pbrt.png" with bounds Bounds2 { p_min: Point2 { x: 0, y: 0 }, p_max: Point2 { x: 500, y: 500 } }
+done.
+```
+
+This should take only a couple of seconds. Don't worry if your
+resulting image will look a lot more **noisy**. To render the exact
+same image as above you have to tweak some settings in the scene
+descrition file (**cornell_box.pbrt**):
+
+```
+Sampler "lowdiscrepancy" "integer pixelsamples" [512]
+PixelFilter "gaussian" "float xwidth" [2.000000 ] "float ywidth" [2.000000 ]
+Integrator "path"
+```
+
+### Direct Lighting
+
+To render without **global illumination** you can use the **direct
+lighting** integrator:
+
+```
+Integrator "directlighting" "integer maxdepth" [10]
+```
+
+Don't forget to use lower pixelsamples settings (maybe 8).
+
+<p class="text-center"><img src="/assets/cornell_box_v0.1.13.png"
+alt="Cornell Box scene rendered with direct lighting" width="500"
+class="img-thumbnail"/></p>
+
+### Ambient Occlusion
+
+To render with ambient occlusion switch (again) the integrator:
+
+```
+Integrator "ambientocclusion"
+```
+
+<p class="text-center"><img src="/assets/cornell_box_pbrt_rust_ao.png"
+alt="Cornell Box scene rendered with ambient occlusion" width="500"
+class="img-thumbnail"/></p>
+
+### Other Scenes
+
+There are a couple of other scenes which can be rendered from the
+command line by parsing a scene description file, e.g. a teapot
+illuminated by an **area light**:
+
+```shell
+$ ./target/release/examples/pest_test -i assets/scenes/teapot-area-light.pbrt
+```
+
+<p class="text-center"><img src="/assets/teapot-area-light.png"
+alt="Teapot scene rendered with direct·lighting" width="256"
+class="img-thumbnail"/></p>
+
+### Variations of the Same Scene
+
+From the time where I didn't have a parser there exists an executable
+which uses only the **API** (see also [Wiki][wiki]):
+
+```shell
+$ ./target/release/examples/pbrt_spheres_differentials_texfilt --help
+Usage: ./target/release/examples/pbrt_spheres_differentials_texfilt [options]
+
+Options:
+    -h, --help          print this help menu
+    -c, --checker       use procedural texture
+    -i, --image         use image texture
+    -n, --none          use no texture
+    -m, --matte         use only matte materials
+    -v, --version       print version number
+```
+
+#### Checker
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_5.png" alt="Using a
+procedural pattern on the floor." width="740"
+class="img-thumbnail"/></p>
+
+#### Image
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_6.png" alt="Using a
+image file as texture on the floor." width="740"
+class="img-thumbnail"/></p>
+
+#### No Texture
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_4.png" alt="Matte
+floor." width="740" class="img-thumbnail"/></p>
+
+#### Matte
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_2.png" alt="Matte only
+materials." width="740" class="img-thumbnail"/></p>
+
+## Contribute
+
+If you want to contribute to this project contact me via the **email**
+provided on the [imprint][imprint] page.
+
+[release_notes]: https://github.com/wahn/rs_pbrt/wiki/Release-Notes
+[pbrt]:          http://www.pbrt.org/
+[repo]:          https://github.com/wahn/rs_pbrt
+[rust]:          https://www.rust-lang.org/en-US/
+[docs]:          https://www.janwalter.org/doc/rust/pbrt/index.html
+[v0_2_0]:        https://github.com/wahn/rs_pbrt/releases/tag/v0.2.0
+[path]:          https://en.wikipedia.org/wiki/Path_tracing
+[last]:          https://www.janwalter.org/jekyll/rendering/pbrt/rust/2017/05/08/pbrt-rust-v0_1_0.html
+[pest]:          https://crates.io/crates/pest
+[prompt]:        https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt
+[rustup]:        https://www.rustup.rs
+[wiki]:          https://github.com/wahn/rs_pbrt/wiki
+[imprint]:       https://www.janwalter.org/imprint
