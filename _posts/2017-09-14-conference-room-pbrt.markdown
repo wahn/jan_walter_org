@@ -79,6 +79,6 @@ the [download][download] section.
 [vi]:        https://en.wikipedia.org/wiki/Vi
 [repo]:      https://github.com/wahn/export_multi/tree/master/04_conference_room
 [rs_pbrt]:   https://github.com/wahn/rs_pbrt
-[pbrt]:      http://www.pbrt.or
+[pbrt]:      http://www.pbrt.org
 [release]:   https://github.com/wahn/rs_pbrt/wiki/Release-Notes
 [download]:  https://www.janwalter.org/download
