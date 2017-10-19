@@ -128,7 +128,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/art_gallery_ass.tar.gz) (24-02-2016)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/art_gallery_blend.tar.gz) (07-02-2015)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/art_gallery_blend.tar.gz) (19-10-2017)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/art_gallery_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/art_gallery_pigs.zip))
