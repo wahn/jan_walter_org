@@ -191,6 +191,8 @@ Download
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/bathroom_mi.tar.gz) (25-11-2014)
 
+        + [PBRT](https://www.janwalter.org/Download/Scenes/bathroom_pbrt.tar.gz) (23-10-2017)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/bathroom_rad.tar.gz) (29-12-2014)
 
     - ![Alt Theater][theater1]
@@ -208,6 +210,8 @@ Download
         + [Maxwell](https://www.janwalter.org/Download/Scenes/theater_mxs.tar.gz) (06-02-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/theater_mi.tar.gz) (06-02-2015)
+
+        + [PBRT](https://www.janwalter.org/Download/Scenes/theater_pbrt.tar.gz) (23-10-2017)
 
         + [PRMan](https://www.janwalter.org/Download/Scenes/theater_rib.tar.gz) (15-04-2015)
 
