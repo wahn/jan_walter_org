@@ -78,7 +78,7 @@ Download
     - ![Alt Simple Room][simple_room] [Simple
        Room](https://github.com/wahn/export_multi/tree/master/01_simple_room)
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (26-11-2014)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (24-10-2017)
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/simple_room_blend.tar.gz) (17-10-2017)
 
