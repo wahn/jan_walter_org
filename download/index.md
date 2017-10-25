@@ -55,7 +55,7 @@ Download
     - ![Alt Cornell Box][cornell_box] [Cornell
        Box](https://github.com/wahn/export_multi/tree/master/00_cornell_box)
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (23-03-2015)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (24-10-2017)
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box_blend.tar.gz) (14-09-2017)
 
@@ -102,7 +102,7 @@ Download
        Scene](https://github.com/wahn/export_multi/tree/master/02_cafe_scene)
        ![Alt Cafe Scene][cafe_scene2]
 
-        + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (08-12-2014)
+        + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (25-10-2017)
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (19-10-2017)
 
