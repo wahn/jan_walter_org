@@ -175,7 +175,7 @@ Links
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
 
-    - [Vim](http://www.vim.org)
+    - [Vim](https://vim.sourceforge.io)
 
     - [Vulkan](https://www.khronos.org/vulkan)
 
