@@ -207,9 +207,11 @@ Links
 
         + ["The Book"](https://doc.rust-lang.org/book)
 
+        + [Podcast](http://www.newrustacean.com)
+
         + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book)
 
-        + [Podcast](http://www.newrustacean.com)
+        + [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html)
 
         <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
 
