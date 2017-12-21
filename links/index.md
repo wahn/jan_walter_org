@@ -239,6 +239,8 @@ Links
 
 * __Privacy__
 
+    - [Autocrypt](https://autocrypt.org)
+
     - [Free OS X Security Tools](https://objective-see.com/products.html)
 
     - [Posteo](https://posteo.de)

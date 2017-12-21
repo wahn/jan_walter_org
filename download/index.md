@@ -373,6 +373,14 @@ Download
 
         + [Radiance](https://www.janwalter.org/Download/Scenes/attic_rad.tar.gz) (14-07-2016)
 
+    - ![Alt Breakfast][breakfast]
+       [Breakfast](https://github.com/wahn/export_multi/tree/master/18_breakfast)
+       ([textures](https://www.janwalter.org/Download/Scenes/breakfast_textures.tar.gz) - (20-12-2017))
+
+        + [Cycles](https://www.janwalter.org/Download/Scenes/breakfast_blend.tar.gz) (20-12-2017)
+
+        + [PBRT](https://www.janwalter.org/Download/Scenes/breakfast_pbrt.tar.gz) (20-12-2017)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -410,3 +418,4 @@ Download
 [classroom]:              /thumbnails/scenes/classroom_89x50.png "Classroom"
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
 [attic]:                  /thumbnails/scenes/attic_99x50.png "Attic"
+[breakfast]:              /thumbnails/scenes/breakfast_50x50.png "Breakfast"
