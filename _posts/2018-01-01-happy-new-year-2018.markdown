@@ -1,0 +1,194 @@
+---
+layout: post
+title:  "Happy New Year 2018"
+date:   2018-01-01 9:30:00
+categories: jekyll review 2017
+---
+
+<p class="text-center"><img src="/assets/ganesha.png" alt="Very
+detailed scan of a small statue with over 4.3 million triangles,
+illuminated by a few area light sources." width="720"
+class="img-thumbnail"/></p>
+
+## Happy New Year
+
+I wish you a Happy New Year !!!
+
+For me it's also a chance to do a review of the year **2017**. Most of
+it I spend on a [Rust][rust] implementation of [PBRT][pbrt] (beside
+working for [The Mill][mill] and making sure we can deliver our moving
+images, rendered most of the time with [Arnold][arnold]).
+
+## Rust Implementation of PBRT
+
+The image above was rendered using my own [implementation][rs_pbrt] of
+the **PBRT** renderer, written in [Rust][rust]. It probably started at
+the end of 2016, when I received the third edition of the [Physically
+Based Rendering Book][pbrt], which comes with the full source code of
+a renderer. I purchased already the first edition, skipped the second
+one, and seeing the third edition with contributions from **Jakob
+Wenzel**, the author of another renderer, called [Mitsuba][mitsuba],
+finally inspired me to try to convert at least some of the C++ code to
+another language, called **Rust**.
+
+To be honest the intention was to learn this new language, Rust, and
+by taking a well designed (and hopefully fast) **C++** implementation,
+which needs **multi-threading** to fullfill its task of creating
+images, I hoped to run into some challenges, regarding how to archieve
+the same results as with C++. And surely I did. First you learn about
+the so-called [borrow checker][borrow-checker], which simply prevents
+to compile certain code patterns you might be familiar with from C or
+C++. The Rust compiler is pretty strict and is designed to prevent for
+example [dangling pointers][dangling-pointer].
+
+So the first couple of month I spend on implementing basic structs
+(there are **no classes** in Rust) and their related methods. Vectors,
+points, normals, bounding boxes (2D and 3D), rays, etc. The nice thing
+about Rust is that we have something like [Doxygen][doxygen] built
+into the language and related documentation strings. You can still see
+part of the [documentation][geometry] being built from the source code
+for the structs mentioned above on my [web-site][janwalter-org].
+
+There were many more structs and methods I had to implement before I
+actually could render the **first image**, which was done back then
+**single-threaded**. By then I had somehow managed to fight the borrow
+checker successfully and if I ran into problems I got really helpful
+[responses][example-code] on the [Rust programming language
+forum][forum]. The first test scene was two spheres on a ground plane
+(two triangles):
+
+<p class="text-center"><img
+src="/assets/spheres-differentials-texfilt_v0_1_6.png" alt="A glass
+and a mirror sphere on a textured ground plane." width="740"
+class="img-thumbnail"/></p>
+
+If you use **Rust nightly** you still find example code which can
+render the same scene and variations of it:
+
+```shell
+> rustup install nightly
+> rustup default nightly
+> cargo test --release
+> ./target/release/examples/pbrt_spheres_differentials_texfilt -h
+Usage: ./target/release/examples/pbrt_spheres_differentials_texfilt [options]
+
+Options:
+    -h, --help          print this help menu
+    -c, --checker       use procedural texture
+    -i, --image         use image texture
+    -n, --none          use no texture
+    -m, --matte         use only matte materials
+    -v, --version       print version number
+```
+
+End of May I released the first version which was
+[multi-threaded][multi-threaded], but soon I realized that I had to
+implement a **parser** for the PBRT [scene
+description][scene-description]. In July I was able to parse several
+scene files and render e.g. the **Cornell Box** with **direct
+lighting**:
+
+<p class="text-center"><img src="/assets/cornell_box_v0.1.13.png"
+alt="Cornell Box scene rendered with direct lighting" width="500"
+class="img-thumbnail"/></p>
+
+Shortly after, in August, I was able to render with **uni-directional
+path tracing**:
+
+<p class="text-center"><img src="/assets/cornell_box_v0.2.0_high.png"
+alt="Cornell Box scene rendered via Rust version of PBRT using path
+tracing (low settings)" width="500" class="img-thumbnail"/></p>
+
+I also implemented **ambient occlusion**, which was added to PBRT
+after the book release, and in the future I will add even more
+[integrators][integrators]. Shortly after I extended my already
+existing [multi-exporter][multi-exporter] for [Blender][blender] to
+export PBRT files along with the [Luxrender][luxrender] scene
+description. This quickly gave me access to more test scenes:
+
+<p class="text-center"><img
+src="/assets/cafe_scene_lights1_v0.2.1.png" alt="Cafe scene - lighting
+variation one." width="500" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/cafe_scene_lights2_v0.2.1.png" alt="Cafe scene - lighting
+variation two." width="500" class="img-thumbnail"/></p>
+
+<p class="text-center"><img
+src="/assets/art_gallery_pbrt_rust_direct_lighting.png" alt="Art
+gallery rendered via Rust version of PBRT using direct lighting."
+width="500" class="img-thumbnail"/></p>
+
+Look at the [release notes][release_notes] for more details or the
+[download][download] section, where you can find scenes in various
+scene description formats for different renderers. I also published
+two blog posts, one about the [Conference Room][conf-room], another
+one about the [theater][theater] scene, which I both used already with
+other renderers to compare results. Also mentioned in the
+**release_notes**, I worked on some basic **motion blur** support (and
+[depth of field][depth-of-field]):
+
+<p class="text-center"><img src="/assets/pbrt_rust_mblur_v0.2.4.png"
+alt="Support for basic motion blur." width="740"
+class="img-thumbnail"/></p>
+
+I think this is good progress so far. I wouldn't mind if I would find
+some [contributers][contributers], so far I'm the only one working on
+[rs_pbrt][rs_pbrt]. If you want to participate, please **contact me**
+via the **email** address mentioned on the [imprint][imprint] page. I
+will definitely work on [bi-directional][bi-directional] **path
+tracing** this year, but I can't predict where this project is
+going. My excuse to learn the language Rust is more or less
+fullfilled, I learned a lot about the language and I do like it. I ran
+into a bottleneck regarding the [BVH][bvh] acceleration structure and
+solved it with the help of profilers (see all the details
+[here][profilers]). In the end you will just have another
+implementation of an already functional renderer, which was originally
+developed using **C++**. It will be interesting though if the Rust
+version can be optimized to render with the same speed as the
+original. More important to me was that it was fairly **easy** (and
+**safe**) to implement **multi-threaded** code with Rust and that the
+**community** was very helpful whenever I ran into problems.
+
+## Web-site statistics
+
+### Summary 2017
+
+<p class="text-center"><img src="/assets/usage_2017_summary.png"
+alt="Summary for 2017." width="512" class="img-thumbnail"/></p>
+
+### By Month
+
+<p class="text-center"><img src="/assets/usage_2017_by_month.png"
+alt="Summary by month for 2017." width="740"
+class="img-thumbnail"/></p>
+
+[rust]:              https://www.rust-lang.org/en-US
+[pbrt]:              http://www.pbrt.org
+[mill]:              http://www.themill.com
+[arnold]:            https://www.solidangle.com/arnold
+[rs_pbrt]:           https://github.com/wahn/rs_pbrt
+[mitsuba]:           http://www.mitsuba-renderer.org
+[borrow-checker]:    https://www.reddit.com/r/rust/comments/5ny09j/tips_to_not_fight_the_borrow_checker
+[dangling-pointer]:  https://en.wikipedia.org/wiki/Dangling_pointer
+[doxygen]:           https://en.wikipedia.org/wiki/Doxygen
+[geometry]:          https://www.janwalter.org/doc/rust/pbrt/core/geometry/index.html
+[janwalter-org]:     https://www.janwalter.org
+[example-code]:      https://users.rust-lang.org/t/rusts-std-sync-arc-vs-c-std-shared-ptr-lifetimes-etc-questions-on-some-example-code/9356
+[forum]:             https://users.rust-lang.org
+[multi-threaded]:    https://github.com/wahn/rs_pbrt/wiki/Release-Notes#v017
+[scene-description]: http://www.pbrt.org/fileformat-v3.html#describing-the-scene
+[integrators]:       https://www.janwalter.org/doc/rust/pbrt/integrators/index.html
+[multi-exporter]:    https://bitbucket.org/wahn/blender-add-ons/wiki/io_scene_multi
+[blender]:           https://www.blender.org
+[luxrender]:         http://www.luxrender.net/en_GB/index
+[release_notes]:     https://github.com/wahn/rs_pbrt/wiki/Release-Notes
+[download]:          https://www.janwalter.org/download
+[conf-room]:         https://www.janwalter.org/jekyll/rendering/pbrt/2017/09/14/conference-room-pbrt.html
+[theater]:           https://www.janwalter.org/jekyll/rendering/pbrt/2017/10/23/theater-pbrt-rust.html
+[depth-of-field]:    https://github.com/wahn/rs_pbrt/wiki/Release-Notes#depth-of-field
+[contributers]:      https://github.com/wahn/rs_pbrt/graphs/contributors
+[imprint]:           https://www.janwalter.org/imprint
+[bi-directional]:    https://github.com/wahn/rs_pbrt/issues/29
+[bvh]:               https://en.wikipedia.org/wiki/Bounding_volume_hierarchy
+[profilers]:         https://users.rust-lang.org/t/profilers-and-how-to-interprete-results-on-recursive-functions/13222
