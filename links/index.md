@@ -161,6 +161,8 @@ Links
 
     - [3dRender.com](http://www.3drender.com/challenges)
 
+    - [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources)
+
 * __Textures__
 
     - [cgtextures.com](http://www.cgtextures.com)
