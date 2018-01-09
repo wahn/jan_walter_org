@@ -398,6 +398,19 @@ Download
 
         + [simple\_house\_baked\_2k\_blurred](https://www.janwalter.org/Download/Movies/simple_house_baked_2k_blurred10_0001-0240.avi) (04-08-2015)
 
+* __Others__
+
+    - PBRT - slighlty modified versions from Benedikt Bitterli’s
+      [Rendering Resources](https://benedikt-bitterli.me/resources)
+
+        + [Japanese Classroom](https://www.janwalter.org/Download/Scenes/PBRT/classroom_pbrt.tar.gz) (09-01-2018)
+
+        + [Country Kitchen](https://www.janwalter.org/Download/Scenes/PBRT/kitchen_pbrt.tar.gz) (09-01-2018)
+
+        + [The White Room](https://www.janwalter.org/Download/Scenes/PBRT/living-room-2_pbrt.tar.gz) (09-01-2018)
+
+        + [The Wooden Staircase](https://www.janwalter.org/Download/Scenes/PBRT/staircase_pbrt.tar.gz) (09-01-2018)
+
 [cornell_box]:            /thumbnails/scenes/cornell_box_50x50.png "Cornell Box"
 [simple_room]:            /thumbnails/scenes/simple_room_50x50.png "Simple Room"
 [cafe_scene1]:            /thumbnails/scenes/cafe_scene_lights1_50x50.png "Cafe Scene 1"
