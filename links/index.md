@@ -253,9 +253,17 @@ Links
 
         + [Forums](https://puri.sm/forums)
 
-        + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m.
+        <!-- + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m. -->
 
-        + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2)
+        <!-- + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2) -->
+
+    - [Minifree](https://minifree.org)
+
+    - [Minifree](https://minifree.org)
+
+    - [Zerocat](http://www.zerocat.org)
+
+    - [Technoethical](https://tehnoetic.com)
 
     - [Subgraph OS](https://subgraph.com)
 
