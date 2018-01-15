@@ -259,8 +259,6 @@ Links
 
     - [Minifree](https://minifree.org)
 
-    - [Minifree](https://minifree.org)
-
     - [Zerocat](http://www.zerocat.org)
 
     - [Technoethical](https://tehnoetic.com)
