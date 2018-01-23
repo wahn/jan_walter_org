@@ -10,13 +10,13 @@ Links
 
     - Sources for this web page on [GitHub](https://github.com/wahn/jan_walter_org)
 
-    - [Jekyll](http://jekyllrb.com)
+    - [Jekyll](https://jekyllrb.com)
 
-        + [Basic Usage](http://jekyllrb.com/docs/usage)
+        + [Basic Usage](https://jekyllrb.com/docs/usage)
 
-    - [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+    - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
 
-    - [Bootstrap](http://getbootstrap.com)
+    - [Bootstrap](https://getbootstrap.com)
 
     - [Rouge](http://rouge.jneen.net) - Code highlighter written in
       [Ruby](https://www.ruby-lang.org/en), replacing
@@ -25,11 +25,11 @@ Links
     - Available [Pygments](http://pygments.org/docs/lexers) lexers (search
   for 'short names')
 
-    - Using [Shariff](http://heise.de/-2467514) for social media buttons
+    - Using [Shariff](https://heise.de/-2467514) for social media buttons
 
     - [Font Awesome](http://fontawesome.io)
 
-    - __German__ docs about web technology on [selfhtml.org](http://selfhtml.org)
+    - __German__ docs about web technology on [selfhtml.org](https://selfhtml.org)
 
 * __Repositories__
 
@@ -63,7 +63,7 @@ Links
 
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
-    - [Arnold](http://www.solidangle.com)
+    - [Arnold](https://www.solidangle.com)
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
 
@@ -87,7 +87,7 @@ Links
 
         + [Sun: Sky & Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
 
-        + [Sun Position Extension](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
+        + [Sun Position Extension](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
 
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
@@ -95,9 +95,9 @@ Links
 
         + [Sample Projects](http://guerillarender.com/?page_id=583)
 
-    - [Indigo](http://www.indigorenderer.com)
+    - [Indigo](https://www.indigorenderer.com)
 
-        + [Forum](http://www.indigorenderer.com/forum)
+        + [Forum](https://www.indigorenderer.com/forum)
 
     - [Lagoa](http://home.lagoa.com)
 
@@ -107,15 +107,15 @@ Links
 
         + [Forum](http://www.luxrender.net/forum)
 
-    - [Maxwell](http://www.maxwellrender.com)
+    - [Maxwell](https://www.maxwellrender.com)
 
-        + [Forum](http://www.maxwellrender.com/forum)
+        + [Forum](https://www.maxwellrender.com/forum)
 
-    - [mental ray](http://www.nvidia-arc.com/mentalray.html)
+    - [mental ray](https://www.nvidia.com/en-us/design-visualization/solutions/rendering/product-updates)
 
         + [imf_diff](http://docs.autodesk.com/MENTALRAY/2012/CHS/mental%20ray%203.9%20Help/files/manual/node251.html)
 
-    - [Octane](http://render.otoy.com/index.php)
+    - [Octane](https://render.otoy.com/index.php)
 
         + [Manual](https://docs.otoy.com/StandaloneH/StandaloneManual.htm)
 
@@ -125,7 +125,7 @@ Links
 
         + [Book](http://radsite.lbl.gov/radiance/book/index.html)
 
-        + [Radsite](http://www.radiance-online.org/)
+        + [Radsite](https://www.radiance-online.org/)
 
         + [Reference Manual](http://radsite.lbl.gov/radiance/refer/ray.html)
 
@@ -149,15 +149,15 @@ Links
 
         + [Cloud](https://cloud.blender.org)
 
-        + [BlendSwap](http://www.blendswap.com)
+        + [BlendSwap](https://www.blendswap.com)
 
-    - [Houdini](http://www.sidefx.com)
+    - [Houdini](https://www.sidefx.com)
 
-        + [HDK](http://www.sidefx.com/docs/hdk15.0)
+        + [HDK](https://www.sidefx.com/docs/hdk15.0)
 
 * __Scenes__
 
-    - [BlendSwap](http://www.blendswap.com)
+    - [BlendSwap](https://www.blendswap.com)
 
     - [3dRender.com](http://www.3drender.com/challenges)
 
@@ -173,7 +173,7 @@ Links
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
-    - [Radare](http://radare.org/r)
+    - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
 
@@ -199,7 +199,7 @@ Links
 
     - [Python](https://www.python.org)
 
-    - [Rust](http://www.rust-lang.org)
+    - [Rust](https://www.rust-lang.org)
 
         + [Users](https://users.rust-lang.org)
 
@@ -235,7 +235,7 @@ Links
 
     - [OpenImageIO](http://www.openimageio.org)
 
-    - [OpenSubdiv](http://graphics.pixar.com/opensubdiv/docs/intro.html)
+    - [OpenSubdiv](https://graphics.pixar.com/opensubdiv/docs/intro.html)
 
     - [OpenUSD](http://openusd.org)
 
@@ -281,15 +281,17 @@ Links
 
     - [Prism Break](https://prism-break.org/en)
 
-    - [privacytools.io](http://www.privacytools.io)
+    - [privacytools.io](https://www.privacytools.io)
 
-    - [Privacy Tools - Fried.com](http://fried.com/privacy/)
+    - [Privacy Tools - Fried.com](https://fried.com/privacy/)
 
     - [Turris Omnia Router](https://www.indiegogo.com/projects/turris-omnia-hi-performance-open-source-router#)
 
     - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
 
-    - [Mozilla Observatory](https://observatory.mozilla.org/)
+    - [Hardenize](https://www.hardenize.com)
+
+    - [Mozilla Observatory](https://observatory.mozilla.org)
 
     - [How privacy-friendly is your site?](https://webbkoll.dataskydd.net/en)
 
@@ -307,11 +309,11 @@ Links
 
 * __Others__
 
-    - [FMX](http://fmx.de)
+    - [FMX](https://fmx.de)
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
-    - [OpenVisualFX](http://www.openvisualfx.com)
+    - [OpenVisualFX](https://www.openvisualfx.com)
 
     - [Solarized](http://ethanschoonover.com/solarized)
 
