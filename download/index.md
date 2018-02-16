@@ -231,6 +231,8 @@ Download
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cruiser_lxs.tar.gz) (27-01-2015)
 
+        + [PBRT](https://www.janwalter.org/Download/Scenes/cruiser_pbrt.tar.gz) (16-02-2018)
+
         + [Radiance](https://www.janwalter.org/Download/Scenes/cruiser_rad.tar.gz) (29-12-2014)
 
     - ![Alt Inventure Place][invplace1] [Inventure
