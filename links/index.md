@@ -271,7 +271,7 @@ Links
 
         + [Disconnect](https://disconnect.me)
 
-        + [Ghostery](https://www.ghostery.com)
+        <!-- + [Ghostery](https://www.ghostery.com) -->
 
         + [Privacy Badger](https://www.eff.org/privacybadger)
 
