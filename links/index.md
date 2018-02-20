@@ -217,6 +217,12 @@ Links
 
         <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
 
+        + [Amp](https://amp.rs/docs/usage)
+
+        + [fd-find](https://github.com/sharkdp/fd)
+
+        + [ripgrep (rg)](https://github.com/BurntSushi/ripgrep)
+
         + [stdx](https://github.com/brson/stdx)
 
         + [stdx-dev](https://github.com/llogiq/stdx-dev)
