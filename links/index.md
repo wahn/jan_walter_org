@@ -253,11 +253,13 @@ Links
 
     - [Posteo](https://posteo.de)
 
-    - [Purism](https://puri.sm)
+    <!-- https://puri.sm -->
+    - [Purism](http://138.201.176.93)
 
         + [PureOS](https://pureos.net)
 
-        + [Forums](https://puri.sm/forums)
+        <!-- https://puri.sm/forums -->
+        + [Forums](http://138.201.228.33)
 
         <!-- + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m. -->
 
