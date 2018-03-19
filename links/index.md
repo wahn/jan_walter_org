@@ -63,6 +63,8 @@ Links
 
 * __Renderer__ ([forum](https://www.janwalter.org/renderforum))
 
+    - [appleseed](https://appleseedhq.net)
+
     - [Arnold](https://www.solidangle.com)
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
@@ -85,7 +87,9 @@ Links
 
     - [Cycles](https://www.cycles-renderer.org)
 
-        + [Sun: Sky & Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
+        <!-- + [Sun: Sky &
+        Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
+        -->
 
         + [Sun Position Extension](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/Sun_Position)
 
@@ -99,9 +103,9 @@ Links
 
         + [Forum](https://www.indigorenderer.com/forum)
 
-    - [Lagoa](http://home.lagoa.com)
+    <!-- - [Lagoa](http://home.lagoa.com) -->
 
-        + [Forum](http://support.lagoa.com/forums)
+    <!--     + [Forum](http://support.lagoa.com/forums) -->
 
     - [Luxrender](http://www.luxrender.net/en_GB/index)
 
