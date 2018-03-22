@@ -14,7 +14,9 @@ Links
 
         + [Basic Usage](https://jekyllrb.com/docs/usage)
 
-    - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
+    <!-- - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) -->
+
+    - [Markdown: Syntax](http://commonmark.org/help)
 
     - [Bootstrap](https://getbootstrap.com)
 
