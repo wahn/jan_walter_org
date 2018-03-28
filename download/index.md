@@ -385,6 +385,8 @@ Download
        [Breakfast](https://github.com/wahn/export_multi/tree/master/18_breakfast)
        ([textures](https://www.janwalter.org/Download/Scenes/breakfast_textures.tar.gz) - (20-12-2017))
 
+        + [appleseed](https://www.janwalter.org/Download/Scenes/breakfast_appleseed.tar.gz) (28-03-2018)
+
         + [Cycles](https://www.janwalter.org/Download/Scenes/breakfast_blend.tar.gz) (20-12-2017)
 
         + [PBRT](https://www.janwalter.org/Download/Scenes/breakfast_pbrt.tar.gz) (20-12-2017)
