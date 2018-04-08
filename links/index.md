@@ -83,10 +83,6 @@ Links
 
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
-    - [PBRT](http://www.pbrt.org)
-
-        + [source code](https://github.com/mmp/pbrt-v3)
-
     - [Cycles](https://www.cycles-renderer.org)
 
         <!-- + [Sun: Sky &
@@ -109,9 +105,13 @@ Links
 
     <!--     + [Forum](http://support.lagoa.com/forums) -->
 
-    - [Luxrender](http://www.luxrender.net/en_GB/index)
+    <!-- - [Luxrender](http://www.luxrender.net/en_GB/index) -->
 
-        + [Forum](http://www.luxrender.net/forum)
+    - [LuxCoreRender](https://luxcorerender.org)
+
+        + [Forums](https://forums.luxcorerender.org)
+
+        + [Wiki](https://wiki.luxcorerender.org)
 
     - [Maxwell](https://www.maxwellrender.com)
 
@@ -124,6 +124,10 @@ Links
     - [Octane](https://render.otoy.com/index.php)
 
         + [Manual](https://docs.otoy.com/StandaloneH/StandaloneManual.htm)
+
+    - [PBRT](http://www.pbrt.org)
+
+        + [source code](https://github.com/mmp/pbrt-v3)
 
     - [Povray](http://www.povray.org)
 
@@ -177,7 +181,7 @@ Links
 
     - [normal maps](https://cpetry.github.io/NormalMap-Online)
 
-* __Programming__
+* __Programming__ ([DevDocs](https://devdocs.io))
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
