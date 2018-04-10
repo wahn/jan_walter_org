@@ -65,6 +65,8 @@ Download
         ([PIGS](https://www.janwalter.org/Download/Scenes/cornell_box.pigs))
         (25-02-2015)
 
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/cornell_box_luxcore.tar.gz) (09-04-2018)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (20-02-2015)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/cornell_box_mxs.tar.gz) (06-01-2016)
@@ -89,6 +91,8 @@ Download
         + [Indigo](https://www.janwalter.org/Download/Scenes/simple_room_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/simple_room_pigs.zip))
         (25-02-2015)
+
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/simple_room_luxcore.tar.gz) (09-04-2018)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/simple_room_lxs.tar.gz) (20-02-2015)
 
@@ -138,6 +142,8 @@ Download
         ([PIGS](https://www.janwalter.org/Download/Scenes/art_gallery_pigs.zip))
         (26-02-2015)
 
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/art_gallery_luxcore.tar.gz) (10-04-2018)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/art_gallery_lxs.tar.gz) (24-02-2016)
 
         + [Maxwell](https://www.janwalter.org/Download/Scenes/art_gallery_mxs.tar.gz) (09-01-2016)
@@ -162,6 +168,8 @@ Download
         + [Cycles](https://www.janwalter.org/Download/Scenes/conference_room_blend.tar.gz) (11-02-2015)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/conference_room_igs.tar.gz) (24-01-2015)
+
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/conference_room_luxcore.tar.gz) (10-04-2018)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/conference_room_lxs.tar.gz) (24-01-2015)
 
@@ -388,6 +396,8 @@ Download
         + [appleseed](https://www.janwalter.org/Download/Scenes/breakfast_appleseed.tar.gz) (28-03-2018)
 
         + [Cycles](https://www.janwalter.org/Download/Scenes/breakfast_blend.tar.gz) (20-12-2017)
+
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/breakfast_luxcore.tar.gz) (09-04-2018)
 
         + [PBRT](https://www.janwalter.org/Download/Scenes/breakfast_pbrt.tar.gz) (20-12-2017)
 
