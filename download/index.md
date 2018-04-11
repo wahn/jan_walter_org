@@ -296,6 +296,8 @@ Download
         ([PIGS](https://www.janwalter.org/Download/Scenes/natural_history_museum.pigs))
         (17-03-2015)
 
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/natural_history_museum_luxcore.tar.gz) (11-04-2018)
+
         + [Luxrender](https://www.janwalter.org/Download/Scenes/natural_history_museum_lxs.tar.gz) (17-03-2015)
 
         + [mental ray](https://www.janwalter.org/Download/Scenes/natural_history_museum_mi.tar.gz) (26-11-2014)
