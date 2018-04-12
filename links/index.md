@@ -339,4 +339,6 @@ Links
 
     - [Skat-Palast](https://www.skat-palast.de)
 
-    - [TIPP10](https://www.tipp10.com/en/)
+    - [TIPP10](https://www.tipp10.com/en)
+
+    - [Tmux Cheat Sheet](https://tmuxcheatsheet.com)
