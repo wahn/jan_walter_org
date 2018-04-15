@@ -209,6 +209,8 @@ Links
 
     - [Haskell](https://www.haskell.org)
 
+    - [Halide](http://halide-lang.org)
+
     - [Python](https://www.python.org)
 
     - [Rust](https://www.rust-lang.org)
