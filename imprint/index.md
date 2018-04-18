@@ -72,7 +72,7 @@ sind:
 * Uhrzeit der Serveranfrage.
 
 Diese Daten sind für mich in der Regel nicht bestimmten Personen
-zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen
+zuordbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen
 wird nicht vorgenommen, die Daten werden zudem nach einer
 statistischen Auswertung regelmäßig gelöscht.
 
