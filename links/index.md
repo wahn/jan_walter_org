@@ -63,7 +63,7 @@ Links
 
     - [Travis CI](https://travis-ci.org/)
 
-* __Renderer__ ([forum](https://www.janwalter.org/renderforum))
+* __Renderer__
 
     - [appleseed](https://appleseedhq.net)
 
