@@ -185,6 +185,8 @@ Links
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
+        + [Org mode](https://orgmode.org) ([video](https://youtu.be/dljNabciEGg))
+
     - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
