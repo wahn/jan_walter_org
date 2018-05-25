@@ -265,14 +265,22 @@ Links
 
 * __Privacy__
 
-    - [Autocrypt](https://autocrypt.org)
+    - [noyb](https://noyb.eu)
+
+    - Encrypt
+
+        + [GnuPG](https://gnupg.org)
+
+        + [Autocrypt](https://autocrypt.org)
+
+        + [Delta Chat](https://delta.chat/en)
 
     - [Free OS X Security Tools](https://objective-see.com/products.html)
 
     - [Posteo](https://posteo.de)
 
-    <!-- https://puri.sm -->
-    - [Purism](http://138.201.176.93)
+    <!-- http://138.201.176.93 -->
+    - [Purism](https://puri.sm)
 
         + [PureOS](https://pureos.net)
 
