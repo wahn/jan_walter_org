@@ -187,6 +187,8 @@ Links
 
         + [Org mode](https://orgmode.org) ([video](https://youtu.be/dljNabciEGg))
 
+        + [Magit](https://magit.vc)
+
     - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
