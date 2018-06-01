@@ -319,7 +319,7 @@ Links
 
     - [Privacy Tools - Fried.com](https://fried.com/privacy/)
 
-    - [Turris Omnia Router](https://www.indiegogo.com/projects/turris-omnia-hi-performance-open-source-router#)
+    - [Turris MOX](https://www.indiegogo.com/projects/turris-mox-modular-open-source-router-security-computers)
 
     - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
 
@@ -332,6 +332,8 @@ Links
     - [SSL Server Test](https://www.ssllabs.com/ssltest)
 
     - [Security Headers](https://securityheaders.io)
+
+    - [PeerTube](https://joinpeertube.org/en)
 
 * __News__
 
