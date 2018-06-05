@@ -275,6 +275,12 @@ Links
 
         + [Delta Chat](https://delta.chat/en)
 
+    - Android
+
+        + [F-Droid](https://f-droid.org/en)
+
+        + [NetGuard](https://www.netguard.me)
+
     - [Free OS X Security Tools](https://objective-see.com/products.html)
 
     - [Posteo](https://posteo.de)
