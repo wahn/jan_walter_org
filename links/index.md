@@ -223,7 +223,9 @@ Links
 
         + [Rustplatz - German](https://forum.rustplatz.de)
 
-        + [Crates](https://crates.io)
+        + [Crates.io](https://crates.io)
+
+        + [Crates.rs](https://crates.rs)
 
         + ["The Book"](https://doc.rust-lang.org/book)
 
