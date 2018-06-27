@@ -179,6 +179,8 @@ Links
 
     - [cgtextures.com](http://www.cgtextures.com)
 
+    - [texturehaven](https://texturehaven.com)
+
     - [normal maps](https://cpetry.github.io/NormalMap-Online)
 
 * __Programming__ ([DevDocs](https://devdocs.io))
@@ -265,9 +267,17 @@ Links
 
     - [OpenUSD](http://openusd.org)
 
-* __Privacy__
+* __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
     - [noyb](https://noyb.eu)
+
+    - Email
+
+        + [Posteo](https://posteo.de)
+
+        + [mailbox.org](https://mailbox.org/)
+
+        + [Tutanota](https://tutanota.com)
 
     - Encrypt
 
@@ -284,8 +294,6 @@ Links
         + [NetGuard](https://www.netguard.me)
 
     - [Free OS X Security Tools](https://objective-see.com/products.html)
-
-    - [Posteo](https://posteo.de)
 
     <!-- http://138.201.176.93 -->
     - [Purism](https://puri.sm)
