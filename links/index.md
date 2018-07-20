@@ -373,6 +373,8 @@ Links
 
     - [OpenVisualFX](https://www.openvisualfx.com)
 
+    - [Real-Time Rendering Resources](http://www.realtimerendering.com)
+
     - [Solarized](http://ethanschoonover.com/solarized)
 
     - [Skat-Palast](https://www.skat-palast.de)
