@@ -26,6 +26,9 @@ Download
     - [Arnold: A Brute-Force Production Path
       Tracer](https://www.janwalter.org/Publications/ArnoldTog2018.pdf)
 
+    - [Sony Pictures Imageworks
+      Arnold](https://www.janwalter.org/Publications/ArnoldSpiTog2018.pdf)
+
     - [RenderMan: An Advanced Path Tracing Architecture for Movie
       Rendering](https://www.janwalter.org/Publications/RendermanTog2018.pdf)
 
