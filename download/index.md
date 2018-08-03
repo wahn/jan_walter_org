@@ -23,6 +23,15 @@ Download
     - [Digital Production](http://www.digitalproduction.com) __05/14__:
       [DP1405\_070-073\_Multiexport\_Beleg.pdf](https://www.janwalter.org/Publications/DP1405_070-073_Multiexport_Beleg.pdf)
 
+    - [Arnold: A Brute-Force Production Path
+      Tracer](https://www.janwalter.org/Publications/ArnoldTog2018.pdf)
+
+    - [RenderMan: An Advanced Path Tracing Architecture for Movie
+      Rendering](https://www.janwalter.org/Publications/RendermanTog2018.pdf)
+
+    - [The Design and Evolution of Disney’s Hyperion
+      Renderer](https://www.janwalter.org/Publications/HyperionTog2018.pdf)
+
 * __Free Books__
 
     - [The Book of Shaders](http://thebookofshaders.com)

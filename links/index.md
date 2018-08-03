@@ -71,7 +71,7 @@ Links
 
     - [appleseed](https://appleseedhq.net)
 
-    - [Arnold](https://www.solidangle.com)
+    - [Arnold](https://www.solidangle.com) ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
 
@@ -100,6 +100,9 @@ Links
     - [Guerilla Render](http://guerillarender.com)
 
         + [Sample Projects](http://guerillarender.com/?page_id=583)
+
+    - [Hyperion](https://www.disneyanimation.com/technology/innovations/hyperion)
+      ([paper](https://www.janwalter.org/Publications/HyperionTog2018.pdf))
 
     - [Indigo](https://www.indigorenderer.com)
 
@@ -145,7 +148,7 @@ Links
 
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
 
-    - [RenderMan](https://rmanwiki.pixar.com/display/REN/RenderMan+Documentation)
+    - [RenderMan](https://rmanwiki.pixar.com/display/REN/RenderMan+Documentation) ([paper](https://www.janwalter.org/Publications/RendermanTog2018.pdf))
 
         + [Forum](https://renderman.pixar.com/forum)
 
