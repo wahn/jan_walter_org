@@ -148,7 +148,8 @@ Links
 
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
 
-    - [RenderMan](https://rmanwiki.pixar.com/display/REN/RenderMan+Documentation) ([paper](https://www.janwalter.org/Publications/RendermanTog2018.pdf))
+    - [RenderMan](https://rmanwiki.pixar.com)
+      ([paper](https://www.janwalter.org/Publications/RendermanTog2018.pdf))
 
         + [Forum](https://renderman.pixar.com/forum)
 
