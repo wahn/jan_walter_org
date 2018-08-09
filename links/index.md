@@ -225,6 +225,8 @@ Links
 
     - [Halide](http://halide-lang.org)
 
+    - [Julia](https://julialang.org)
+
     - [Python](https://www.python.org)
 
     - [Rust](https://www.rust-lang.org)
