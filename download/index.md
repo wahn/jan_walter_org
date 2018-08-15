@@ -37,6 +37,8 @@ Download
 
 * __Free Books__
 
+    - [Privacy-Handbuch](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf) - German
+
     - [The Book of Shaders](http://thebookofshaders.com)
 
     - [Why
