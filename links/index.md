@@ -191,6 +191,18 @@ Links
 
     - [normal maps](https://cpetry.github.io/NormalMap-Online)
 
+* __Images__
+
+    - [Affinity Photo](https://affinity.serif.com/en-gb/photo)
+
+    - [Gimp](https://www.gimp.org)
+
+    - [imageoptim](https://imageoptim.com/versions.html)
+
+    - [pngquant](https://pngquant.org)
+
+    - [Raw Photo Processor](http://raw-photo-processor.com/RPP/Overview.html)
+
 * __Programming__ ([DevDocs](https://devdocs.io))
 
     - [Emacs](https://www.gnu.org/software/emacs)
@@ -303,6 +315,14 @@ Links
 
         + [NetGuard](https://www.netguard.me)
 
+    - Phone
+
+        + [Librem 5](https://puri.sm/shop/librem-5)
+
+        + [Necuno Foss Mobile Device](https://necunos.com/mobile)
+
+        + [UnaPhone Zenith](https://unaos.com/devices.html)
+
     - [Free OS X Security Tools](https://objective-see.com/products.html)
 
     <!-- http://138.201.176.93 -->
@@ -346,8 +366,6 @@ Links
     - [Privacy Tools - Fried.com](https://fried.com/privacy/)
 
     - [Turris MOX](https://www.indiegogo.com/projects/turris-mox-modular-open-source-router-security-computers)
-
-    - [UnaPhone Zenith](https://www.indiegogo.com/projects/unaphone-zenith-secure-and-private-smartphone#)
 
     - [Hardenize](https://www.hardenize.com)
 
