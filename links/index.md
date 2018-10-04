@@ -245,7 +245,7 @@ Links
 
         + [Users](https://users.rust-lang.org)
 
-        + [Rustplatz - German](https://forum.rustplatz.de)
+        + [Rustplatz - German](https://www.rustplatz.de)
 
         + [Crates.io](https://crates.io)
 
