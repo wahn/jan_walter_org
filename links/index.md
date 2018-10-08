@@ -167,7 +167,7 @@ Links
 
         + [Cloud](https://cloud.blender.org)
 
-        + [BlendSwap](https://www.blendswap.com)
+        + [Agent 327](https://agent327.com)
 
     - [Houdini](https://www.sidefx.com)
 
@@ -406,3 +406,5 @@ Links
     - [TIPP10](https://www.tipp10.com/en)
 
     - [Tmux Cheat Sheet](https://tmuxcheatsheet.com)
+
+    - [Westend Verlag](https://www.westendverlag.de)
