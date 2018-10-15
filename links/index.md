@@ -136,6 +136,8 @@ Links
 
         + [source code](https://github.com/mmp/pbrt-v3)
 
+        + [book](https://www.pbrt.org) ([online version](http://www.pbr-book.org))
+
     - [Povray](http://www.povray.org)
 
     - [Radiance](http://radsite.lbl.gov/radiance)
