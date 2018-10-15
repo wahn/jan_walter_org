@@ -159,6 +159,8 @@ Links
 
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
+        + [3Delight](https://www.3delight.com)
+
 * __Modeling and Animation__
 
     - [Blender](https://www.blender.org)
