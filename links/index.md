@@ -163,6 +163,22 @@ Links
 
         + [3Delight](https://www.3delight.com)
 
+* __Rendering Research__
+
+    - [ART](http://cgg.mff.cuni.cz/ART/about)
+
+    - [Benedikt Bitterli](https://benedikt-bitterli.me)
+
+    - [Iliyan Georgiev](http://www.iliyan.com/publications)
+
+    - [Joe Schutte](https://schuttejoe.github.io)
+
+    - [Mitsuba](https://www.mitsuba-renderer.org)
+
+    - [SmallVCM](http://www.smallvcm.com)
+
+    - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
+
 * __Modeling and Animation__
 
     - [Blender](https://www.blender.org)
