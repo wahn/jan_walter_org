@@ -339,6 +339,8 @@ Links
 
         + [Librem 5](https://puri.sm/shop/librem-5)
 
+        + [Light Phone 2](https://www.indiegogo.com/projects/light-phone-2#)
+
         + [Necuno Foss Mobile Device](https://necunos.com/mobile)
 
         + [UnaPhone Zenith](https://unaos.com/devices.html)
