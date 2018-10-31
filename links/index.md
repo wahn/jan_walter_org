@@ -6,7 +6,7 @@ title: Links
 Links
 =====
 
-* __Web Site__
+* __Web Site__ ([Photos](https://www.wahnsite.org))
 
     - Sources for this web page on [GitHub](https://github.com/wahn/jan_walter_org)
 
