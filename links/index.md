@@ -10,9 +10,13 @@ Links
 
     - Sources for this web page on [GitHub](https://github.com/wahn/jan_walter_org)
 
-    - [Jekyll](https://jekyllrb.com)
+    - [JAMstack](https://jamstack.org)
 
-        + [Basic Usage](https://jekyllrb.com/docs/usage)
+        + [Static Site Generators](https://www.staticgen.com)
+
+        + [Jekyll](https://jekyllrb.com)
+
+        + [Hugo](https://gohugo.io)
 
     <!-- - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) -->
 
