@@ -335,6 +335,13 @@ Links
 
         + [Delta Chat](https://delta.chat/en)
 
+    - Chat
+
+        + [XMPP](https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)
+          ([Public Jabber Chat rooms](https://search.jabber.network/))
+
+        + [Matrix](https://matrix.org/blog/home)
+
     - Android
 
         + [F-Droid](https://f-droid.org/en)
