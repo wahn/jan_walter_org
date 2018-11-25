@@ -319,6 +319,8 @@ Links
 
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
+    - [Free Software Foundation](https://www.fsf.org)
+
     - [noyb](https://noyb.eu)
 
     - Email
@@ -429,6 +431,8 @@ Links
     - [FMX](https://fmx.de)
 
     - [Kontext TV](http://www.kontext-tv.de)
+
+    - [Bryan Lunduke](http://lunduke.com)
 
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
