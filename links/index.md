@@ -18,7 +18,7 @@ Links
 
         + [Hugo](https://gohugo.io)
 
-        + [Gutenberg](https://www.getgutenberg.io)
+        + [Zola](https://www.getzola.org)
 
     <!-- - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) -->
 
@@ -194,6 +194,8 @@ Links
         + [Cloud](https://cloud.blender.org)
 
         + [Agent 327](https://agent327.com)
+
+        + [devtalk forum](https://devtalk.blender.org)
 
     - [Houdini](https://www.sidefx.com)
 
