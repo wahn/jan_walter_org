@@ -279,6 +279,8 @@ Links
 
         + [Crates.rs](https://crates.rs)
 
+        + [Cheats.rs](https://cheats.rs)
+
         + ["The Book"](https://doc.rust-lang.org/book)
 
         + [Podcast](http://www.newrustacean.com)
