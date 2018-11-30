@@ -267,6 +267,8 @@ Links
 
     - [Julia](https://julialang.org)
 
+    - [Mozart](http://mozart.github.io)
+
     - [Python](https://www.python.org)
 
     - [Rust](https://www.rust-lang.org)
