@@ -39,6 +39,20 @@ Download
 
     - [Privacy-Handbuch](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf) - German
 
+    - [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - SICP
+
+        + [Concepts, Techniques, and Models of Computer
+          Programming](https://mitpress.mit.edu/books/concepts-techniques-and-models-computer-programming) -
+          **not free**, but maybe the next
+          [SICP](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)?
+
+        + [The principal programming
+          paradigms](https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf) -
+          The chart classifies programming paradigms according to
+          their kernel languages
+
+    - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed)
+
     - [The Book of Shaders](http://thebookofshaders.com)
 
     - [Why
@@ -46,9 +60,7 @@ Download
       from [O'Reilly]
       (http://www.oreilly.com/programming/free/why-rust.csp)
 
-    - [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details)
-
-    - [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed)
+    <!-- - [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details) -->
 
     - [Vim for humans](https://vimebook.com/en)
 
