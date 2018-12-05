@@ -261,6 +261,8 @@ Links
 
     - [C++](http://www.cplusplus.com/reference)
 
+    - [GNU Octave](https://www.gnu.org/software/octave)
+
     - [Haskell](https://www.haskell.org)
 
     - [Halide](http://halide-lang.org)
