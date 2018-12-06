@@ -163,7 +163,7 @@ alt="Summary for 2017." width="512" class="img-thumbnail"/></p>
 alt="Summary by month for 2017." width="740"
 class="img-thumbnail"/></p>
 
-[rust]:              https://www.rust-lang.org/en-US
+[rust]:              https://www.rust-lang.org
 [pbrt]:              http://www.pbrt.org
 [mill]:              http://www.themill.com
 [arnold]:            https://www.solidangle.com/arnold

@@ -223,7 +223,7 @@ provided on the [imprint][imprint] page.
 [release_notes]: https://github.com/wahn/rs_pbrt/wiki/Release-Notes
 [pbrt]:          http://www.pbrt.org/
 [repo]:          https://github.com/wahn/rs_pbrt
-[rust]:          https://www.rust-lang.org/en-US/
+[rust]:          https://www.rust-lang.org
 [docs]:          https://www.janwalter.org/doc/rust/pbrt/index.html
 [v0_2_0]:        https://github.com/wahn/rs_pbrt/releases/tag/v0.2.0
 [path]:          https://en.wikipedia.org/wiki/Path_tracing

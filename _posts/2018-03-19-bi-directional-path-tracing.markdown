@@ -96,7 +96,7 @@ The next major release will hopefully implement [Metropolis Light
 Transport][mlt] (MLT). I already created an [issue][issue] about it.
 
 [releases]: https://github.com/wahn/rs_pbrt/releases
-[rust]:     https://www.rust-lang.org/en-US
+[rust]:     https://www.rust-lang.org
 [pbrt]:     http://www.pbrt.org
 [bdpt]:     https://en.wikipedia.org/wiki/Path_tracing#Bidirectional_path_tracing
 [mlt]:      https://en.wikipedia.org/wiki/Metropolis_light_transport

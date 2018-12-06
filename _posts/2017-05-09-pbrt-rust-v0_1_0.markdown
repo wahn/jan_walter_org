@@ -240,7 +240,7 @@ should still render (without multi-threading) within a few seconds.
 [Version 0.1.7][v0_1_7] renders the same image as v0.1.6 **using all**
 available **CPUs**. See [Release Notes][release_notes] ...
 
-[rust]:          https://www.rust-lang.org/en-US/
+[rust]:          https://www.rust-lang.org
 [pbrt]:          http://www.pbrt.org/
 [v0_1_0]:        https://github.com/wahn/rs_pbrt/releases/tag/v0.1.0
 [docs]:          https://www.janwalter.org/doc/rust/pbrt/index.html

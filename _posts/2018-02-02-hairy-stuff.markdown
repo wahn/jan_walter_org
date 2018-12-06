@@ -131,7 +131,7 @@ class="img-thumbnail"/></p>
 
 [staircase_pbrt.tar.gz][staircase_pbrt]
 
-[rust]: https://www.rust-lang.org/en-US
+[rust]: https://www.rust-lang.org
 [pbrt]: http://www.pbrt.org
 [issue_37]: https://github.com/wahn/rs_pbrt/issues/37
 [issue_38]: https://github.com/wahn/rs_pbrt/issues/38

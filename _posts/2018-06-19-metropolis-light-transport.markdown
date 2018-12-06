@@ -117,7 +117,7 @@ the latest [pest][pest] crate or experiment with other __parser
 generators__ available for Rust.
 
 [releases]:     https://github.com/wahn/rs_pbrt/releases
-[rust]:         https://www.rust-lang.org/en-US
+[rust]:         https://www.rust-lang.org
 [pbrt]:         http://www.pbrt.org
 [mlt]:          https://en.wikipedia.org/wiki/Metropolis_light_transport
 [bdpt]:         https://en.wikipedia.org/wiki/Path_tracing#Bidirectional_path_tracing
