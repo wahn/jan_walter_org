@@ -337,6 +337,14 @@ Links
 
         + [Tutanota](https://tutanota.com)
 
+    - Web Hosting
+
+        + [The Positive Internet Company](http://www.positive-internet.com) (UK + US)
+
+        + [JPBerlin](https://www.jpberlin.de/) (Germany)
+
+        + [schokokeks.org](https://schokokeks.org) (Germany)
+
     - Encrypt
 
         + [GnuPG](https://gnupg.org)
