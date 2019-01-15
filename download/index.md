@@ -429,6 +429,11 @@ Download
 
         + [PBRT](https://www.janwalter.org/Download/Scenes/breakfast_pbrt.tar.gz) (20-12-2017)
 
+    - ![Alt SSS Dragon][sss_dragon]
+       [SSS Dragon](https://gitlab.com/jdb-walter/rs-pbrt-test-scenes/wikis/pbrt-sssdragon)
+
+        + [PBRT](https://www.janwalter.org/Download/Scenes/sss_dragon_pbrt.tar.gz) (15-01-2019)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -480,3 +485,4 @@ Download
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
 [attic]:                  /thumbnails/scenes/attic_99x50.png "Attic"
 [breakfast]:              /thumbnails/scenes/breakfast_50x50.png "Breakfast"
+[sss_dragon]:             /thumbnails/scenes/sss_dragon_67x50.png "Breakfast"
