@@ -396,6 +396,8 @@ Links
 
     - [Technoethical](https://tehnoetic.com)
 
+    - [Pinebook](https://www.pine64.org/?page_id=3707)
+
     - [Subgraph OS](https://subgraph.com)
 
     - [How to stop browser tracking](https://www.comparitech.com/blog/vpn-privacy/free-anti-tracking-browser-extensions)
