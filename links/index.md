@@ -311,7 +311,7 @@ Links
 
     - [Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
 
-* __Libraries__
+* __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
     - [OpenColorIO](http://opencolorio.org)
 
