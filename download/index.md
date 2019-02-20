@@ -434,6 +434,11 @@ Download
 
         + [PBRT](https://www.janwalter.org/Download/Scenes/sss_dragon_pbrt.tar.gz) (15-01-2019)
 
+    - ![Alt Caustic Glass][caustic_glass]
+       [Caustic Glass](https://gitlab.com/jdb-walter/rs-pbrt-test-scenes/wikis/pbrt-caustic-glass)
+
+        + [PBRT](https://www.janwalter.org/Download/Scenes/caustic_glass.tar.gz) (19-02-2019)
+
 * __Animations__
 
     - ![Alt Simple House][simple_house] [Simple
@@ -485,4 +490,5 @@ Download
 [simple_house]:           /thumbnails/animations/simple_house_89x50.png "Simple House"
 [attic]:                  /thumbnails/scenes/attic_99x50.png "Attic"
 [breakfast]:              /thumbnails/scenes/breakfast_50x50.png "Breakfast"
-[sss_dragon]:             /thumbnails/scenes/sss_dragon_67x50.png "Breakfast"
+[sss_dragon]:             /thumbnails/scenes/sss_dragon_67x50.png "SSS Dragon"
+[caustic_glass]:          /thumbnails/scenes/caustic_glass_50x71.png "Caustic Glass"
