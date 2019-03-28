@@ -259,6 +259,8 @@ Links
       Games](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
       (see it in [action](https://youtu.be/De0Am_QcZiQ))
 
+    - [AnyDSL](https://anydsl.github.io)
+
     - [C++](http://www.cplusplus.com/reference)
 
     - [GNU Octave](https://www.gnu.org/software/octave)

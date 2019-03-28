@@ -59,7 +59,7 @@ feature, which was added to the latest `rs_pbrt` executable and most
 likely there is a **scene file** which allows you to render that image
 yourself, after you have downloaded that scene and compiled the latest
 Rust source code into an executable. Which raises the question:
-**Which feature are already implemented?**
+**Which features are already implemented?**
 
 ### Stochastic Progressive Photon Mapping (SPPM)
 
