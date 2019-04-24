@@ -245,6 +245,8 @@ Links
 
     - [Vim](https://vim.sourceforge.io)
 
+        + [Vim Cheat Sheet](https://vim.rtorr.com)
+
     - [Vulkan](https://www.khronos.org/vulkan)
 
         + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
@@ -331,6 +333,18 @@ Links
 
     - [noyb](https://noyb.eu)
 
+    - OS
+
+        + [Debian](https://www.debian.org)
+
+        + [PureOS](https://pureos.net)
+
+        + [Pop!_OS](https://system76.com/pop)
+
+        + [Redox](https://www.redox-os.org)
+
+        + [Subgraph OS](https://subgraph.com)
+
     - Email
 
         + [Posteo](https://posteo.de)
@@ -383,8 +397,6 @@ Links
     <!-- http://138.201.176.93 -->
     - [Purism](https://puri.sm)
 
-        + [PureOS](https://pureos.net)
-
         <!-- https://puri.sm/forums -->
         + [Forums](http://138.201.228.33)
 
@@ -399,8 +411,6 @@ Links
     - [Technoethical](https://tehnoetic.com)
 
     - [Pinebook](https://www.pine64.org/?page_id=3707)
-
-    - [Subgraph OS](https://subgraph.com)
 
     - [How to stop browser tracking](https://www.comparitech.com/blog/vpn-privacy/free-anti-tracking-browser-extensions)
 
