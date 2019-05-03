@@ -440,6 +440,8 @@ Links
 
     - [How privacy-friendly is your site?](https://webbkoll.dataskydd.net/en)
 
+    - [SSL Checker](https://www.websiteplanet.com/webtools/ssl-checker)
+
     - [SSL Server Test](https://www.ssllabs.com/ssltest)
 
     - [Security Headers](https://securityheaders.io)
