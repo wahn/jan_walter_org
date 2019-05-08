@@ -317,6 +317,8 @@ Links
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
+    - [Libre Graphics Meeting](https://libregraphicsmeeting.org)
+
     - [OpenColorIO](http://opencolorio.org)
 
     - [OpenEXR](http://www.openexr.org)
