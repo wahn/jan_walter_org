@@ -247,6 +247,12 @@ Links
 
         + [Vim Cheat Sheet](https://vim.rtorr.com)
 
+    - UML
+
+        + [UMLet](http://www.umlet.com)
+
+        + [UMLetino](https://www.umletino.com/umletino.html)
+
     - [Vulkan](https://www.khronos.org/vulkan)
 
         + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
