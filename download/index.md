@@ -40,6 +40,8 @@ Download
 
 * __Free Books__
 
+    - [Introduction to Computer Graphics](http://math.hws.edu/graphicsbook)
+
     - [Privacy-Handbuch](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf) - German
 
     - [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - SICP
