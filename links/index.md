@@ -171,6 +171,8 @@ Links
 
 * __Rendering Research__
 
+    - [Adrien Gruson](https://beltegeuse.github.io/research)
+
     - [ART](http://cgg.mff.cuni.cz/ART/about)
 
     - [Benedikt Bitterli](https://benedikt-bitterli.me)
