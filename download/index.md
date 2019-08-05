@@ -90,7 +90,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (24-10-2017)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box_blend.tar.gz) (14-09-2017)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box_blend.tar.gz) (12-06-2019)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/cornell_box_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/cornell_box.pigs))
@@ -143,7 +143,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (25-10-2017)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (19-10-2017)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (14-06-2019)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/cafe_scene_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/cafe_scene_pigs.zip))

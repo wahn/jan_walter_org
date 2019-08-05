@@ -379,7 +379,7 @@ Links
 
         + [Delta Chat](https://delta.chat/en)
 
-    - Chat
+    - Chat ([freie messenger](https://www.freie-messenger.de) - German)
 
         + [XMPP](https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol)
           ([Public Jabber Chat rooms](https://search.jabber.network/))
