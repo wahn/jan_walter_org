@@ -345,6 +345,8 @@ Links
 
     - OS
 
+        + [CentOS](https://centos.org)
+
         + [Debian](https://www.debian.org)
 
         + [PureOS](https://pureos.net)
