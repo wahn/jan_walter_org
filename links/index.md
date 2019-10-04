@@ -299,6 +299,12 @@ Links
 
         + ["The Book"](https://doc.rust-lang.org/book)
 
+        + [Rust Blog](https://blog.rust-lang.org/index.html)
+
+        + [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
+
+        + [The RustSec Advisory Database](https://rustsec.org)
+
         + [Podcast](http://www.newrustacean.com)
 
         + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book)
