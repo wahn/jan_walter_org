@@ -383,9 +383,9 @@ Links
 
         + [GnuPG](https://gnupg.org)
 
-        + [Autocrypt](https://autocrypt.org)
+        + [Autocrypt](https://www.privacy-handbuch.de/handbuch_32w1.htm)
 
-        + [Delta Chat](https://delta.chat/en)
+        <!-- + [Delta Chat](https://delta.chat/en) -->
 
     - Chat ([freie messenger](https://www.freie-messenger.de) - German)
 
