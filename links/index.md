@@ -241,6 +241,8 @@ Links
 
         + [Magit](https://magit.vc)
 
+        + [Eglot](https://github.com/joaotavora/eglot)
+
     - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
