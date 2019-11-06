@@ -241,6 +241,8 @@ Links
 
         + [Magit](https://magit.vc)
 
+        + [Eglot](https://github.com/joaotavora/eglot)
+
     - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
@@ -470,7 +472,8 @@ Links
 
     - [Heise](https://www.heise.de) - German
 
-    - [Kuketz IT-Security Blog](https://www.kuketz-blog.de) - German
+    - [Kuketz IT-Security Blog](https://www.kuketz-blog.de) - German -
+      [searX](https://www.kuketz-suche.de)
 
     - [BBC](http://www.bbc.co.uk/news)
 
