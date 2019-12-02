@@ -345,6 +345,8 @@ Links
 
     - [OpenUSD](http://openusd.org)
 
+    - [Qt](https://doc.qt.io)
+
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
     - [Free Software Foundation](https://www.fsf.org)
