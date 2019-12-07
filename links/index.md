@@ -183,6 +183,10 @@ Links
 
     - [Mitsuba](https://www.mitsuba-renderer.org)
 
+        + [Mitsuba 2](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+
+        + [Enoki](https://github.com/mitsuba-renderer/enoki)
+
     - [SmallVCM](http://www.smallvcm.com)
 
     - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
