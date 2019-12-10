@@ -313,6 +313,8 @@ Links
 
         + [Podcast](http://www.newrustacean.com)
 
+        + [rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator)
+
         + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book)
 
         + [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html)
