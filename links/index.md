@@ -241,7 +241,9 @@ Links
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
-        + [Org mode](https://orgmode.org) ([video](https://youtu.be/dljNabciEGg))
+        + [Org mode](https://orgmode.org)
+          ([video](https://youtu.be/dljNabciEGg)) - [Organize Your
+          Life In Plain Text](http://doc.norang.ca/org-mode.html)
 
         + [Magit](https://magit.vc)
 
