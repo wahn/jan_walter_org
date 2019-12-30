@@ -406,6 +406,30 @@ Links
 
         + [Matrix](https://matrix.org/blog/home)
 
+    - Hardware
+
+      + [Zerocat](http://www.zerocat.org)
+
+      + [TUXEDO Computers](https://www.tuxedocomputers.com)
+
+        <!-- http://138.201.176.93 -->
+      + [Purism](https://puri.sm)
+
+        <!-- https://puri.sm/forums -->
+        <!-- + [Forums](http://138.201.228.33) -->
+    
+        <!-- + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m. -->
+    
+        <!-- + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2) -->
+
+      + [Minifree](https://minifree.org)
+
+      + [Technoethical](https://tehnoetic.com)
+
+      + [Pinebook](https://www.pine64.org)
+
+      + [Turris MOX](https://www.indiegogo.com/projects/turris-mox-modular-open-source-router-security-computers)
+
     - Android
 
         + [F-Droid](https://f-droid.org/en)
@@ -423,24 +447,6 @@ Links
         + [UnaPhone Zenith](https://unaos.com/devices.html)
 
     - [Free OS X Security Tools](https://objective-see.com/products.html)
-
-    <!-- http://138.201.176.93 -->
-    - [Purism](https://puri.sm)
-
-        <!-- https://puri.sm/forums -->
-        + [Forums](http://138.201.228.33)
-
-        <!-- + [Fan noise](https://www.youtube.com/watch?v=KMRwaQNs45k) Go to 1h 20m. -->
-
-        <!-- + [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2) -->
-
-    - [Minifree](https://minifree.org)
-
-    - [Zerocat](http://www.zerocat.org)
-
-    - [Technoethical](https://tehnoetic.com)
-
-    - [Pinebook](https://www.pine64.org/?page_id=3707)
 
     - [How to stop browser tracking](https://www.comparitech.com/blog/vpn-privacy/free-anti-tracking-browser-extensions)
 
@@ -461,8 +467,6 @@ Links
     - [privacytools.io](https://www.privacytools.io)
 
     - [Privacy Tools - Fried.com](https://fried.com/privacy/)
-
-    - [Turris MOX](https://www.indiegogo.com/projects/turris-mox-modular-open-source-router-security-computers)
 
     - [Hardenize](https://www.hardenize.com)
 
