@@ -90,7 +90,7 @@ Mapping (SPPM), and Path Tracing (Participating Media).
 
 <p class="text-center"><img
 src="/assets/barbershop_v2_79_arnold_01.png" alt="Barbershop scene
-rendered via btoa v0.1.0 and Arnold Arnold 6.0.1.0." width="740"
+rendered via btoa v0.1.0 and Arnold 6.0.1.0." width="740"
 class="img-thumbnail"/></p>
 
 Even though there is an executable shipping with [rs-pbrt][rs_pbrt] to
@@ -123,6 +123,20 @@ BLENDER-v279
 Arnold 6.0.1.0 [25372a4c] linux clang-5.0.0 oiio-2.1.4 ... 2019/12/04 07:45:07
 Usage:  kick [options] ...
 ...
+```
+
+Here is another example, which can be found in the same
+[repository][repository]:
+
+<p class="text-center"><img src="/assets/bedroom_v2_79_arnold_01.png"
+alt="Bedroom scene rendered via btoa v0.1.0 and Arnold 6.0.1.0."
+width="740" class="img-thumbnail"/></p>
+
+```shell
+# creates btoa.ass
+> btoa --light_scale 5.0 bedroom_v2_79.blend
+# renders arnold.png
+> kick -as 4 -dif 1 -ds 64 -spc 1 -ss 2 -trm 4 -ts 2 btoa.ass -o arnold.png
 ```
 
 # Disclaimer
