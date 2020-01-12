@@ -444,7 +444,17 @@ Links
 
         + [Necuno Foss Mobile Device](https://necunos.com/mobile)
 
+        + [PinePhone](https://www.pine64.org/pinephone)
+
+        + [Plasma Mobile](https://www.plasma-mobile.org)
+
+        + [postmarketOS](https://postmarketos.org)
+
         + [UnaPhone Zenith](https://unaos.com/devices.html)
+
+        + [Ubuntu Touch](https://ubuntu-touch.io/)
+
+        + [volla.systems](http://volla.systems)
 
     - [Free OS X Security Tools](https://objective-see.com/products.html)
 
