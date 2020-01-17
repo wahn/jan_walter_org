@@ -283,6 +283,8 @@ Links
 
     - [GNU Octave](https://www.gnu.org/software/octave)
 
+    - [Guile](https://www.gnu.org/software/guile)
+
     - [Haskell](https://www.haskell.org)
 
     - [Halide](http://halide-lang.org)
