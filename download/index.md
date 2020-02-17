@@ -90,7 +90,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cornell_box_ass.tar.gz) (24-10-2017)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box_blend.tar.gz) (12-06-2019)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cornell_box.blend.xz) (17-02-2020)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/cornell_box_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/cornell_box.pigs))
@@ -117,7 +117,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/simple_room_ass.tar.gz) (24-10-2017)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/simple_room_blend.tar.gz) (17-10-2017)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/simple_room_v2_79.blend.xz) (17-02-2020)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/simple_room_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/simple_room_pigs.zip))
@@ -143,7 +143,7 @@ Download
 
         + [Arnold](https://www.janwalter.org/Download/Scenes/cafe_scene_ass.tar.gz) (25-10-2017)
 
-        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene_blend.tar.gz) (14-06-2019)
+        + [Cycles](https://www.janwalter.org/Download/Scenes/cafe_scene1_v2_79.blend.xz) (17-02-2020)
 
         + [Indigo](https://www.janwalter.org/Download/Scenes/cafe_scene_igs.tar.gz)
         ([PIGS](https://www.janwalter.org/Download/Scenes/cafe_scene_pigs.zip))
