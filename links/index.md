@@ -77,6 +77,10 @@ Links
 
     - [appleseed](https://appleseedhq.net)
 
+        + [source code](https://github.com/appleseedhq/appleseed)
+
+        + [Forum](https://forum.appleseedhq.net)
+
     - [Arnold](https://www.solidangle.com) ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
@@ -94,6 +98,8 @@ Links
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
     - [Cycles](https://www.cycles-renderer.org)
+
+        + [source code](https://developer.blender.org/diffusion/C)
 
         <!-- + [Sun: Sky &
         Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
@@ -122,7 +128,9 @@ Links
 
     - [LuxCoreRender](https://luxcorerender.org)
 
-        + [Forums](https://forums.luxcorerender.org)
+        + [source code](https://github.com/LuxCoreRender/LuxCore)
+
+        + [Forum](https://forums.luxcorerender.org)
 
         + [Wiki](https://wiki.luxcorerender.org)
 
@@ -133,6 +141,15 @@ Links
     - [mental ray](https://www.nvidia.com/en-us/design-visualization/solutions/rendering/product-updates)
 
         + [imf_diff](http://docs.autodesk.com/MENTALRAY/2012/CHS/mental%20ray%203.9%20Help/files/manual/node251.html)
+
+    - [Mitsuba 2](https://www.mitsuba-renderer.org)
+
+        + [source code](https://github.com/mitsuba-renderer/mitsuba2)
+
+        + [Realistic Graphics
+          Lab](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+
+        + [Enoki](https://github.com/mitsuba-renderer/enoki)
 
     - [Octane](https://render.otoy.com/index.php)
 
@@ -147,6 +164,10 @@ Links
     - [Povray](http://www.povray.org)
 
     - [Radiance](http://radsite.lbl.gov/radiance)
+
+        + [source code](https://github.com/NREL/Radiance)
+
+        + [Forum](https://discourse.radiance-online.org)
 
         + [Book](http://radsite.lbl.gov/radiance/book/index.html)
 
@@ -180,12 +201,6 @@ Links
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
 
     - [Joe Schutte](https://schuttejoe.github.io)
-
-    - [Mitsuba](https://www.mitsuba-renderer.org)
-
-        + [Mitsuba 2](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
-
-        + [Enoki](https://github.com/mitsuba-renderer/enoki)
 
     - [SmallVCM](http://www.smallvcm.com)
 
