@@ -151,7 +151,7 @@ Links
 
         + [Enoki](https://github.com/mitsuba-renderer/enoki)
 
-    - [Octane](https://render.otoy.com/index.php)
+    - [OctaneRender](https://home.otoy.com/render/octane-render)
 
         + [Manual](https://docs.otoy.com/StandaloneH/StandaloneManual.htm)
 
@@ -297,6 +297,8 @@ Links
     - [AnyDSL](https://anydsl.github.io)
 
     - [C++](http://www.cplusplus.com/reference)
+
+    - [Futhark](https://futhark-lang.org/)
 
     - [GNU Octave](https://www.gnu.org/software/octave)
 
