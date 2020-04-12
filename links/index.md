@@ -222,6 +222,10 @@ Links
 
         + [HDK](https://www.sidefx.com/docs/hdk15.0)
 
+        + [Entagma](https://entagma.com/)
+
+        + [Tim van Helsdingen](https://timvanhelsdingen.com/howdini101-master-the-fundamentals/)
+
 * __Scenes__
 
     - [BlendSwap](https://www.blendswap.com)
@@ -457,7 +461,7 @@ Links
 
         + [NetGuard](https://www.netguard.me)
 
-    - Phone
+    - Phone ([Baseband - German](https://media.ccc.de/v/CC16_-_109_-__-_sub_lounge_-_201605211815_-_your_baseband_is_watching_you_-_dan#t=0))
 
         + [Librem 5](https://puri.sm/shop/librem-5)
 
