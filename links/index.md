@@ -177,6 +177,8 @@ Links
 
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
 
+    - [Redshift](https://www.redshift3d.com)
+
     - [RenderMan](https://rmanwiki.pixar.com)
       ([paper](https://www.janwalter.org/Publications/RendermanTog2018.pdf))
 
@@ -221,6 +223,10 @@ Links
     - [Houdini](https://www.sidefx.com)
 
         + [HDK](https://www.sidefx.com/docs/hdk15.0)
+
+        + [Entagma](https://entagma.com/)
+
+        + [Tim van Helsdingen](https://timvanhelsdingen.com/howdini101-master-the-fundamentals/)
 
 * __Scenes__
 
@@ -457,7 +463,7 @@ Links
 
         + [NetGuard](https://www.netguard.me)
 
-    - Phone
+    - Phone ([Baseband - German](https://media.ccc.de/v/CC16_-_109_-__-_sub_lounge_-_201605211815_-_your_baseband_is_watching_you_-_dan#t=0))
 
         + [Librem 5](https://puri.sm/shop/librem-5)
 
