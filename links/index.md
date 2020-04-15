@@ -49,13 +49,15 @@ Links
 
     - [GitHub](https://github.com)
 
+        + [rs_pbrt](https://github.com/wahn/rs_pbrt)
+
+        + [render comparison](https://github.com/wahn/render_comparison)
+
         + [export multi](https://github.com/wahn/export_multi)
 
         + [jan walter org](https://github.com/wahn/jan_walter_org)
 
         + [wahnsite org](https://github.com/wahn/wahnsite_org)
-
-        + [rs_pbrt](https://github.com/wahn/rs_pbrt)
 
         + [Rust examples](https://github.com/wahn/Rust_Examples)
 
@@ -365,6 +367,8 @@ Links
     - [Swift](https://swift.org)
 
     - [Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
+
+        + [The Wolfram Physics Project](https://www.wolframphysics.org)
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
