@@ -238,6 +238,8 @@ Links
 
     - [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources)
 
+    - [3D Model Haven](https://3dmodelhaven.com)
+
 * __Textures__
 
     - [cc0textures.com](http://www.cc0textures.com/home)
