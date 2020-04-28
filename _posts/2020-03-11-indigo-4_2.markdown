@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Indigo 4.2"
+date:   2020-03-11 15:30:00
+categories: jekyll rendering indigo
+---
+
+# Scenes Shipping with Indigo 4.2
+
+All those scenes below ship with [Indigo 4.2][indigo] and I limited
+the rendering time to **5 minutes**. The render settings used
+(uni-directional) **path tracing** with **OpenCL** rendering enabled
+(using **2 GeForce RTX 2080 Ti** GPUs).
+
+<p class="text-center"><img
+src="/assets/indigo4_2_mor4us_may_2017_compo.png" alt="Glass scene
+shipping with Indigo 4.2." width="740" class="img-thumbnail"/></p>
+
+```
+8577650k samples (8935.1 samples per pixel)
+28561000 samples / second (0.03501 microseconds / sample)
+```
+
+<p class="text-center"><img
+src="/assets/indigo4_2_glass-table_joel_lindstrom_hdri_by_mroz.png"
+alt="Glass Table scene shipping with Indigo 4.2." width="740"
+class="img-thumbnail"/></p>
+
+```
+10304663k samples (7156.0 samples per pixel)
+34283000 samples / second (0.02917 microseconds / sample)
+```
+
+<p class="text-center"><img
+src="/assets/indigo4_2_head_mateusz_sroka.png" alt="Head scene
+shipping with Indigo 4.2." width="740" class="img-thumbnail"/></p>
+
+```
+24660540k samples (21142 samples per pixel)
+82144000 samples / second (0.01217 microseconds / sample)
+```
+
+<p class="text-center"><img src="/assets/indigo4_2_iaxe.png" alt="iAxe
+scene shipping with Indigo 4.2." width="740"
+class="img-thumbnail"/></p>
+
+```
+23648212k samples (20744 samples per pixel)
+78729000 samples / second (0.01270 microseconds / sample)
+```
+
+<p class="text-center"><img
+src="/assets/indigo4_2_lal-o_may_2017_compo.png" alt="Room scene
+shipping with Indigo 4.2." width="740" class="img-thumbnail"/></p>
+
+```
+5394948k samples (5676.5 samples per pixel)
+17975000 samples / second (0.05563 microseconds / sample)
+```
+
+[indigo]: https://www.indigorenderer.com

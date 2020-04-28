@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "appleseed 2.1.0-beta"
+date:   2020-04-01 13:40:00
+categories: jekyll rendering appleseed
+---
+
+# Scenes Shipping with Appleseed
+
+<p class="text-center"><img src="/assets/appleseed_emily.png"
+alt="Emily scene shipping with appleseed 2.1.0-beta." width="740"
+class="img-thumbnail"/></p>
+
+```
+rendering finished in 6 minutes 29.964 seconds.
+```
+
+<p class="text-center"><img src="/assets/appleseed_bedroom.png"
+alt="Bedroom scene shipping with appleseed 2.1.0-beta." width="740"
+class="img-thumbnail"/></p>
+
+```
+rendering finished in 35 minutes 57.670 seconds.
+```
+
+<p class="text-center"><img
+src="/assets/appleseed_material_tester.png" alt="Material Tester scene
+shipping with appleseed 2.1.0-beta." width="740"
+class="img-thumbnail"/></p>
+
+```
+rendering finished in 1 minute 45.159 seconds.
+```
+
+<p class="text-center"><img
+src="/assets/appleseed_disney_material.png" alt="Disney Material
+Tester scene shipping with appleseed 2.1.0-beta." width="740"
+class="img-thumbnail"/></p>
+
+```
+rendering finished in 2 minutes 27.113 seconds.
+```
+
+<p class="text-center"><img src="/assets/appleseed_whisky_glass.png"
+alt="Whisky Glass Tester scene shipping with appleseed 2.1.0-beta."
+width="740" class="img-thumbnail"/></p>
+
+```
+rendering finished in 17 minutes 48.287 seconds.
+```
+
+<p class="text-center"><img src="/assets/appleseed_design_glasses.png"
+alt="Design Glasses Tester scene shipping with appleseed 2.1.0-beta."
+width="740" class="img-thumbnail"/></p>
+
+```
+rendering finished in 35 minutes 25.909 seconds.
+```
+
+<p class="text-center"><img src="/assets/appleseed_jar_jar_bean.png"
+alt="Jar Jar Bean scene shipping with appleseed 2.1.0-beta."
+width="740" class="img-thumbnail"/></p>
+
+```
+rendering finished in 3 hours 19 minutes 54.401 seconds.
+```
+
+<p class="text-center"><img src="/assets/appleseed_bunny_volume.png"
+alt="Bunny Volume Tester scene shipping with appleseed 2.1.0-beta."
+width="740" class="img-thumbnail"/></p>
+
+```
+rendering finished in 17 minutes 49.708 seconds.
+```
