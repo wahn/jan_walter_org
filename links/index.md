@@ -49,13 +49,15 @@ Links
 
     - [GitHub](https://github.com)
 
+        + [rs_pbrt](https://github.com/wahn/rs_pbrt)
+
+        + [render comparison](https://github.com/wahn/render_comparison)
+
         + [export multi](https://github.com/wahn/export_multi)
 
         + [jan walter org](https://github.com/wahn/jan_walter_org)
 
         + [wahnsite org](https://github.com/wahn/wahnsite_org)
-
-        + [rs_pbrt](https://github.com/wahn/rs_pbrt)
 
         + [Rust examples](https://github.com/wahn/Rust_Examples)
 
@@ -77,6 +79,10 @@ Links
 
     - [appleseed](https://appleseedhq.net)
 
+        + [source code](https://github.com/appleseedhq/appleseed)
+
+        + [Forum](https://forum.appleseedhq.net)
+
     - [Arnold](https://www.solidangle.com) ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
 
         + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
@@ -94,6 +100,8 @@ Links
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
     - [Cycles](https://www.cycles-renderer.org)
+
+        + [source code](https://developer.blender.org/diffusion/C)
 
         <!-- + [Sun: Sky &
         Atmosphere](https://www.blender.org/manual/render/blender_render/lighting/lamps/sun/sky_and_atmosphere.html?highlight=sky)
@@ -122,7 +130,9 @@ Links
 
     - [LuxCoreRender](https://luxcorerender.org)
 
-        + [Forums](https://forums.luxcorerender.org)
+        + [source code](https://github.com/LuxCoreRender/LuxCore)
+
+        + [Forum](https://forums.luxcorerender.org)
 
         + [Wiki](https://wiki.luxcorerender.org)
 
@@ -134,7 +144,16 @@ Links
 
         + [imf_diff](http://docs.autodesk.com/MENTALRAY/2012/CHS/mental%20ray%203.9%20Help/files/manual/node251.html)
 
-    - [Octane](https://render.otoy.com/index.php)
+    - [Mitsuba 2](https://www.mitsuba-renderer.org)
+
+        + [source code](https://github.com/mitsuba-renderer/mitsuba2)
+
+        + [Realistic Graphics
+          Lab](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
+
+        + [Enoki](https://github.com/mitsuba-renderer/enoki)
+
+    - [OctaneRender](https://home.otoy.com/render/octane-render)
 
         + [Manual](https://docs.otoy.com/StandaloneH/StandaloneManual.htm)
 
@@ -148,6 +167,10 @@ Links
 
     - [Radiance](http://radsite.lbl.gov/radiance)
 
+        + [source code](https://github.com/NREL/Radiance)
+
+        + [Forum](https://discourse.radiance-online.org)
+
         + [Book](http://radsite.lbl.gov/radiance/book/index.html)
 
         + [Radsite](https://www.radiance-online.org/)
@@ -155,6 +178,8 @@ Links
         + [Reference Manual](http://radsite.lbl.gov/radiance/refer/ray.html)
 
         + [List of all Radiance programs](http://radsite.lbl.gov/radiance/whatis.html)
+
+    - [Redshift](https://www.redshift3d.com)
 
     - [RenderMan](https://rmanwiki.pixar.com)
       ([paper](https://www.janwalter.org/Publications/RendermanTog2018.pdf))
@@ -181,12 +206,6 @@ Links
 
     - [Joe Schutte](https://schuttejoe.github.io)
 
-    - [Mitsuba](https://www.mitsuba-renderer.org)
-
-        + [Mitsuba 2](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
-
-        + [Enoki](https://github.com/mitsuba-renderer/enoki)
-
     - [SmallVCM](http://www.smallvcm.com)
 
     - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
@@ -207,6 +226,10 @@ Links
 
         + [HDK](https://www.sidefx.com/docs/hdk15.0)
 
+        + [Entagma](https://entagma.com/)
+
+        + [Tim van Helsdingen](https://timvanhelsdingen.com/howdini101-master-the-fundamentals/)
+
 * __Scenes__
 
     - [BlendSwap](https://www.blendswap.com)
@@ -214,6 +237,8 @@ Links
     - [3dRender.com](http://www.3drender.com/challenges)
 
     - [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources)
+
+    - [3D Model Haven](https://3dmodelhaven.com)
 
 * __Textures__
 
@@ -251,6 +276,8 @@ Links
 
         + [Hyperbole](https://www.gnu.org/software/hyperbole)
 
+    - [Leo Editor](http://leoeditor.com)
+
     - [Radare](https://radare.org/r)
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
@@ -282,6 +309,8 @@ Links
     - [AnyDSL](https://anydsl.github.io)
 
     - [C++](http://www.cplusplus.com/reference)
+
+    - [Futhark](https://futhark-lang.org/)
 
     - [GNU Octave](https://www.gnu.org/software/octave)
 
@@ -342,6 +371,8 @@ Links
     - [Swift](https://swift.org)
 
     - [Wolfram Language](https://www.wolfram.com/language/elementary-introduction)
+
+        + [The Wolfram Physics Project](https://www.wolframphysics.org)
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
@@ -440,7 +471,7 @@ Links
 
         + [NetGuard](https://www.netguard.me)
 
-    - Phone
+    - Phone ([Baseband - German](https://media.ccc.de/v/CC16_-_109_-__-_sub_lounge_-_201605211815_-_your_baseband_is_watching_you_-_dan#t=0))
 
         + [Librem 5](https://puri.sm/shop/librem-5)
 
