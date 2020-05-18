@@ -206,9 +206,17 @@ Links
 
     - [Joe Schutte](https://schuttejoe.github.io)
 
+    - [Psychopath Renderer](https://psychopath.io/about)
+
     - [SmallVCM](http://www.smallvcm.com)
 
     - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
+
+* __Cinematography__
+
+    - [Academy Software Foundation](https://www.aswf.io)
+
+    - [Chris Brejon's CG Cinematography](https://chrisbrejon.com/cg-cinematography)
 
 * __Modeling and Animation__
 
@@ -374,6 +382,12 @@ Links
 
         + [The Wolfram Physics Project](https://www.wolframphysics.org)
 
+* __Make__
+
+    - [CMake](https://cmake.org)
+
+    - [Ninja](https://ninja-build.org)
+
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
     - [Libre Graphics Meeting](https://libregraphicsmeeting.org)
@@ -387,6 +401,10 @@ Links
     - [OpenSubdiv](https://graphics.pixar.com/opensubdiv/docs/intro.html)
 
     - [OpenUSD](http://openusd.org)
+
+        + [API](https://graphics.pixar.com/usd/docs/api/index.html)
+
+        + [Hydra renderer plugin](https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html)
 
     - [Qt](https://doc.qt.io)
 
@@ -446,6 +464,8 @@ Links
       + [Zerocat](http://www.zerocat.org)
 
       + [TUXEDO Computers](https://www.tuxedocomputers.com)
+
+      + [MNT Reform](https://www.crowdsupply.com/mnt/reform)
 
         <!-- http://138.201.176.93 -->
       + [Purism](https://puri.sm)
