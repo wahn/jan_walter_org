@@ -8,6 +8,8 @@ Links
 
 * __Web Site__ ([Photos](https://www.wahnsite.org), [rs-pbrt.org](https://rs-pbrt.org))
 
+    - [LibreSpeed](https://librespeed.org)
+
     - Sources for this web page on [GitHub](https://github.com/wahn/jan_walter_org)
 
     - [JAMstack](https://jamstack.org)
@@ -193,6 +195,12 @@ Links
         + [OSL](http://opensource.imageworks.com/?p=osl)
 
         + [3Delight](https://www.3delight.com)
+
+* __Real-Time Rendering__
+
+    - [Real-Time Rendering Resources](http://www.realtimerendering.com)
+
+    - [Shader-Based Software Renderer](https://zauonlok.github.io/renderer)
 
 * __Rendering Research__
 
@@ -569,8 +577,6 @@ Links
     - Open Source Routing Machine ([OSRM](http://map.project-osrm.org))
 
     - [OpenVisualFX](https://www.openvisualfx.com)
-
-    - [Real-Time Rendering Resources](http://www.realtimerendering.com)
 
     - [Solarized](http://ethanschoonover.com/solarized)
 
