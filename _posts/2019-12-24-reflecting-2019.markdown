@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Reflections about 2019 and Beyond."
+date:   2019-12-23 13:00:00
+categories: jekyll blender houdini
+---
+
+# Blender
+
+## [Blender v2.79][blender279]
+
+<img src="/assets/2019_blender_v2_79.png" alt="Agent 327 in Blender
+v2.79b." width="740" class="img-thumbnail"/>
+
+## [Blender v2.8x][blender281]
+
+<img src="/assets/2019_blender_v2_81.png" alt="Latest Splash Screen in
+Blender v2.81." width="740" class="img-thumbnail"/>
+
+## [Blender Cloud][blender-cloud]
+
+<img src="/assets/2019_blender_cloud.png" alt="In the future I will
+keep Blender scenes in the cloud." width="740" class="img-thumbnail"/>
+
+# [Houdini][houdini]
+
+## Karma
+
+<p class="text-center"><a href='https://youtu.be/emcT5qXdUsc'><img
+src="/assets/2019_houdini_karma.png" alt="Karma Render works with
+Hydra for fast IPR." width="740" class="img-thumbnail"/></a></p>
+
+## Solaris
+
+# USD
+
+[blender279]:    https://www.blender.org/download/releases/2-79
+[blender281]:    https://www.blender.org/download/releases/2-81
+[demo-files]:    https://www.blender.org/download/demo-files
+[blender-cloud]: https://cloud.blender.org
+[houdini]:       https://www.sidefx.com
+[houdini-video]: https://youtu.be/emcT5qXdUsc
+[pixar-usd]:     https://graphics.pixar.com/usd/docs/index.html
+
