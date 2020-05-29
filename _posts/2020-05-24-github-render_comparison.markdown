@@ -61,7 +61,7 @@ class="img-thumbnail"/></p>
   post](https://www.redshift3d.com/forums/viewthread/31580)
 - [RenderMan](https://www.janwalter.org/Download/Scenes/attic_houdini_prman.tar.gz) -
   Houdini (14-05-2020) - [forum
-  post](https://renderman.pixar.com/forum/showthread.php?s=&threadid=43787)
+  post](https://renderman.pixar.com/answers/questions/17319/prman-and-houdini.html)
 
 [render_comparison]:   https://github.com/wahn/render_comparison
 [blender]:             https://www.blender.org
