@@ -224,6 +224,8 @@ Links
 
     - [Academy Software Foundation](https://www.aswf.io)
 
+    - [VFX Reference Platform](https://vfxplatform.com)
+
     - [Chris Brejon's CG Cinematography](https://chrisbrejon.com/cg-cinematography)
 
 * __Modeling and Animation__
@@ -383,6 +385,8 @@ Links
         + [stdx-dev](https://github.com/llogiq/stdx-dev)
 
         + [kiss3d](http://kiss3d.org)
+
+    - [Silq](https://silq.ethz.ch) (quantum computing)
 
     - [Swift](https://swift.org)
 
