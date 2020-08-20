@@ -55,9 +55,13 @@ alt="USDView and other renderers like PBRT and Arnold." width="740"
 class="img-thumbnail"/></p>
 
 I also managed to compile the [Arnold][arnold] version of their [USD
-components][arnold-usd] as you can see in the screenshot above, but
-currently it just core dumps on my Ubuntu machine as soon as you try
-to render something ...
+components][arnold-usd] as you can see in the screenshot above. Here
+is a video about that (or locally [here][usdview_arnold]):
+
+<div id='tVd45QV4PkU' class="youtube"><a
+href='https://www.youtube.com/watch?v=tVd45QV4PkU&feature=youtu.be'><img
+src='/assets/usdview_arnold.png' height="740"
+class="img-thumbnail"/></a></div>
 
 Let's see if I find time in the future to keep working on this. I
 would like to build such a bridge to my own Rust based PBRT
@@ -69,15 +73,16 @@ adjustments for the **Rust** version of the API and use foreign
 function interfaces (**FFI**) to make C++ and Rust talk to each
 other. Maybe [safer_ffi][safer-ffi] can help with that?
 
-[usd]:        https://graphics.pixar.com/usd/docs/index.html
-[usdgeom]:    https://graphics.pixar.com/usd/docs/api/usd_geom_page_front.html
-[prman]:      https://rmanwiki.pixar.com
-[embree]:     https://www.embree.org
-[usdgithub]:  https://github.com/PixarAnimationStudios/USD
-[building]:   https://github.com/PixarAnimationStudios/USD/blob/master/BUILDING.md
-[hdembree]:   https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html
-[pbrt]:       https://www.pbrt.org
-[arnold]:     https://www.arnoldrenderer.com
-[arnold-usd]: https://github.com/Autodesk/arnold-usd
-[rs-pbrt]:    https://www.rs-pbrt.org
-[safer-ffi]:  https://github.com/getditto/safer_ffi
+[usd]:            https://graphics.pixar.com/usd/docs/index.html
+[usdgeom]:        https://graphics.pixar.com/usd/docs/api/usd_geom_page_front.html
+[prman]:          https://rmanwiki.pixar.com
+[embree]:         https://www.embree.org
+[usdgithub]:      https://github.com/PixarAnimationStudios/USD
+[building]:       https://github.com/PixarAnimationStudios/USD/blob/master/BUILDING.md
+[hdembree]:       https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html
+[pbrt]:           https://www.pbrt.org
+[arnold]:         https://www.arnoldrenderer.com
+[arnold-usd]:     https://github.com/Autodesk/arnold-usd
+[rs-pbrt]:        https://www.rs-pbrt.org
+[safer-ffi]:      https://github.com/getditto/safer_ffi
+[usdview_arnold]: https://www.janwalter.org/Videos/usdview_arnold.webm
