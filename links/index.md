@@ -161,9 +161,14 @@ Links
 
     - [PBRT](http://www.pbrt.org)
 
-        + [source code](https://github.com/mmp/pbrt-v3)
+        + [source code v3](https://github.com/mmp/pbrt-v3)
 
-        + [book](https://www.pbrt.org) ([online version](http://www.pbr-book.org))
+        + [book v3](https://www.pbrt.org) ([online version](http://www.pbr-book.org))
+
+        + [source code v4](https://github.com/mmp/pbrt-v4) ([pbrt-v4
+          code walkthrough video](https://youtu.be/AXuk7bmhZ2g))
+
+        + [tev - The EXR Viewer](https://github.com/Tom94/tev)
 
     - [Povray](http://www.povray.org)
 
