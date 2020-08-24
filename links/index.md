@@ -168,6 +168,10 @@ Links
         + [source code v4](https://github.com/mmp/pbrt-v4) ([pbrt-v4
           code walkthrough video](https://youtu.be/AXuk7bmhZ2g))
 
+        + [Porting PBRT to the GPU While Preserving its Soul -
+          Slides](https://highperformancegraphics.org/slides20/wed_pharr.pdf)
+          ([recording](https://www.youtube.com/watch?v=prZJ8FBG9BI&t=6386s))
+
         + [tev - The EXR Viewer](https://github.com/Tom94/tev)
 
     - [Povray](http://www.povray.org)
