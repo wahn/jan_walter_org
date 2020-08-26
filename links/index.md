@@ -211,6 +211,8 @@ Links
 
     - [Shader-Based Software Renderer](https://zauonlok.github.io/renderer)
 
+    - [Yocto/GL](https://xelatihy.github.io/yocto-gl)
+
 * __Rendering Research__
 
     - [Adrien Gruson](https://beltegeuse.github.io/research)
@@ -220,6 +222,8 @@ Links
     - [Benedikt Bitterli](https://benedikt-bitterli.me)
 
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
+
+    - [Fabio Pellacini](http://pellacini.di.uniroma1.it/index.html)
 
     - [Joe Schutte](https://schuttejoe.github.io)
 
