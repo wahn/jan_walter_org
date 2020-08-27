@@ -23,6 +23,9 @@ Download
     - [Digital Production](http://www.digitalproduction.com) __05/14__:
       [DP1405\_070-073\_Multiexport\_Beleg.pdf](https://www.janwalter.org/Publications/DP1405_070-073_Multiexport_Beleg.pdf)
 
+    - [Digital Production](http://www.digitalproduction.com) __05/20__:
+      [DP2005\_049-053\_USDView\_HiRes.pdf](https://www.janwalter.org/Publications/DP2005_049-053_USDView_HiRes.pdf)
+
     - [Arnold: A Brute-Force Production Path
       Tracer](https://www.janwalter.org/Publications/ArnoldTog2018.pdf)
 
@@ -41,6 +44,8 @@ Download
 * __Free Books__
 
     - [Introduction to Computer Graphics](http://math.hws.edu/graphicsbook)
+
+    - [Game Programming Patterns](http://gameprogrammingpatterns.com)
 
     - [Privacy-Handbuch](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf) - German
 
