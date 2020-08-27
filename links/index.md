@@ -341,6 +341,8 @@ Links
 
     - [C++](http://www.cplusplus.com/reference)
 
+        + [CodeLite](https://codelite.org)
+
     - [Futhark](https://futhark-lang.org/)
 
     - [GNU Octave](https://www.gnu.org/software/octave)
