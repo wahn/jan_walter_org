@@ -70,6 +70,8 @@ Download
       from [O'Reilly]
       (http://www.oreilly.com/programming/free/why-rust.csp)
 
+    - [C++ Notes for Professionals book](https://books.goalkicker.com/CPlusPlusBook)
+
     <!-- - [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details) -->
 
     - [Vim for humans](https://vimebook.com/en)
