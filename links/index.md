@@ -459,7 +459,9 @@ Links
 
         + [Posteo](https://posteo.de)
 
-        + [mailbox.org](https://mailbox.org/)
+        + [mailbox.org](https://mailbox.org)
+
+            - [status](https://status.mailbox.org)
 
         + [Tutanota](https://tutanota.com)
 
