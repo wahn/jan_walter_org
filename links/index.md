@@ -587,6 +587,8 @@ Links
 
 * __Others__
 
+    - [DeepSpec](https://deepspec.org/main)
+
     - [HackCurio](https://hackcur.io)
 
     - [FMX](https://fmx.de)
