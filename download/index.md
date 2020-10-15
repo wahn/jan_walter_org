@@ -6,6 +6,10 @@ title: Download
 Download
 ========
 
+* __Curriculum Vitae__ (as
+  [PDF](https://www.janwalter.org/Download/PDF/cv.pdf)) - [short
+  version](https://www.janwalter.org/Download/PDF/cv_short.pdf)
+
 * __Slides__
 
     - [FMX](http://fmx.de) __2014__: [fmx\_2014\_slides.pdf](https://www.janwalter.org/Download/PDF/fmx_2014_slides.pdf)
