@@ -261,6 +261,10 @@ Links
 
         + [Tim van Helsdingen](https://timvanhelsdingen.com/howdini101-master-the-fundamentals/)
 
+    - Viewing 3D data
+
+        + [Polyscope](http://polyscope.run)
+
 * __Scenes__
 
     - [BlendSwap](https://www.blendswap.com)
