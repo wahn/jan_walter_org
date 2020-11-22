@@ -75,6 +75,18 @@ Links
 
     - [Codeberg](https://codeberg.org)
 
+        + [rs_pbrt](https://codeberg.org/wahn/rs_pbrt) - mirror
+
+        + [rs_blender](https://codeberg.org/wahn/rs_blender)
+
+        + [Rendering](https://codeberg.org/wahn/Rendering)
+
+        + [Blender](https://codeberg.org/wahn/Blender)
+
+        + [Arnold](https://codeberg.org/wahn/Arnold)
+
+    - [sourcehut](https://sourcehut.org)
+
     - [Travis CI](https://travis-ci.org/)
 
 * __Renderer__
@@ -87,17 +99,19 @@ Links
 
     - [Arnold](https://www.solidangle.com) ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
 
-        + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow)
+        + [Arnold Answers](https://answers.arnoldrenderer.com)
 
-        + [Options parameters](https://support.solidangle.com/display/NodeRef/options)
+        <!-- + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow) -->
 
-        + [aaPhysicalSky](https://bitbucket.org/amaanakram/aaphysicalsky/overview)
+        <!-- + [Options parameters](https://support.solidangle.com/display/NodeRef/options) -->
+
+        <!-- + [aaPhysicalSky](https://bitbucket.org/amaanakram/aaphysicalsky/overview) -->
 
         + [alShaders](https://bitbucket.org/anderslanglands/alshaders/wiki/Home)
 
         + [binary alchemy](http://binaryalchemy.de/)
 
-        + [kettle](https://bitbucket.org/Kettle/kettle_uber/wiki/Home)
+        <!-- + [kettle](https://bitbucket.org/Kettle/kettle_uber/wiki/Home) -->
 
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
@@ -470,6 +484,8 @@ Links
             - [status](https://status.mailbox.org)
 
         + [Tutanota](https://tutanota.com)
+
+        + [aerc](https://aerc-mail.org)
 
     - Web Hosting
 
