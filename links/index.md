@@ -365,6 +365,8 @@ Links
 
     - [GNU Octave](https://www.gnu.org/software/octave)
 
+    - [Go](https://golang.org)
+
     - [Guile](https://www.gnu.org/software/guile)
 
     - [Haskell](https://www.haskell.org)
@@ -392,6 +394,8 @@ Links
         + [Cheats.rs](https://cheats.rs)
 
         + ["The Book"](https://doc.rust-lang.org/book)
+
+        + [The Rust Performance Book](https://nnethercote.github.io/perf-book)
 
         + [Rust Blog](https://blog.rust-lang.org/index.html)
 

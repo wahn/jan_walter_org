@@ -107,7 +107,7 @@ Download
         ([PIGS](https://www.janwalter.org/Download/Scenes/cornell_box.pigs))
         (25-02-2015)
 
-        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/cornell_box_luxcore.tar.gz) (09-04-2018)
+        + [LuxCoreRender](https://www.janwalter.org/Download/Scenes/cornell_box_blendluxcore.zip) (16-11-2020)
 
         + [Luxrender](https://www.janwalter.org/Download/Scenes/cornell_box_lxs.tar.gz) (20-02-2015)
 
