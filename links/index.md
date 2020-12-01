@@ -522,6 +522,8 @@ Links
 
         + [Matrix](https://matrix.org/blog/home)
 
+        + [ChatXOrg](https://fleek.ai/chatxorg)
+
     - Hardware
 
       + [Zerocat](http://www.zerocat.org)
