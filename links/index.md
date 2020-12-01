@@ -41,6 +41,10 @@ Links
 
     - __German__ docs about web technology on [selfhtml.org](https://selfhtml.org)
 
+* __Rendering__
+
+    - [Cornell Box](https://www.janwalter.org/rendering/cornell-box/index.html)
+
 * __Repositories__
 
     - [Bitbucket](https://bitbucket.org)
@@ -236,6 +240,8 @@ Links
     - [Benedikt Bitterli](https://benedikt-bitterli.me)
 
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
+
+    - [Inigo Quilez](https://www.iquilezles.org)
 
     - [Fabio Pellacini](http://pellacini.di.uniroma1.it/index.html)
 
@@ -463,6 +469,8 @@ Links
 
     - [Free Software Foundation](https://www.fsf.org)
 
+    - [InfoSec Handbook](https://infosec-handbook.eu)
+
     - [noyb](https://noyb.eu)
 
     - OS
@@ -540,12 +548,6 @@ Links
 
       + [Turris MOX](https://www.indiegogo.com/projects/turris-mox-modular-open-source-router-security-computers)
 
-    - Android
-
-        + [F-Droid](https://f-droid.org/en)
-
-        + [NetGuard](https://www.netguard.me)
-
     - Phone ([Baseband - German](https://media.ccc.de/v/CC16_-_109_-__-_sub_lounge_-_201605211815_-_your_baseband_is_watching_you_-_dan#t=0))
 
         + [Librem 5](https://puri.sm/shop/librem-5)
@@ -566,7 +568,17 @@ Links
 
         + [volla.systems](http://volla.systems)
 
-    - [Free OS X Security Tools](https://objective-see.com/products.html)
+    - Android
+
+        + [F-Droid](https://f-droid.org/en)
+
+        + [NetGuard](https://www.netguard.me)
+
+    - MacOS
+
+        + [Free OS X Security Tools](https://objective-see.com/products.html)
+
+        + [Privacy Guide](https://www.wizcase.com/blog/ultimate-privacy-guide-for-mac-users)
 
     - [How to stop browser tracking](https://www.comparitech.com/blog/vpn-privacy/free-anti-tracking-browser-extensions)
 
