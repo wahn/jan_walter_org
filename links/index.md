@@ -507,6 +507,12 @@ Links
 
         + [schokokeks.org](https://schokokeks.org) (Germany)
 
+    - Social Networing
+
+        + [Mastodon](https://joinmastodon.org) instead of **twitter**
+
+        + [teddit](https://teddit.net) instead of **reddit**
+
     - Encrypt
 
         + [GnuPG](https://gnupg.org)
