@@ -1,0 +1,369 @@
+---
+layout: post
+title:  "Some News"
+date:   2020-12-03 10:40:00
+categories: jekyll news rendering pbrt
+---
+
+# 2020
+
+This year was a tough one for most of us. Not just because of
+COVID-19. Let me start with a personal email I did send to
+[3D-PRO][3dpro], a private, carefully curated mailing list, which is
+around for over 20 years:
+
+{% highlight email %}
+Subject: Time to say goodbye?
+
+Hi,
+
+The last couple of weeks I did not really announce that I was affected
+by the recent Technicolor layoffs, because (thanks to German Labor
+Law) I did have some time to think about my past and how I imagine my
+remaining work life (I'm 53 now and counting).
+
+In the past I have done NURBS libraries (more than 25 years ago),
+international projects with supercomputing and CFD/NURBS (for
+Fraunhofer research), VR/AR with expensive computers (SGI Onyx 2 - 24
+years ago), I worked on Blender (20 years ago) before it became open
+source (we had already a Python API back then), helped building some
+infrastructure for the International Net Management Center (INMC) of
+Deutsche Telekom in Frankfurt, and ended up in film and commercials
+(MPC 2001, Mill Film 2001, The Mill 10 years and 20 month in total, DD
+2005, mi/Nvidia 2006). I have done my share of work related
+travel/residence (Germany, Netherlands, UK, USA) and are not planning
+to continue like that (my dad, an artist, died and we inherited
+hundreds of his paintings, sculptures, photos, film) and I became
+engaged. So, no reason for me to leave Berlin (again). I do have
+experience working from home (not just since Covid 19), on and off
+since 2000.
+
+I have written plugins/addons for 3DS (DOS and Max), Blender,
+Softimage XSI, Maya, Houdini, have written shaders for RenderMan,
+mental ray, MetaSL, Cg/GLSL/HLSL, Arnold, and finally my own renderer
+in Rust:
+
+https://www.rs-pbrt.org/about
+
+https://github.com/wahn/rs_pbrt (100.4K lines of code)
+
+In a perfect world I would work with Rust as a programming language
+(but of course there are more mainstream languages like C/C++, Python,
+etc. I have to consider and used in the past to get my jobs done), and
+Blender and/or Houdini as DCC of choice (I'm not a TD though). I do
+see a bright future for USD:
+
+https://www.janwalter.org/Publications/DP2005_049-053_USDView_HiRes.pdf
+
+What I don't see is a bright future in this industry, but I could be
+wrong.
+
+So, I'm not saying goodbye (yet). I will keep lurking around for
+another month or to the end of this year. If you would like to respond
+to this email (personally) or have a job offer (working from home in
+or Berlin), please write me an email (off the list) or contact me via
+LinkedIn:
+
+https://www.linkedin.com/in/janwalter
+
+Have fun and stay healthy,
+
+Jan
+
+P.S.: Sure, I will not be able to ignore C++ for the rest of my work
+life, and there is C++03, C++11, C++14, C++17, C++20, and C++23 on the
+horizon, but here is a long read (and why I prefer Rust):
+
+https://dl.acm.org/doi/10.1145/3386320 (read the PDF)
+{% endhighlight %}
+
+So the year is coming to an end. I haven't signed a new contract yet,
+but I'm positive that this will happend within 2020. So beside giving
+you a little **history of my working life**, I mention a couple of
+things in the email above. For example the [article][cpp2006-2020]
+from [Bjarne Stroustrup][stroustrup] about *Thriving in a crowded and
+changing world: C++ 2006–2020* might be interesting not just for C++
+fans (or haters), but how things develop over time and how to react
+(or not react) to changes in HW etc. Lessons learned ... for the
+evolution of programming languages (in general) ...
+
+Which brings me to a newer language, [Rust][rust], I started to like a
+lot, and used to write my own renderer (to learn the language, and see
+how easy or difficult it is to translate an existing C++ code base to
+a new language).
+
+# RS-PBRT
+
+There is a whole web page I created about [rs-pbrt][rs-pbrt] and I'm
+not going to repeat the information you will find there, but basically
+it's a **feature complete** Rust-based implementation of the 3rd
+edition of the [PBRT book][pbr-book] (the book ships with C++ code).
+
+<img src="/assets/landscape_pbrt_view-3.png" alt="Landscape view 3."
+width="740" class="img-thumbnail"/>
+
+There is a **fourth edition** of the same book on the horizon and the
+[C++ source][pbrt-v4] code is already available.
+
+## v3
+
+But let's first talk about the [third edition][pbrt-v3] and it's [Rust
+counterpart][rs_pbrt]. In contrast to the C++ version I ship a
+**couple of executables** (and example scenes) with the Rust-based
+source code, which can render images:
+
+{% highlight shell %}
+$ ./target/release/rs_pbrt -h
+pbrt 0.8.3
+Parse a PBRT scene file (extension .pbrt) and render it
+
+USAGE:
+    rs_pbrt [OPTIONS] <path>
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+OPTIONS:
+    -t, --nthreads <nthreads>    use specified number of threads for rendering [default: 0]
+
+ARGS:
+    <path>    The path to the file to read
+{% endhighlight %}
+
+To render for example the **Cornell Box** (*.pbrt* is a file format
+defined in the book for v3 and will most likely change a bit for v4):
+
+{% highlight shell %}
+$ rs_pbrt assets/scenes/cornell_box.pbrt
+pbrt version 0.8.3 (v0.8.3-4-g78bdee9) [Detected 28 cores]
+Copyright (c) 2016-2020 Jan Douglas Bert Walter.
+Rust code based on C++ code by Matt Pharr, Greg Humphreys, and Wenzel Jakob.
+Film "image"
+  "integer xresolution" [500]
+  "integer yresolution" [500]
+Accelerator "bvh"
+Sampler "halton"
+  "integer pixelsamples" [128]
+Integrator "path"
+  "string lightsamplestrategy" ["spatial"]
+Rendering with 28 thread(s) ...
+1024 / 1024 [===============================================] 100.00 % 126.66/s
+Writing image "pbrt.png" with bounds 
+Bounds2i { p_min: Point2i { x: 0, y: 0 }, p_max: Point2i { x: 500, y: 500 } }
+{% endhighlight %}
+
+More v3 scenes can be found on the [pbrt.org][pbrt-org] web site or on
+[GitLab][rs-pbrt-test-scenes] (tested versions for the Rust-based
+renderer). So, please, read the [Getting Started][getting-started]
+page, **compile** the source code, and run some example scenes to see
+for yourself.
+
+What most people don't know is that I wrote a little example program
+for [Arnold][arnold]'s scene description (*.ass* extention) as well:
+
+{% highlight shell %}
+$ ./target/release/examples/parse_ass_file assets/ass/cornell_box.ass 
+parse_ass_file version 0.8.3 (v0.8.3-4-g78bdee9) [Detected 28 cores]
+FILE = "assets/ass/cornell_box.ass"
+search_directory is /home/jan/git/github/rs_pbrt/assets/ass
+5174 bytes read
+options {
+ xres 500 
+ yres 500 
+ camera "CACamera" 
+ GI_total_depth 11 }
+standard_surface { name MAdefault }
+standard_surface { name MAbox_Material 
+ base_color 0.5 0.5 0.5 
+ specular_color 1 1 1 }
+standard_surface { name MAcbox_Material 
+ base_color 0.4 0.4 0.4 
+ specular_color 1 1 1 }
+standard_surface { name MAcbox_red 
+ base_color 0.5 0 0 
+ specular_color 1 1 1 }
+standard_surface { name MAcbox_green 
+ base_color 0 0.5 0 
+ specular_color 1 1 1 }
+render_camera = "CACamera" 
+fov = 39.14625 
+filter_name = "gaussian"
+filter_width = 2.0
+max_depth = 11
+samples_per_pixel = 16
+number of lights = 2
+number of primitives = 36
+Rendering with 28 thread(s) ...
+1024 / 1024 [===============================================] 100.00 % 711.28/s
+Writing image "pbrt.png" with bounds
+Bounds2i { p_min: Point2i { x: 0, y: 0 }, p_max: Point2i { x: 500, y: 500 } }
+{% endhighlight %}
+
+It's not really meant to render an arbitrary Arnold scene, but it was
+a **proof of concept**, that a parser for .ass files could be written
+and the API of the Rust-based renderer could be used to render such a
+scene (using some heuristics to translate shaders into a PBRT
+material).
+
+Last, but not least, [Blender][blender] scenes (for now I focused on
+**version 2.79** for examples provided by myself) can be rendered like
+this:
+
+{% highlight shell %}
+$ parse_blend_file assets/blend/suzanne_integrator_test_2_79.blend 
+parse_blend_file version 0.8.3 (v0.8.3-4-g78bdee9) [Detected 28 cores]
+BLENDER-v279
+857932 bytes read
+number of lights = 2
+number of primitives = 5426
+500x500 [100%] = 500x500
+integrator = "path" [(Unidirectional) Path Tracing]
+  pixelsamples = 1
+  max_depth = 5
+Rendering with 28 thread(s) ...
+1024 / 1024 [==============================================] 100.00 % 6248.05/s
+Writing image "pbrt.png" with bounds 
+Bounds2i { p_min: Point2i { x: 0, y: 0 }, p_max: Point2i { x: 500, y: 500 } }
+{% endhighlight %}
+
+This executable is useful to render the same scene with different
+settings (and render algorithms) and/or cameras without changing the
+scene. See the output of the help message:
+
+{% highlight shell %}
+$ parse_blend_file -h
+pbrt 0.8.3
+Parse a Blender scene file and render it
+
+USAGE:
+    parse_blend_file [OPTIONS] <path>
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+OPTIONS:
+        --bootstrap_samples <bootstrap-samples>
+          bootstrap samples [MLT] [default: 100000]
+    -c, --camera_name <camera-name>
+          camera name
+        --chains <chains>
+          number of Markov chains [MLT] [default: 1000]
+    -i, --integrator <integrator>
+          ao, directlighting, whitted, path, bdpt, mlt, sppm, volpath
+    -l, --light_scale <light-scale>
+          global light scaling [default: 1.0]
+    -m, --max_depth <max-depth>
+          max length of a light-carrying path [default: 5]
+        --mutations_per_pixel <mutations-per-pixel>
+          number of path mutations [MLT] [default: 100]
+    -s, --samples <samples>
+          pixel samples [default: 1]
+        --sigma <sigma>
+          perturbation deviation [MLT] [default: 0.01]
+        --step_probability <step-probability>
+          prob of discarding path [MLT] [default: 0.3]
+        --write_frequency <write-frequency>
+          frequency to write image [SPPM] [default: 1]
+
+ARGS:
+    <path>    The path to the file to read
+{% endhighlight %}
+
+Scenes which were tested to render with `rs-pbrt` can be found in the
+[GitLab][rs-pbrt-test-scenes] repository as well (in the `blend`
+folder). To find out which cameras are defined etc. in a .blend file
+you can use `blend_info` which I provide the source code for on
+[codeberg.org][blend_info]. Here some examples:
+
+{% highlight shell %}
+# find out which cameras are defined
+$ blend_info conference_room_v2_79.blend | grep '"CA'
+  "CAcurrent_cam" has 2 data blocks
+  "CAdoor1_cam" has 2 data blocks
+  "CAdoor2y_cam" has 2 data blocks
+  "CAshaft_cam" has 2 data blocks
+  "CAxY_cam" has 2 data blocks
+# use one of the cameras to render
+$ parse_blend_file -c current_cam -i path -s 128 conference_room_v2_79.blend
+...
+integrator = "path" [(Unidirectional) Path Tracing]
+...
+$ parse_blend_file -c door1_cam -i bdpt -s 64 conference_room_v2_79.blend
+...
+integrator = "bdpt" [Bidirectional Path Tracing (BDPT)]
+...
+$ parse_blend_file -c door2y_cam -i mlt -s 1 conference_room_v2_79.blend
+...
+integrator = "mlt" [Metropolis Light Transport (MLT)]
+  pixelsamples = 1
+  max_depth = 5
+  bootstrap_samples = 100000
+  chains = 1000
+  mutations_per_pixel = 100
+  step_probability = 0.3
+  sigma = 0.01
+...
+{% endhighlight %}
+
+If you find bugs, please open an [issue][issues] or use the [Discord
+server][discord] to chat.
+
+## v4
+
+As I said before, there is a **fourth edition** of the same book on
+the horizon and the [C++ source][pbrt-v4] code is already
+available. You can find a [video][video1] with **Matt Pharr** (one of
+the authors of the book) about the *pbrt-v4 code walkthrough*. There
+are also [slides][slides] and another [video][video2] about *Porting
+PBRT to the GPU While Preserving its Soul*. I'm not sure if I will
+have time to convert the new C++ code to Rust, but there are a couple
+of things I would like to do for the Rust-based version. Similar to
+the C++ version I would like to be able to watch the renderer while
+the image is created. The C++ version connects to [tev][tev], a **EXR
+Viewer** (can be seen in one of the videos). The Rust code can be
+compiled with support for OpenEXR already, but maybe there is an even
+simpler way to show the progress while rendering? Last, but not least,
+it would be interesting to see how the GPU code can be done in Rust,
+similar to those changes in the C++ version.
+
+Which brings me to my last topic (for this year).
+
+# Mitsuba 2
+
+The second version of [Mitsuba][mitsuba] (by **Jakob Wenzel**, another
+author of the book mentioned above) is available (the
+[code][mitsuba-code] is on GitHub). There is a [video and a
+paper][mitsuba2-paper] available and [Enoki][enoki] is another piece
+of code, which I would like to study and discuss with others.
+
+# Job
+
+But first I need to resolve my job situation ... Stay tuned ...
+
+[3dpro]:               https://3dpro.org
+[cpp2006-2020]:        https://dl.acm.org/doi/10.1145/3386320
+[stroustrup]:          https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+[rust]:                https://www.rust-lang.org
+[rs-pbrt]:             https://www.rs-pbrt.org/about
+[pbr-book]:            http://www.pbr-book.org
+[pbrt-v4]:             https://github.com/mmp/pbrt-v4
+[pbrt-v3]:             https://github.com/mmp/pbrt-v3
+[rs_pbrt]:             https://github.com/wahn/rs_pbrt
+[arnold]:              https://www.arnoldrenderer.com
+[pbrt-org]:            https://www.pbrt.org/scenes-v3.html
+[rs-pbrt-test-scenes]: https://gitlab.com/jdb-walter/rs-pbrt-test-scenes
+[getting-started]:     https://www.rs-pbrt.org/blog/getting-started
+[blender]:             https://www.blender.org
+[blend_info]:          https://codeberg.org/wahn/rs_blender/src/branch/master/blend_info
+[issues]:              https://github.com/wahn/rs_pbrt/issues
+[discord]:             https://discord.gg/ZEd2NFK45a
+[video1]:              https://youtu.be/AXuk7bmhZ2g
+[video2]:              https://youtu.be/prZJ8FBG9BI
+[slides]:              https://highperformancegraphics.org/slides20/wed_pharr.pdf
+[tev]:                 https://github.com/Tom94/tev
+[mitsuba]:             https://www.mitsuba-renderer.org
+[mitsuba-code]:        https://github.com/mitsuba-renderer/mitsuba2
+[mitsuba2-paper]:      http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2
+[enoki]:               https://github.com/mitsuba-renderer/enoki

@@ -93,6 +93,16 @@ Links
 
     - [Travis CI](https://travis-ci.org/)
 
+* __Read the Docs__
+
+    - [Read the Docs](https://readthedocs.org)
+
+    - [Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+
+    - [reStructuredText](https://en.wikipedia.org/wiki/ReStructuredText)
+
+    - [rs-pbrt](https://rs-pbrt.readthedocs.io/en/latest/?badge=latest)
+
 * __Renderer__
 
     - [appleseed](https://appleseedhq.net)
