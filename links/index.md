@@ -287,11 +287,17 @@ Links
 
         + [HDK](https://www.sidefx.com/docs/hdk15.0)
 
+        + [USD](https://www.sidefx.com/tutorials/renderman-shipshape-art-challenge-in-solaris)
+
         + [Entagma](https://entagma.com/)
 
         + [Tim van Helsdingen](https://timvanhelsdingen.com/howdini101-master-the-fundamentals/)
 
     - Viewing 3D data
+
+        + [Magnum Engine](https://magnum.graphics)
+
+        + [Polygon Mesh Processing Library](http://www.pmp-library.org)
 
         + [Polyscope](http://polyscope.run)
 
