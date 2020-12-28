@@ -403,6 +403,8 @@ Links
 
         + [DreamPie](http://www.dreampie.org/index.html)
 
+    - [Racket](https://racket-lang.org)
+
     - [Rust](https://www.rust-lang.org)
 
         + [Users](https://users.rust-lang.org)
