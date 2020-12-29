@@ -342,6 +342,12 @@ of code, which I would like to study and discuss with others.
 
 But first I need to resolve my job situation ... Stay tuned ...
 
+# Update
+
+I signed a contract with [Parakar Germany GmbH][parakar] to be able to
+work remotely for [Paramex Limited][paramex] in the UK. Starting date
+is Monday, 14th of December 2020.
+
 [3dpro]:               https://3dpro.org
 [cpp2006-2020]:        https://dl.acm.org/doi/10.1145/3386320
 [stroustrup]:          https://en.wikipedia.org/wiki/Bjarne_Stroustrup
@@ -367,3 +373,5 @@ But first I need to resolve my job situation ... Stay tuned ...
 [mitsuba-code]:        https://github.com/mitsuba-renderer/mitsuba2
 [mitsuba2-paper]:      http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2
 [enoki]:               https://github.com/mitsuba-renderer/enoki
+[parakar]:             http://parakar.eu
+[paramex]:             http://paramex.com
