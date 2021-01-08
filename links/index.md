@@ -495,6 +495,8 @@ Links
 
     - [Free Software Foundation](https://www.fsf.org)
 
+    - [switching.software](https://switching.software)
+
     - [InfoSec Handbook](https://infosec-handbook.eu)
 
     - [noyb](https://noyb.eu)
