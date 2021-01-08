@@ -363,14 +363,6 @@ Links
 
         + [UMLetino](https://www.umletino.com/umletino.html)
 
-    - [Vulkan](https://www.khronos.org/vulkan)
-
-        + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
-
-        + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
-
-        + [Vulkan High Level Framework](https://github.com/nvpro-pipeline/VkHLF)
-
 * __Programming Languages__
 
     - [A Programming Language for
@@ -417,9 +409,9 @@ Links
 
         + [Cheats.rs](https://cheats.rs)
 
-        + ["The Book"](https://doc.rust-lang.org/book)
+        <!-- + ["The Book"](https://doc.rust-lang.org/book) -->
 
-        + [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+        <!-- + [The Rust Performance Book](https://nnethercote.github.io/perf-book) -->
 
         + [Rust Blog](https://blog.rust-lang.org/index.html)
 
@@ -427,27 +419,31 @@ Links
 
         + [The RustSec Advisory Database](https://rustsec.org)
 
-        + [Podcast](http://www.newrustacean.com)
-
-        + [rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator)
-
-        + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book)
-
-        + [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html)
-
-        <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
+        + [Rust jobs](https://www.rustjobs.dev)
 
         + [Amp](https://amp.rs/docs/usage)
 
-        + [fd-find](https://github.com/sharkdp/fd)
+        + [navi](https://github.com/denisidoro/navi)
 
         + [ripgrep (rg)](https://github.com/BurntSushi/ripgrep)
 
-        + [stdx](https://github.com/brson/stdx)
+        <!-- + [Podcast](http://www.newrustacean.com) -->
 
-        + [stdx-dev](https://github.com/llogiq/stdx-dev)
+        <!-- + [rust-qt-binding-generator](https://github.com/KDE/rust-qt-binding-generator) -->
 
-        + [kiss3d](http://kiss3d.org)
+        <!-- + [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book) -->
+
+        <!-- + [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) -->
+
+        <!--- + [rust-bindgen](https://github.com/crabtw/rust-bindgen) -->
+
+        <!-- + [fd-find](https://github.com/sharkdp/fd) -->
+
+        <!-- + [stdx](https://github.com/brson/stdx) -->
+
+        <!-- + [stdx-dev](https://github.com/llogiq/stdx-dev) -->
+
+        <!-- + [kiss3d](http://kiss3d.org) -->
 
     - [Silq](https://silq.ethz.ch) (quantum computing)
 
@@ -467,6 +463,10 @@ Links
 
     - [Libre Graphics Meeting](https://libregraphicsmeeting.org)
 
+    - [OpenGL](https://www.opengl.org)
+
+        + [learning OpenGL](https://learnopengl.com)
+
     - [OpenColorIO](http://opencolorio.org)
 
     - [OpenEXR](http://www.openexr.org)
@@ -482,6 +482,14 @@ Links
         + [Hydra renderer plugin](https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html)
 
     - [Qt](https://doc.qt.io)
+
+    - [Vulkan](https://www.khronos.org/vulkan)
+
+        + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
+
+        + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
+
+        + [Vulkan High Level Framework](https://github.com/nvpro-pipeline/VkHLF)
 
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
@@ -517,6 +525,12 @@ Links
 
         + [aerc](https://aerc-mail.org)
 
+        + [mu](https://www.djcbsoftware.nl/code/mu)
+
+            - [mu4e](https://www.emacswiki.org/emacs/mu4e)
+
+            - [Mu Cheatsheet](https://www.djcbsoftware.nl/code/mu/cheatsheet.html)
+
     - Web Hosting
 
         + [The Positive Internet Company](http://www.positive-internet.com) (UK + US)
@@ -534,6 +548,8 @@ Links
     - Encrypt
 
         + [GnuPG](https://gnupg.org)
+
+        + [Horcrux Encrypted Messaging](https://horcruxencryptedmessaging.jperla.com)
 
         + [Autocrypt](https://www.privacy-handbuch.de/handbuch_32w1.htm)
 
