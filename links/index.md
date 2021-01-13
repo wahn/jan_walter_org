@@ -347,6 +347,10 @@ Links
 
         + [Hyperbole](https://www.gnu.org/software/hyperbole)
 
+    - [Kakoune](http://kakoune.org)
+
+        + [walk-through](https://github.com/mawww/kakoune/blob/master/contrib/TRAMPOLINE)
+
     - [Leo Editor](http://leoeditor.com)
 
     - [Radare](https://radare.org/r)
@@ -466,6 +470,8 @@ Links
     - [OpenGL](https://www.opengl.org)
 
         + [learning OpenGL](https://learnopengl.com)
+
+        + [miniquad](https://github.com/not-fl3/miniquad) - Rust
 
     - [OpenColorIO](http://opencolorio.org)
 
