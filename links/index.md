@@ -251,6 +251,8 @@ Links
 
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
 
+    - [Thomas Müller](https://tom94.net)
+
     - [Inigo Quilez](https://www.iquilezles.org)
 
     - [Fabio Pellacini](http://pellacini.di.uniroma1.it/index.html)
