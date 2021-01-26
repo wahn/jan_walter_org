@@ -251,6 +251,8 @@ Links
 
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
 
+    - [Thomas Müller](https://tom94.net)
+
     - [Inigo Quilez](https://www.iquilezles.org)
 
     - [Fabio Pellacini](http://pellacini.di.uniroma1.it/index.html)
@@ -488,6 +490,8 @@ Links
         + [Hydra renderer plugin](https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html)
 
     - [Qt](https://doc.qt.io)
+
+        + [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
 
     - [Vulkan](https://www.khronos.org/vulkan)
 
