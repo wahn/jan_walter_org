@@ -405,6 +405,8 @@ Links
 
     - [Rust](https://www.rust-lang.org)
 
+        + [Foundation](https://foundation.rust-lang.org)
+
         + [Users](https://users.rust-lang.org)
 
         + [Rustplatz - German](https://www.rustplatz.de)
