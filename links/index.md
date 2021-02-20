@@ -93,6 +93,14 @@ Links
 
     - [Travis CI](https://travis-ci.org/)
 
+    - [Version Control](https://en.wikipedia.org/wiki/Version_control)
+
+        + [git](https://git-scm.com)
+
+        + [Darcs](http://darcs.net)
+
+        + [Pijul](https://pijul.org)
+
 * __Read the Docs__
 
     - [Read the Docs](https://readthedocs.org)
