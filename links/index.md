@@ -703,6 +703,8 @@ Links
 
     - [OpenVisualFX](https://www.openvisualfx.com)
 
+    - [Prometheus Fuels](https://www.prometheusfuels.com)
+
     - [Solarized](http://ethanschoonover.com/solarized)
 
     - [Skat-Palast](https://www.skat-palast.de)
