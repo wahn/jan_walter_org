@@ -565,7 +565,10 @@ Links
 
         + [Mastodon](https://joinmastodon.org) instead of **twitter**
 
-        + [teddit](https://teddit.net) instead of **reddit**
+        + [Odysee](https://odysee.com/) instead of **YouTube**
+
+        + [teddit](https://teddit.net) or
+          [libreddit](https://libredd.it/) instead of **reddit**
 
     - Encrypt
 
@@ -677,6 +680,8 @@ Links
     - [Security Headers](https://securityheaders.io)
 
     - [PeerTube](https://joinpeertube.org/en)
+
+    - [nzyme](https://www.nzyme.org)
 
 * __News__
 
