@@ -527,13 +527,19 @@ Links
 
         + [Debian](https://www.debian.org)
 
-        + [PureOS](https://pureos.net)
+        + [/e/](https://e.foundation/)
+
+        + [PixysOS](https://pixysos.com)
 
         + [Pop!_OS](https://system76.com/pop)
+
+        + [PureOS](https://pureos.net)
 
         + [Redox](https://www.redox-os.org)
 
         + [Subgraph OS](https://subgraph.com)
+
+        + [Whonix](https://www.whonix.org)
 
     - Email
 
