@@ -263,6 +263,8 @@ Links
 
     - [Inigo Quilez](https://www.iquilezles.org)
 
+    - [JCGT](http://www.jcgt.org)
+
     - [Fabio Pellacini](http://pellacini.di.uniroma1.it/index.html)
 
     - [Joe Schutte](https://schuttejoe.github.io)
@@ -409,6 +411,8 @@ Links
 
         + [DreamPie](http://www.dreampie.org/index.html)
 
+        + [Pyston](https://www.pyston.org)
+
     - [Racket](https://racket-lang.org)
 
     - [Rust](https://www.rust-lang.org)
@@ -527,7 +531,7 @@ Links
 
         + [Debian](https://www.debian.org)
 
-        + [/e/](https://e.foundation/)
+        <!-- + [/e/](https://e.foundation/) -->
 
         + [PixysOS](https://pixysos.com)
 
