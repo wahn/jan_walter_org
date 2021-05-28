@@ -45,6 +45,8 @@ Links
 
     - [Cornell Box](https://www.janwalter.org/rendering/cornell-box/index.html)
 
+    - [Attic](https://www.janwalter.org/rendering/attic/index.html)
+
 * __Repositories__
 
     - [Bitbucket](https://bitbucket.org)
