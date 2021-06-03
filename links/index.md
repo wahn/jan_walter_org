@@ -277,6 +277,8 @@ Links
 
     - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
 
+    - [Yusuke Tokuyoshi](https://yusuketokuyoshi.com)
+
 * __Cinematography__
 
     - [Academy Software Foundation](https://www.aswf.io)
