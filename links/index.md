@@ -351,6 +351,10 @@ Links
 
 * __Programming__ ([DevDocs](https://devdocs.io))
 
+    - Debugging
+
+        + [gdbgui](https://www.gdbgui.com)
+
     - [Emacs](https://www.gnu.org/software/emacs)
 
         + [Org mode](https://orgmode.org)
