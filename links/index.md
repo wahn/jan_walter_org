@@ -259,6 +259,8 @@ Links
 
     - [Benedikt Bitterli](https://benedikt-bitterli.me)
 
+    - [Christoph Peters](https://momentsingraphics.de/index.html)
+
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
 
     - [Thomas Müller](https://tom94.net)
