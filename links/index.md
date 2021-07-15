@@ -305,7 +305,7 @@ Links
 
     - [Houdini](https://www.sidefx.com)
 
-        + [HDK](https://www.sidefx.com/docs/hdk15.0)
+        + [HDK](https://www.sidefx.com/docs/hdk)
 
         + [USD](https://www.sidefx.com/tutorials/renderman-shipshape-art-challenge-in-solaris)
 
@@ -530,6 +530,8 @@ Links
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
     - [Free Software Foundation](https://www.fsf.org)
+
+        + [Richard Stallman](https://stallman.org)
 
     - [switching.software](https://switching.software)
 
