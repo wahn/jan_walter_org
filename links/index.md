@@ -495,6 +495,12 @@ Links
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
+    - [glTF](https://www.khronos.org/gltf)
+
+        + [GitHub repo](https://github.com/KhronosGroup/glTF)
+
+        + [specification](https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/README.md)
+
     - [Libre Graphics Meeting](https://libregraphicsmeeting.org)
 
     - [OpenGL](https://www.opengl.org)
