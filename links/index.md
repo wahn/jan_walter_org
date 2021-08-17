@@ -457,6 +457,8 @@ Links
 
         + [Amp](https://amp.rs/docs/usage)
 
+        + [GhostCell](http://plv.mpi-sws.org/rustbelt/ghostcell)
+
         + [navi](https://github.com/denisidoro/navi)
 
         + [ripgrep (rg)](https://github.com/BurntSushi/ripgrep)
