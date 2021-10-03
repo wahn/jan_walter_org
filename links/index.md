@@ -365,6 +365,8 @@ Links
 
         + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
 
+        + [System Crafters](https://systemcrafters.cc)
+
         + [Org mode](https://orgmode.org)
           ([video](https://youtu.be/dljNabciEGg)) - [Organize Your
           Life In Plain Text](http://doc.norang.ca/org-mode.html)
