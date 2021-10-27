@@ -139,6 +139,8 @@ Links
 
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
+    - [Bella](https://bellarender.com)
+
     - [Cycles](https://www.cycles-renderer.org)
 
         + [source code](https://developer.blender.org/diffusion/C)
@@ -259,6 +261,8 @@ Links
 
     - [Benedikt Bitterli](https://benedikt-bitterli.me)
 
+    - [Christoph Peters](https://momentsingraphics.de/index.html)
+
     - [Iliyan Georgiev](http://www.iliyan.com/publications)
 
     - [Thomas Müller](https://tom94.net)
@@ -283,6 +287,8 @@ Links
 
     - [Academy Software Foundation](https://www.aswf.io)
 
+    - [ACES](https://acescentral.com)
+
     - [VFX Reference Platform](https://vfxplatform.com)
 
     - [Chris Brejon's CG Cinematography](https://chrisbrejon.com/cg-cinematography)
@@ -301,7 +307,7 @@ Links
 
     - [Houdini](https://www.sidefx.com)
 
-        + [HDK](https://www.sidefx.com/docs/hdk15.0)
+        + [HDK](https://www.sidefx.com/docs/hdk)
 
         + [USD](https://www.sidefx.com/tutorials/renderman-shipshape-art-challenge-in-solaris)
 
@@ -356,6 +362,10 @@ Links
         + [gdbgui](https://www.gdbgui.com)
 
     - [Emacs](https://www.gnu.org/software/emacs)
+
+        + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
+
+        + [System Crafters](https://systemcrafters.cc)
 
         + [Org mode](https://orgmode.org)
           ([video](https://youtu.be/dljNabciEGg)) - [Organize Your
@@ -451,6 +461,8 @@ Links
 
         + [Amp](https://amp.rs/docs/usage)
 
+        + [GhostCell](http://plv.mpi-sws.org/rustbelt/ghostcell)
+
         + [navi](https://github.com/denisidoro/navi)
 
         + [ripgrep (rg)](https://github.com/BurntSushi/ripgrep)
@@ -489,6 +501,12 @@ Links
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
+    - [glTF](https://www.khronos.org/gltf)
+
+        + [GitHub repo](https://github.com/KhronosGroup/glTF)
+
+        + [specification](https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/README.md)
+
     - [Libre Graphics Meeting](https://libregraphicsmeeting.org)
 
     - [OpenGL](https://www.opengl.org)
@@ -526,6 +544,8 @@ Links
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
 
     - [Free Software Foundation](https://www.fsf.org)
+
+        + [Richard Stallman](https://stallman.org)
 
     - [switching.software](https://switching.software)
 
@@ -652,6 +672,8 @@ Links
         + [Ubuntu Touch](https://ubuntu-touch.io/)
 
         + [volla.systems](http://volla.systems)
+
+        + [WEtell](https://www.wetell.de/)
 
     - Android
 
