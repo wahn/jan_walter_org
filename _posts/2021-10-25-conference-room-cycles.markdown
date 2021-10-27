@@ -25,7 +25,7 @@ class="img-thumbnail"/></a></div>
 ## Description
 
 What you see in the video above (if you click on the screenshot) was
-recorded on Windows 11, basically opening a scene within Blender (by
+recorded on Windows 10, basically opening a scene within Blender (by
 drag&drop) and making Blender fullscreen. On the upper right you see
 the `Outliner` with the display mode `Same Types`, which in this case
 are five different cameras. By pressing `F12` you can render an image
