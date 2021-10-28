@@ -203,7 +203,9 @@ Links
 
         + [source code v3](https://github.com/mmp/pbrt-v3)
 
-        + [book v3](https://www.pbrt.org) ([online version](http://www.pbr-book.org))
+        + [book v3](https://www.pbrt.org) ([online
+          version](http://www.pbr-book.org) -
+          [repo](https://github.com/mmp/pbr-book-website))
 
         + [source code v4](https://github.com/mmp/pbrt-v4) ([pbrt-v4
           code walkthrough video](https://youtu.be/AXuk7bmhZ2g))
@@ -211,6 +213,8 @@ Links
         + [Porting PBRT to the GPU While Preserving its Soul -
           Slides](https://highperformancegraphics.org/slides20/wed_pharr.pdf)
           ([recording](https://www.youtube.com/watch?v=prZJ8FBG9BI&t=6386s))
+
+        + [Blender addon](https://github.com/joeyskeys/btop)
 
         + [tev - The EXR Viewer](https://github.com/Tom94/tev)
 
