@@ -351,6 +351,8 @@ Links
 
     - [Affinity Photo](https://affinity.serif.com/en-gb/photo)
 
+    - [darktable](https://www.darktable.org)
+
     - [Gimp](https://www.gimp.org)
 
     - [imageoptim](https://imageoptim.com/versions.html)
@@ -358,6 +360,8 @@ Links
     - [pngquant](https://pngquant.org)
 
     - [Raw Photo Processor](http://raw-photo-processor.com/RPP/Overview.html)
+
+    - [RawTherapee](https://www.rawtherapee.com/)
 
 * __Programming__ ([DevDocs](https://devdocs.io))
 
