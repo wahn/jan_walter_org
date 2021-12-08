@@ -337,6 +337,8 @@ Links
 
     - [3D Model Haven](https://3dmodelhaven.com)
 
+    - [KitBash 3D](https://kitbash3d.com)
+
 * __Textures__
 
     - [cc0textures.com](http://www.cc0textures.com/home)
