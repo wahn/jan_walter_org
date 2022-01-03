@@ -93,6 +93,10 @@ Links
 
     - [sourcehut](https://sourcehut.org)
 
+        + [blend_info](https://git.sr.ht/~wahn/blend_info)
+
+        + [rs-pbrt](https://sr.ht/~wahn/rs-pbrt)
+
     - [Travis CI](https://travis-ci.org/)
 
     - [Version Control](https://en.wikipedia.org/wiki/Version_control)
@@ -439,6 +443,8 @@ Links
 
     - [Python](https://www.python.org)
 
+        + [Cheatsheet](https://gto76.github.io/python-cheatsheet)
+
         + [DreamPie](http://www.dreampie.org/index.html)
 
         + [Pyston](https://www.pyston.org)
@@ -548,6 +554,9 @@ Links
     - [Vulkan](https://www.khronos.org/vulkan)
 
         + [Vulkan Cookbook](https://github.com/PacktPublishing/Vulkan-Cookbook)
+
+        + [Vulkan Guide](https://vkguide.dev) (on
+          [GitHub](https://github.com/vblanco20-1/vulkan-guide))
 
         + [Vulkan Programming Guide](http://www.vulkanprogrammingguide.com)
 
@@ -768,6 +777,6 @@ Links
 
     - [TIPP10](https://www.tipp10.com/en)
 
-    - [Tmux Cheat Sheet](https://tmuxcheatsheet.com)
+    - [Tmux Cheatsheet](https://tmuxcheatsheet.com)
 
     - [Westend Verlag](https://www.westendverlag.de)
