@@ -309,8 +309,6 @@ Links
 
         + [Cloud](https://cloud.blender.org)
 
-        + [Agent 327](https://agent327.com)
-
         + [devtalk forum](https://devtalk.blender.org)
 
     - [Houdini](https://www.sidefx.com)
