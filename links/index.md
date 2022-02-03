@@ -93,9 +93,9 @@ Links
 
     - [sourcehut](https://sourcehut.org)
 
-        + [blend_info](https://git.sr.ht/~wahn/blend_info)
+        + [blend_info](https://git.sr.ht/~wahn/blend_info) ([crates.io](https://crates.io/crates/blend_info))
 
-        + [rs-pbrt](https://sr.ht/~wahn/rs-pbrt)
+        + [rs-pbrt](https://sr.ht/~wahn/rs-pbrt) ([crates.io](https://crates.io/crates/rs_pbrt))
 
     - [Travis CI](https://travis-ci.org/)
 
@@ -529,7 +529,7 @@ Links
 
         + [learning OpenGL](https://learnopengl.com)
 
-        + [miniquad](https://github.com/not-fl3/miniquad) - Rust
+        + [Glitter](https://github.com/Polytonic/Glitter)
 
     - [OpenColorIO](http://opencolorio.org)
 
@@ -548,6 +548,16 @@ Links
     - [Qt](https://doc.qt.io)
 
         + [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
+
+    - Rust crates
+
+        + [ash](https://crates.io/crates/ash)
+
+        + [miniquad](https://github.com/not-fl3/miniquad)
+
+        + [rend3](https://rend3.rs)
+
+        + [wgpu](https://wgpu.rs)
 
     - [Vulkan](https://www.khronos.org/vulkan)
 
