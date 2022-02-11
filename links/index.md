@@ -91,7 +91,7 @@ Links
 
         + [Arnold](https://codeberg.org/wahn/Arnold)
 
-    - [sourcehut](https://sourcehut.org)
+    - [sourcehut](https://sourcehut.org) ([projects](https://sr.ht/~wahn))
 
         + [blend_info](https://git.sr.ht/~wahn/blend_info) ([crates.io](https://crates.io/crates/blend_info))
 
