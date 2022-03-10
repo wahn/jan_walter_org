@@ -377,6 +377,8 @@ Links
 
         + [Emacs Docs](https://www.emacsdocs.org)
 
+        + [Latest Emacs on Windows via Ubuntu](https://emacsredux.com/blog/2021/12/19/using-emacs-on-windows-11-with-wsl2)
+
         + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
 
         + [System Crafters](https://systemcrafters.cc)
