@@ -10,6 +10,12 @@ Download
   [PDF](https://www.janwalter.org/Download/PDF/cv.pdf)) - [short
   version](https://www.janwalter.org/Download/PDF/cv_short.pdf)
 
+* __Software__ (Windows .msi installers)
+
+    - [rs_pbrt v0.9.6](https://www.janwalter.org/Download/exe/rs_pbrt-0.9.6-x86_64.msi)
+
+    - [blend_info v0.2.7](https://www.janwalter.org/Download/exe/blend_info-0.2.7-x86_64.msi)
+
 * __Slides__
 
     - [FMX](http://fmx.de) __2014__: [fmx\_2014\_slides.pdf](https://www.janwalter.org/Download/PDF/fmx_2014_slides.pdf)
@@ -82,11 +88,13 @@ Download
 
 * __Rust Documentation__
 
+    - [blend_info](https://www.janwalter.org/doc/rust/blend_info/index.html)
+
     - [partio](https://www.janwalter.org/doc/rust/partio/index.html)
 
     - [path](https://www.janwalter.org/doc/rust/path/index.html)
 
-    - [pbrt](https://www.janwalter.org/doc/rust/pbrt/index.html)
+    - [rs-pbrt](https://www.janwalter.org/doc/rust/rs_pbrt/index.html)
 
     - [splines](https://www.janwalter.org/doc/rust/splines/index.html)
 
