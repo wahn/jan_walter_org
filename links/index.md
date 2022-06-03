@@ -393,6 +393,8 @@ Links
 
         + [Hyperbole](https://www.gnu.org/software/hyperbole)
 
+    - [Helix](https://helix-editor.com)
+
     - [Kakoune](http://kakoune.org)
 
         + [walk-through](https://github.com/mawww/kakoune/blob/master/contrib/TRAMPOLINE)
