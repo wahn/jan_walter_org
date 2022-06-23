@@ -377,6 +377,8 @@ Links
 
         + [Emacs Docs](https://www.emacsdocs.org)
 
+        + [MELPA](https://melpa.org)
+
         + [Latest Emacs on Windows via Ubuntu](https://emacsredux.com/blog/2021/12/19/using-emacs-on-windows-11-with-wsl2)
 
         + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
@@ -435,9 +437,11 @@ Links
 
     - [Guile](https://www.gnu.org/software/guile)
 
-    - [Haskell](https://www.haskell.org)
-
     - [Halide](http://halide-lang.org)
+
+    - [Hare](https://harelang.org)
+
+    - [Haskell](https://www.haskell.org)
 
     - [Julia](https://julialang.org)
 
