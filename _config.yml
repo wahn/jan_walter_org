@@ -1,5 +1,5 @@
 name: JanWalter.org
-markdown: redcarpet
+markdown: kramdown
 timezone: Europe/Berlin
 encoding: UTF-8
 highlighter: rouge
