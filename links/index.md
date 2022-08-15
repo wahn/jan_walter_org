@@ -125,9 +125,12 @@ Links
 
         + [Forum](https://forum.appleseedhq.net)
 
-    - [Arnold](https://www.solidangle.com) ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
+    - [Arnold](https://arnoldrenderer.com)
+      ([paper](https://www.janwalter.org/Publications/ArnoldTog2018.pdf))
 
         + [Arnold Answers](https://answers.arnoldrenderer.com)
+
+        + [Arnold USD](https://github.com/Autodesk/arnold-usd)
 
         <!-- + [Removing Noise Workflow](https://support.solidangle.com/display/AFMUG/Removing+Noise+Workflow) -->
 
@@ -189,6 +192,8 @@ Links
     - [mental ray](https://www.nvidia.com/en-us/design-visualization/solutions/rendering/product-updates)
 
         + [imf_diff](http://docs.autodesk.com/MENTALRAY/2012/CHS/mental%20ray%203.9%20Help/files/manual/node251.html)
+
+    - [Moonray](https://openmoonray.org)
 
     - [Mitsuba 2](https://www.mitsuba-renderer.org)
 
@@ -285,6 +290,8 @@ Links
 
     - [Psychopath Renderer](https://psychopath.io/about)
 
+    - [Physically Based](https://physicallybased.info)
+
     - [SmallVCM](http://www.smallvcm.com)
 
     - [Yining Karl Li](https://www.yiningkarlli.com/index.html)
@@ -377,6 +384,8 @@ Links
 
         + [Emacs Docs](https://www.emacsdocs.org)
 
+        + [MELPA](https://melpa.org)
+
         + [Latest Emacs on Windows via Ubuntu](https://emacsredux.com/blog/2021/12/19/using-emacs-on-windows-11-with-wsl2)
 
         + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
@@ -427,6 +436,12 @@ Links
 
         + [CodeLite](https://codelite.org)
 
+        + [Microsoft Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
+
+        + [vcpkg](https://vcpkg.io/en/index.html)
+
+        + [Software Collections](https://www.softwarecollections.org/en)
+
     - [Futhark](https://futhark-lang.org/)
 
     - [GNU Octave](https://www.gnu.org/software/octave)
@@ -435,9 +450,11 @@ Links
 
     - [Guile](https://www.gnu.org/software/guile)
 
-    - [Haskell](https://www.haskell.org)
-
     - [Halide](http://halide-lang.org)
+
+    - [Hare](https://harelang.org)
+
+    - [Haskell](https://www.haskell.org)
 
     - [Julia](https://julialang.org)
 
@@ -717,6 +734,8 @@ Links
     - MacOS
 
         + [Free OS X Security Tools](https://objective-see.com/products.html)
+
+        + [Little Snitch](https://en.wikipedia.org/wiki/Little_Snitch)
 
         + [Privacy Guide](https://www.wizcase.com/blog/ultimate-privacy-guide-for-mac-users)
 
