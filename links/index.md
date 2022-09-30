@@ -364,6 +364,8 @@ Links
 
     - [darktable](https://www.darktable.org)
 
+    - [DJV](https://github.com/darbyjohnston/DJV)
+
     - [Gimp](https://www.gimp.org)
 
     - [imageoptim](https://imageoptim.com/versions.html)
@@ -385,6 +387,12 @@ Links
         + [Emacs Docs](https://www.emacsdocs.org)
 
         + [MELPA](https://melpa.org)
+
+        + [eglot](https://github.com/joaotavora/eglot)
+
+        + [tree-sitter](https://emacs-tree-sitter.github.io)
+
+        + [lsp](https://emacs-lsp.github.io)
 
         + [Latest Emacs on Windows via Ubuntu](https://emacsredux.com/blog/2021/12/19/using-emacs-on-windows-11-with-wsl2)
 
@@ -604,6 +612,8 @@ Links
     - [noyb](https://noyb.eu)
 
     - OS
+
+        + [Rocky Linux](https://rockylinux.org)
 
         + [CentOS](https://centos.org)
 
