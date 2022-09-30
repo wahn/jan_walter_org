@@ -388,6 +388,12 @@ Links
 
         + [MELPA](https://melpa.org)
 
+        + [Org mode](https://orgmode.org)
+          ([video](https://youtu.be/dljNabciEGg)) - [Organize Your
+          Life In Plain Text](http://doc.norang.ca/org-mode.html)
+
+        + [Magit](https://magit.vc)
+
         + [eglot](https://github.com/joaotavora/eglot)
 
         + [tree-sitter](https://emacs-tree-sitter.github.io)
@@ -396,17 +402,9 @@ Links
 
         + [Latest Emacs on Windows via Ubuntu](https://emacsredux.com/blog/2021/12/19/using-emacs-on-windows-11-with-wsl2)
 
-        + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
-
         + [System Crafters](https://systemcrafters.cc)
 
-        + [Org mode](https://orgmode.org)
-          ([video](https://youtu.be/dljNabciEGg)) - [Organize Your
-          Life In Plain Text](http://doc.norang.ca/org-mode.html)
-
-        + [Magit](https://magit.vc)
-
-        + [Eglot](https://github.com/joaotavora/eglot)
+        + [The Way of Emacs](https://sheer.tj/the_way_of_emacs.html)
 
         + [Hyperbole](https://www.gnu.org/software/hyperbole)
 
