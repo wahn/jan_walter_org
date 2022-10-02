@@ -386,6 +386,8 @@ Links
 
         + [Emacs Docs](https://www.emacsdocs.org)
 
+        + [Mastering Emacs](https://www.masteringemacs.org)
+
         + [MELPA](https://melpa.org)
 
         + [Org mode](https://orgmode.org)
