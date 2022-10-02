@@ -7,6 +7,8 @@ categories: jekyll rust libblendinfo
 
 # libblendinfo
 
+**[Important Update!]** - scroll the the end ...
+
 Can the **Rust** crate [blend_info][blend_info] be wrapped in a way
 that it can be used from within **C**?
 
@@ -117,7 +119,7 @@ information you need from a Blender file (using the DNA
 information). But one can not ignore the developers using C/C++ and
 centuries of library development in those languages. This is your
 chance to have a say, how the wrapper of the Rust code will look like
-and how you wish to use it. The [rs-pbrt][rs-pbrt] crate/excutable is
+and how you wish to use it. The [rs-pbrt][rs-pbrt] crate/executable is
 a full renderer written in Rust, with **Ambient Occlusion** (AO),
 **Direct Lighting** (no Global Illumination), **Whitted’s
 ray-tracing** algorithm, (Uni-directional) **Path Tracing** (Global
@@ -136,6 +138,62 @@ example usage for such a Rust integration. Once the C library is
 finished there is no reason you could not use the extracted bytes for
 other things, like an **OpenGL** or **Vulkan** based scene viewer
 etc. ...
+
+# Update
+
+In the meantime I got some feedback on
+[Reddit](https://www.reddit.com/r/rust/comments/uxm6e8/how_to_return_bytes_from_a_rust_crate_to_cc)
+and the current state is:
+
+From C (see example folder) you can ask e.g. for the bytes of a
+**Camera** struct, Rust will deal with reading the `.blend` file and
+returns a bunch of bytes (in a way that you can query the length of
+the returned vector of u8 values). The standalone `blend_info` program
+can be used to create a **C struct** in a header file:
+
+[https://git.sr.ht/~wahn/blend_info](https://git.sr.ht/~wahn/blend_info)
+
+Another **header file** (for the C bindings) can be created via the
+Rust crate **safer-ffi**:
+
+[https://crates.io/crates/safer-ffi](https://crates.io/crates/safer-ffi)
+
+Have a look at the example code (*camera.c*):
+
+```c
+#include <stdio.h>
+#include "blendinfo.h"
+#include "camera_v279.h"
+
+int main(void) {
+  char* filename = "blend/factory_v279.blend";
+  char* camera = "Camera";
+  // call Rust function
+  Vec_uint8_t bytes_read = extract_struct(filename, camera);
+  // print returned bytes information
+  printf("########################################\n");
+  printf("%d bytes received from Rust\n", bytes_read.len);
+  int i;
+  for (i = 0; i < bytes_read.len; i++) {
+    uint8_t byte_read = bytes_read.ptr[i];
+    if (byte_read) {
+      printf("bytes_read[%d] = %d\n", i, byte_read);
+    }
+  }
+  // blend_info -n Camera blend/factory_v279.blend > examples/camera_v279.h
+  // 1. replace unknown types/structs by char some_name[byte_count];
+  // 2. replace pointers by void* pointers
+  // 3. cast pointer to struct defined in header
+  struct Camera_v279* cam_v279 = (struct Camera_v279*) bytes_read.ptr;
+  // print some float values from Camera struct (for Blender v2.79)
+  printf("########################################\n");
+  printf("Camera.clipsta = %f\n", cam_v279->clipsta);
+  printf("Camera.clipend = %f\n", cam_v279->clipend);
+  printf("Camera.lens = %f\n", cam_v279->lens);
+}
+```
+
+Happy to discuss the next steps in case anybody is interested ...
 
 To contact me or discuss things please use the
 [mailing-lists][mailing-lists]. You might have to learn how to use
