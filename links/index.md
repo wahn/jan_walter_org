@@ -536,6 +536,10 @@ Links
 
         + [The Wolfram Physics Project](https://www.wolframphysics.org)
 
+    - [Zig](https://ziglang.org)
+
+        + [Forum](https://ziggit.dev)
+
 * __Make__
 
     - [CMake](https://cmake.org)
