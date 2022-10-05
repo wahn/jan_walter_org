@@ -20,6 +20,8 @@ Links
 
         + [Hugo](https://gohugo.io)
 
+        + [Metalsmith](https://metalsmith.io)
+
         + [Zola](https://www.getzola.org)
 
     <!-- - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) -->
@@ -377,6 +379,10 @@ Links
     - [RawTherapee](https://www.rawtherapee.com/)
 
 * __Programming__ ([DevDocs](https://devdocs.io))
+
+    - [Homebrew](https://brew.sh)
+
+        + [Cheatsheet](https://devhints.io/homebrew)
 
     - Debugging
 
