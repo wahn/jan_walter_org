@@ -800,7 +800,7 @@ Links
     - [Heise](https://www.heise.de) - German
 
     - [Kuketz IT-Security Blog](https://www.kuketz-blog.de) - German -
-      [searX](https://www.kuketz-suche.de)
+      [forum](https://www.kuketz-forum.de)
 
     - [BBC](http://www.bbc.co.uk/news)
 
