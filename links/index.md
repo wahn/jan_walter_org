@@ -148,6 +148,8 @@ Links
 
         + [Oblique FX](https://github.com/madesjardins/Obq_Shaders)
 
+    - [Aurora](https://github.com/Autodesk/Aurora)
+
     - [Bella](https://bellarender.com)
 
     - [Cycles](https://www.cycles-renderer.org)
@@ -197,9 +199,11 @@ Links
 
     - [Moonray](https://openmoonray.org)
 
-    - [Mitsuba 2](https://www.mitsuba-renderer.org)
+    - [Mitsuba 3](https://www.mitsuba-renderer.org)
 
-        + [source code](https://github.com/mitsuba-renderer/mitsuba2)
+        + [Mitsuba 2 source code](https://github.com/mitsuba-renderer/mitsuba2)
+
+        + [Mitsuba 3 source code](https://github.com/mitsuba-renderer/mitsuba3)
 
         + [Realistic Graphics
           Lab](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2)
@@ -418,6 +422,8 @@ Links
 
     - [Helix](https://helix-editor.com)
 
+        + [Keymap](https://docs.helix-editor.com/keymap.html)
+
     - [Kakoune](http://kakoune.org)
 
         + [walk-through](https://github.com/mawww/kakoune/blob/master/contrib/TRAMPOLINE)
@@ -583,6 +589,8 @@ Links
         + [API](https://graphics.pixar.com/usd/docs/api/index.html)
 
         + [Hydra renderer plugin](https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html)
+
+        + [USD Manager](http://www.usdmanager.org)
 
     - [Qt](https://doc.qt.io)
 
