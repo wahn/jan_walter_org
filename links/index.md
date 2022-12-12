@@ -586,6 +586,8 @@ Links
 
     - [OpenUSD](http://openusd.org)
 
+        + [Book of USD](https://remedy-entertainment.github.io/USDBook)
+
         + [API](https://graphics.pixar.com/usd/docs/api/index.html)
 
         + [Hydra renderer plugin](https://graphics.pixar.com/usd/docs/api/hd_embree_page_front.html)
