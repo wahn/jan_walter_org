@@ -392,6 +392,10 @@ Links
 
         + [gdbgui](https://www.gdbgui.com)
 
+        + [Glamorous Toolkit](https://gtoolkit.com)
+
+        + [JupyterLab](https://jupyter.org)
+
     - [Emacs](https://www.gnu.org/software/emacs)
 
         + [Emacs Docs](https://www.emacsdocs.org)
@@ -835,6 +839,8 @@ Links
     - [Solarized](http://ethanschoonover.com/solarized)
 
     - [Skat-Palast](https://www.skat-palast.de)
+
+    - [Schafkopf](https://www.sauspiel.de)
 
     - [TIPP10](https://www.tipp10.com/en)
 
