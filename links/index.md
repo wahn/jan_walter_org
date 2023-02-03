@@ -354,6 +354,14 @@ Links
 
     - [KitBash 3D](https://kitbash3d.com)
 
+* __Shading/Materials__
+
+    - [OpenShadingLanguage](http://openshadinglanguage.org)
+
+    - [MaterialX](https://materialx.org)
+
+    - [Material Definition Language](https://www.nvidia.com/mdl)
+
 * __Textures__
 
     - [cc0textures.com](http://www.cc0textures.com/home)
@@ -391,6 +399,10 @@ Links
     - Debugging
 
         + [gdbgui](https://www.gdbgui.com)
+
+        + [Glamorous Toolkit](https://gtoolkit.com)
+
+        + [JupyterLab](https://jupyter.org)
 
     - [Emacs](https://www.gnu.org/software/emacs)
 
@@ -484,9 +496,11 @@ Links
 
         + [Cheatsheet](https://gto76.github.io/python-cheatsheet)
 
-        + [DreamPie](http://www.dreampie.org/index.html)
+        <!-- + [DreamPie](http://www.dreampie.org/index.html) -->
 
         + [Pyston](https://www.pyston.org)
+
+        + [Ruff](https://github.com/charliermarsh/ruff) (Python linter)
 
     - [Racket](https://racket-lang.org)
 
@@ -511,6 +525,8 @@ Links
         + [Rust Blog](https://blog.rust-lang.org/index.html)
 
         + [Inside Rust Blog](https://blog.rust-lang.org/inside-rust)
+
+        + [This Week in Rust](https://this-week-in-rust.org)
 
         + [The RustSec Advisory Database](https://rustsec.org)
 
@@ -835,6 +851,8 @@ Links
     - [Solarized](http://ethanschoonover.com/solarized)
 
     - [Skat-Palast](https://www.skat-palast.de)
+
+    - [Schafkopf](https://www.sauspiel.de)
 
     - [TIPP10](https://www.tipp10.com/en)
 
