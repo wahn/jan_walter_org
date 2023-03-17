@@ -446,9 +446,11 @@ Links
 
         + [demystified](https://media.ccc.de/v/33c3-8095-radare_demystified#video&t=671)
 
-    - [Vim](https://vim.sourceforge.io)
+    - [Vim](https://www.vim.org)
 
         + [Vim Cheat Sheet](https://vim.rtorr.com)
+
+    - [Zed](https://zed.dev)
 
     - UML
 
