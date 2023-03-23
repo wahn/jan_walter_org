@@ -440,6 +440,8 @@ Links
 
         + [walk-through](https://github.com/mawww/kakoune/blob/master/contrib/TRAMPOLINE)
 
+    - [Lapce](https://lapce.dev)
+
     - [Leo Editor](http://leoeditor.com)
 
     - [Radare](https://radare.org/r)
@@ -577,6 +579,8 @@ Links
     - [CMake](https://cmake.org)
 
     - [Ninja](https://ninja-build.org)
+
+    - [SCons](https://scons.org)
 
 * __Libraries__ ([Academy Software Foundation](https://www.aswf.io))
 
