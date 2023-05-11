@@ -103,7 +103,7 @@ Links
 
     - [Version Control](https://en.wikipedia.org/wiki/Version_control)
 
-        + [git](https://git-scm.com)
+        + [git](https://git-scm.com) ([ungit](https://github.com/FredrikNoren/ungit))
 
         + [Darcs](http://darcs.net)
 
@@ -499,6 +499,8 @@ Links
     - [Python](https://www.python.org)
 
         + [Cheatsheet](https://gto76.github.io/python-cheatsheet)
+
+        + [The Python Package Index](https://pypi.org) (PyPI)
 
         <!-- + [DreamPie](http://www.dreampie.org/index.html) -->
 
