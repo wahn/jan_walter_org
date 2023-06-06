@@ -510,7 +510,7 @@ Links
 
     - [Racket](https://racket-lang.org)
 
-    - [Rust](https://www.rust-lang.org)
+    - [Rust](https://www.rust-lang.org) (or [Crab](https://crablang.org))
 
         + [Foundation](https://foundation.rust-lang.org)
 
@@ -545,6 +545,8 @@ Links
         + [navi](https://github.com/denisidoro/navi)
 
         + [ripgrep (rg)](https://github.com/BurntSushi/ripgrep)
+
+        + [sniffnet](https://www.sniffnet.net)
 
         <!-- + [Podcast](http://www.newrustacean.com) -->
 
