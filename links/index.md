@@ -620,10 +620,6 @@ Links
 
         + [USD Manager](http://www.usdmanager.org)
 
-    - [Qt](https://doc.qt.io)
-
-        + [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
-
     - Rust crates
 
         + [ash](https://crates.io/crates/ash)
@@ -645,7 +641,17 @@ Links
 
         + [Vulkan High Level Framework](https://github.com/nvpro-pipeline/VkHLF)
 
+* __Cross platform__
+
+    - [Neutralinojs](https://neutralino.js.org)
+
+    - [Qt](https://doc.qt.io)
+
+        + [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
+
 * __Privacy__ ([Privacy-Handbuch](https://www.privacy-handbuch.de/index.htm) - German)
+
+    - [AmIUnique](https://amiunique.org/fp)
 
     - [Free Software Foundation](https://www.fsf.org)
 
@@ -656,6 +662,8 @@ Links
     - [InfoSec Handbook](https://infosec-handbook.eu)
 
     - [noyb](https://noyb.eu)
+
+    - [Mullvad](https://mullvad.net/en)
 
     - OS
 
