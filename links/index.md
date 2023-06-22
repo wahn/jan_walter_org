@@ -266,6 +266,8 @@ Links
 
 * __Real-Time Rendering__
 
+    - [hdRstr](https://stkrake.net/index.html)
+
     - [Real-Time Rendering Resources](http://www.realtimerendering.com)
 
     - [Shader-Based Software Renderer](https://zauonlok.github.io/renderer)
