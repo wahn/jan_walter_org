@@ -12,9 +12,9 @@ Download
 
 * __Software__ (Windows .msi installers)
 
-    - [rs_pbrt v0.9.6](https://www.janwalter.org/Download/exe/rs_pbrt-0.9.6-x86_64.msi)
+    - [rs_pbrt v0.9.9](https://www.janwalter.org/Download/exe/rs_pbrt-0.9.9-x86_64.msi)
 
-    - [blend_info v0.2.7](https://www.janwalter.org/Download/exe/blend_info-0.2.7-x86_64.msi)
+    - [blend_info v0.2.9](https://www.janwalter.org/Download/exe/blend_info-0.2.9-x86_64.msi)
 
 * __Slides__
 
@@ -85,6 +85,10 @@ Download
     <!-- - [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/details) -->
 
     - [Vim for humans](https://vimebook.com/en)
+
+* __Non-Free Books__
+
+    - [The Linux Programming Interface](https://man7.org/tlpi)
 
 * __Rust Documentation__
 
