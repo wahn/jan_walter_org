@@ -3,7 +3,7 @@ layout: default
 title: R&amp;D
 ---
 
-R&amp;D
+R&amp;D ([Blog](https://www.janwalter.org/rnd/blog))
 =======
 
 * Programming languages (**lang**)
